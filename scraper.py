@@ -21,7 +21,13 @@ for filing in data:
 	
 	new_url = json.loads(requests.get(doc_url).text)["temporary_url"]
 	
-	os.system('curl "{}" --output {}'.format(new_url, filer_id))
+	try:
+		file_ext = doc_id[doc_id.rindex('.'):]
+	except:
+		file_ext = ""
+	
+	os.system('curl "{}" --output {}'.format(new_url, filer_id+file_ext))
+	
 
 
 
