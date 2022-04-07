@@ -5,6 +5,7 @@ openai.api_key = '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'
 print('Enter a question:')
 input = input()
 
+
 response = openai.Completion.create(
   engine="text-davinci-002",
   prompt=input,
