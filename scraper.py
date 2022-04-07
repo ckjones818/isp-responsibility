@@ -1,11 +1,11 @@
 import requests
 import json
-import urllib.request
+from decouple import config
 import os
 
 new_prefix = "https://ecfsapi.fcc.gov/filings/file"
 
-api_url = "https://publicapi.fcc.gov/ecfs/filings?api_key=t7IfiKsQgvRs0RSkhGyEKwvo2nHOFVclg9xHY5xa&q=(submissiontype.description:(%22COMPLIANCE%20FILING%22)+AND+proceedings.name:(%2218-142*%22))&limit=100"
+api_url = "https://publicapi.fcc.gov/ecfs/filings?api_key={}&q=(submissiontype.description:(%22COMPLIANCE%20FILING%22)+AND+proceedings.name:(%2218-142*%22))&limit=100".format(config['ECFS'])
 
 get_data = requests.get(api_url).text
 data = json.loads(get_data)["filing"]
