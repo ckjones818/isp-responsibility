@@ -1,0 +1,389 @@
+INTERNET ACCEPTABLE USE POLICY 
+
+ 
+
+GENERAL INFORMATION 
+laser image, inc. (hereafter referred to as yourlinc wireless) is committed to 
+providing high-quality wireless Internet service for its customers. yourlinc wireless 
+is also committed to being a responsible member of the Internet Community. 
+Therefore, yourlinc wireless holds both itself and its customers to a high standard 
+of accountability as set forth in this Acceptable Use Policy. yourlinc wireless’s 
+Acceptable Use Policy outlines acceptable use of the yourlinc wireless Internet 
+service as well as permissible and prohibited conduct for using the Service to 
+access the Internet.  
+yourlinc wireless reserves the right to modify this Policy at any time.  
+ 
+As a Service customer, it is your responsibility to secure your computer equipment 
+so that it is not subject to external threats such as viruses, spam, and other 
+methods of intrusion. Failure to comply with these or any other yourlinc wireless 
+policies could result in the termination of your Service. yourlinc wireless reserves 
+the right to immediately terminate the Service if you engage in any of the 
+prohibited activities listed in this AUP or if you use the yourlinc wireless Equipment 
+or Service in a way which is contrary to any yourlinc wireless policies.  
+
+ 
+
+PROHIBITED USES AND ACTIVITIES  
+
+By contracting for services from yourlinc wireless, customers agree to refrain from 
+using the Service, Customer Equipment or yourlinc wireless Equipment for any 
+prohibited use and/or activity. Prohibited uses and activities include, but are not 
+limited to, using the Service, Customer Equipment, or yourlinc wireless Equipment 
+to:  
+
+i. undertake or accomplish any unlawful purpose or in a manner that 
+
+violates any local, state, federal, or international law, order or 
+regulation. This includes, but is not limited to, posting, storing, 
+transmitting or disseminating information, data or material which is 
+libelous, obscene, illegal, threatening, defamatory, excessively violent, 
+invasive of privacy, or which infringes the intellectual property rights of 
+any person or entity, or which in any way constitutes or encourages 
+conduct that would constitute a criminal offense, give rise to civil 
+liability, or otherwise violate any local, state, federal or international 
+law, order or regulation;  
+
+ii. upload, download, post, store, send, transmit, distribute, publish, or 
+
+disseminate any information, data, image, text or other material 
+which a reasonable person could deem to be objectionable, 
+offensive, abusive, inflammatory, indecent, pornographic, harassing, 
+threatening, embarrassing, distressing, vulgar, hateful, racially or 
+
+ethnically offensive, or otherwise inappropriate, regardless of whether 
+this material or its dissemination is unlawful;  
+
+iii. upload, post, publish, transmit, reproduce, create derivative works of, 
+
+or distribute in any way information, software or other material 
+obtained through the service or otherwise that is protected by 
+copyright or other proprietary right, without obtaining permission of 
+the owner;  
+
+iv. collect, or attempt to collect, personal information, e-mail addresses, 
+
+screen names, or other identifiers of third parties without their consent;  
+
+v. access any other person's or entity’s computer or computer system, 
+
+software, or data without their knowledge and consent; breach the 
+security of another user; or attempt to circumvent the user 
+authentication or security of any host, network, or account;  
+
+vi. use or distribute tools designed or used for compromising security, 
+
+including but not limited to password guessing programs, decoders, 
+password gatherers, unauthorized keystroke loggers, analyzers, 
+cracking tools, packet sniffers, encryption circumvention devices, or 
+trojan horse programs. network probing or port scanning tools are only 
+permitted when used in conjunction with the user’s private network, or 
+if explicitly authorized by the destination host and/or network. 
+Unauthorized port scanning, for any reason, is strictly prohibited;  
+
+vii. distribute programs that remove locks or time-outs built into software 
+
+(cracks);  
+
+viii. transmit unsolicited bulk or commercial messages or "spam” or collect 
+
+responses from unsolicited e-mail. This includes, but is not limited to, 
+unsolicited advertising, promotional materials or other solicitation 
+material, bulk mailing of commercial advertising, chain mail, 
+informational announcements, charity requests, and petitions for 
+signatures;  
+
+ix. send numerous copies of the same or substantially similar messages, 
+
+empty messages, or messages which contain no substantive content, 
+or send very large messages or files to a recipient that disrupts a 
+server, account, newsgroup, or chat service;  
+
+x. restrict, inhibit, or otherwise interfere with the ability of any other person, 
+
+regardless of intent, purpose or knowledge, to use or enjoy the 
+service, including, without limitation, posting or transmitting any 
+information or software which contains a worm, virus, or other harmful 
+feature, or generating levels of traffic sufficient to impede others 
+ability to send or retrieve information;  
+
+xi. restrict, inhibit, interfere with, or otherwise disrupt or cause a 
+performance degradation, regardless of intent, purpose or 
+knowledge, to the Service of any yourlinc wireless (or yourlinc wireless 
+supplier) host, server, backbone network, node or service, or otherwise 
+
+cause a performance degradation to any yourlinc wireless (or 
+yourlinc wireless supplier) facilities used to deliver the Service;  
+
+xii. resell or otherwise make the Service available for use by non- 
+
+customers (i.e. wi-fi, or other methods of networking), in whole or in 
+part, directly or indirectly, or on a bundled or unbundled basis, unless 
+such use is specifically agreed to in writing by yourlinc wireless. 
+Customer agrees not to use the Service for operation as an Internet 
+service provider or as an end-point on a non-yourlinc wireless local 
+area network or wide area network, unless such use is specifically 
+agreed to in writing by yourlinc wireless;  
+
+xiii. connect multiple computers in order to set up a LAN (Local Area 
+
+Network) that in any manner would result in a violation of the terms of 
+this Policy or an applicable Service plan;  
+
+xiv. run programs, equipment, or servers that provide network content or 
+
+any other services to anyone outside of your personal LAN (Local Area 
+Network), also commonly referred to as public services or servers. 
+Examples of prohibited services and servers include, but are not 
+limited to, e-mail, Web hosting, file sharing, and proxy services and 
+servers, unless such use is specifically agreed to in writing by yourlinc 
+wireless;  
+
+xv. service, alter, modify, or tamper with the yourlinc wireless Equipment 
+
+or Service or permit any other person to do the same who is not 
+authorized by yourlinc wireless;  
+
+xvi. interfere with computer networking or telecommunications service to 
+
+any user, host or network, including, without limitation, denial of 
+service attacks, flooding of a network, overloading a service, 
+improper seizing and abuse of operator privileges and attempts to 
+"crash" a host; and  
+
+xvii. violate the rules, regulations, or policies applicable to any network, 
+
+server, computer database, or Web site that you access.  
+
+ 
+
+SECURITY  
+
+You are responsible for any misuse of the Service, even if the misuse was 
+committed by a friend, family member, or guest with access to your Service 
+account. Therefore, you must take steps to ensure that others do not use your 
+account to gain unauthorized access to your Service account. In all cases, you 
+are solely responsible for the security of any device you choose to connect to 
+the Service, including any data stored or shared on that device.  
+
+ 
+
+INAPPROPRIATE CONTENT AND TRANSMISSIONS  
+
+yourlinc wireless reserves the right, but is not obligated, to refuse to transmit or 
+post and to remove or block any information or materials, in whole or in part, 
+that it, in its sole discretion, deems to be offensive, indecent, or otherwise 
+inappropriate, regardless of whether this material or its dissemination is unlawful. 
+Neither yourlinc wireless nor any of its affiliates, suppliers, or agents have any 
+obligation to monitor transmissions or postings (including, but not limited to, e-
+mail, newsgroup, or instant message transmissions or postings on personal or 
+individual websites) made on the Service. However, yourlinc wireless and its 
+affiliates, suppliers, and agents have the right to monitor these transmissions and 
+postings from time to time for violations of this Policy and to disclose, block, or 
+remove them in accordance with the Subscriber Agreement and any other 
+applicable agreements and policies.  
+
+ 
+
+ILLEGAL USE 
+
+The yourlinc wireless Network may be used only for lawful purposes. Transmission, 
+distribution or storage of any material in violation of any applicable law, policy, 
+rule, or regulation is prohibited. This includes, without limitation, material 
+protected by copyright, trademark, trade secret or other intellectual property 
+right used without proper authorization, and material that is obscene, 
+pornographic, defamatory, constitutes an illegal threat, or violates export control 
+laws. yourlinc wireless has the right, in its sole discretion, to take such action as 
+necessary, including but not limited to: blocking or suspension or termination of 
+the customer's services, relative to any material that in yourlinc wireless's sole 
+judgment violates this Policy. yourlinc wireless is not responsible nor will yourlinc 
+wireless be liable for the removal of, failure or delay in removing any such 
+material.  
+ 
+
+ELECTRONIC MAIL  
+
+As stated above, the Service may not be used to send unsolicited bulk or 
+commercial messages and may not be used to collect responses from 
+unsolicited e-mail sent from accounts on other Internet hosts or e-mail services 
+that violate this Policy or the acceptable use policy of any other Internet service 
+provider. Moreover, unsolicited e-mail may not direct the recipient to any Web 
+site or other resource that uses the Service. Activities that have the effect of 
+facilitating unsolicited commercial e-mail or unsolicited bulk e-mail, whether or 
+not the e-mail is commercial in nature, are prohibited. Forging, altering, or 
+removing electronic mail headers is prohibited. You may not reference yourlinc 
+wireless or the yourlinc wireless network (e.g. by including "Organization: yourlinc 
+wireless" in the header or by using an IP address that belongs to yourlinc wireless 
+or the yourlinc wireless network) in any unsolicited e-mail even if that e-mail is 
+not sent through the yourlinc wireless network or Service.  
+
+yourlinc wireless is not responsible for deleting or forwarding any e-mail sent to 
+the wrong e-mail address by you or by someone else trying to send e-mail to 
+
+you. yourlinc wireless is also not responsible for forwarding e-mail sent to any 
+account that has been suspended or terminated. This e-mail will be returned to 
+the sender, ignored, deleted, or stored temporarily at yourlinc wireless's sole 
+discretion. In the event that yourlinc wireless believes in its sole discretion that 
+any subscriber name, account name, or e-mail address (collectively, an 
+"identifier") on the Service may be used for, or is being used for, any misleading, 
+fraudulent, or other improper or illegal purpose, yourlinc wireless (i) reserves the 
+right to block access to and prevent the use of any such identifier and (ii) may at 
+any time require any customer to change his or her identifier. In addition, 
+yourlinc wireless may at any time reserve any identifiers on the Service for 
+yourlinc wireless’s own purposes.  
+
+ 
+
+INSTANT MESSAGES AND VIDEO MESSAGES  
+
+Users alone are responsible for the contents of their instant messages and video 
+messages and the consequences of any such messages. Yourlinc wireless 
+assumes no responsibility for the timeliness, mis-delivery, deletion or failure to store 
+instant messages or video messages.  
+
+ 
+
+THIRD PARTY RULES; USENET; NEWSGROUPS  
+
+Through use of the yourlinc wireless services, users may access search engines, 
+subscription Web services, chat areas, bulletin boards, newsgroups, Web pages, 
+USENET, or other services that promulgate rules, guidelines or agreements to 
+govern their use. Users must adhere to any such rules regulations, guidelines, or 
+agreements.  
+
+ 
+
+NETWORK, BANDWIDTH, DATA STORAGE AND OTHER LIMITATIONS  
+
+Yourlinc wireless may provide versions of the Service with different speeds and 
+bandwidth usage limitations, among other characteristics, subject to applicable 
+Service plans. You shall ensure that your use of the Service does not restrict, 
+inhibit, interfere with, or degrade any other user's use of the Service, nor 
+represent (in the sole judgment of yourlinc wireless) an overly large burden on 
+the network. The continuous uploading and/or downloading of information is 
+prohibited. In addition, you shall ensure that your use of the Service does not 
+restrict, inhibit, interfere with, disrupt, degrade, or impede yourlinc wireless’s 
+ability to deliver and provide the Service and monitor the Service, backbone, 
+network nodes, and/or other network services.  
+
+You further agree to comply with all yourlinc wireless network, bandwidth, and 
+data storage and usage limitations. You shall ensure that your bandwidth 
+consumption using the Service does not exceed the limitations that are now in 
+effect or may be established in the future. If your use of the Service results in the 
+consumption of bandwidth in excess of the applicable limitations, that is a 
+
+violation of this Policy. In such cases, yourlinc wireless may, in its sole discretion, 
+terminate your Service account or request that you subscribe to a version of the 
+Service with higher bandwidth usage limitations if you wish to continue to use the 
+Service at higher bandwidth consumption levels. In addition, you may only 
+access and use the Service with a dynamic Internet Protocol ("IP") address that 
+adheres to the dynamic host configuration protocol ("DHCP"). You may not 
+configure the Service or any related equipment to access or use a static IP 
+address or use any protocol other than DHCP unless you are subject to a Service 
+plan that expressly permits otherwise.  
+
+ 
+
+COPYRIGHT INFRINGEMENT  
+
+yourlinc wireless is committed to complying with U.S. copyright and related laws, 
+and requires all customers and users of the Service to comply with these laws. 
+Accordingly, as noted above, you may not store any material or content on, or 
+disseminate any material or content over, the Service (or any part of the Service) 
+in any manner that constitutes an infringement of third party intellectual property 
+rights, including rights granted by U.S. copyright law. 
+
+ 
+
+VIOLATION OF ACCEPTABLE USE POLICY  
+
+yourlinc wireless does not routinely monitor the activity of Service accounts for 
+violation of this AUP. However, in our efforts to promote good citizenship within 
+the Internet community, we will respond appropriately if we become aware of 
+inappropriate use of our Service. Although yourlinc wireless has no obligation to 
+monitor the Service and/or the network, yourlinc wireless and its suppliers reserve 
+the right at any time to monitor bandwidth, hours and types of usage, upload 
+and download performance, transmissions, and content from time to time in 
+order to operate the Service; to identify violations of this Policy; and/or to protect 
+the network, the Service and yourlinc wireless users. yourlinc wireless prefers to 
+advise customers of inappropriate behavior before taking remedial action. 
+However, if the Service is used in a way that yourlinc wireless or its suppliers, in 
+their sole discretion, believe violate this AUP, yourlinc wireless and/or its suppliers 
+may take any responsive actions they deem appropriate. These actions include, 
+but are not limited to, temporary or permanent removal of content, cancellation 
+of newsgroup posts, filtering of Internet transmissions, and the immediate 
+termination of all or any portion of the Service. Neither yourlinc wireless, nor its 
+affiliates, suppliers, or agents will have any yourlinc wireless’s exclusive remedies 
+and yourlinc wireless may take any other legal or technical action it deems 
+appropriate. yourlinc wireless reserves the right to investigate suspected 
+violations of this AUP, including the gathering of information from the user or users 
+involved and the complaining party, if any, and examination of material on 
+yourlinc wireless’s servers and network. During an investigation, yourlinc wireless 
+may suspend the account or accounts involved and/or remove or block 
+
+material that potentially violates this Policy. You expressly authorize yourlinc 
+wireless and its suppliers to cooperate with (i) law enforcement authorities in the 
+investigation of suspected legal violations, and (ii) system administrators at other 
+Internet service providers or other network or computing facilities in order to 
+enforce this Policy. This cooperation may include yourlinc wireless providing 
+available personally identifiable information about you to law enforcement or 
+system administrators, including, but not limited to, username, subscriber name, 
+and other account information. Upon termination of your account, yourlinc 
+wireless is authorized to delete any files, programs, data and e-mail messages 
+associated with your account.  
+
+INDEMNIFICATION 
+
+You agree to indemnify, defend and hold harmless yourlinc wireless from and 
+against all claims, liabilities, losses, expenses, damages and costs (including 
+reasonable attorneys' fees) that arise from: (1) any violation of this Policy and 
+Agreement by you; (2) any violation of any rights of a third party by you; (3) any 
+violation of applicable law; (4) information or content that you submit, post, 
+transmit or make available through our Service; or (5) your use of our Service. 
+ 
+
+MISCELLANEOUS 
+Any failure to insist upon or enforce performance of any provision in this Policy 
+and Agreement will not be construed as a waiver of any provision or right. 
+Neither the course of conduct between the parties nor trade practice will act to 
+modify any provision in this Policy and Agreement. yourlinc wireless may assign 
+its rights and duties under these terms to any party at any time without notice to 
+you. If any provision of this Agreement is deemed unlawful, void, or for any 
+reason unenforceable, then that provision will be deemed severable from these 
+terms and conditions so that it does not affect the validity and enforceability of 
+any remaining provisions. 
+ 
+ 
+ 
+ 
+yourlinc wireless 
+A Division of: 
+laser image, inc. 
+1217 Baldy Mountain Rd. 
+Unit 101B 
+Sandpoint, ID 83864 
+ 
+ 
+ 
+ 
+
+06-13-2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

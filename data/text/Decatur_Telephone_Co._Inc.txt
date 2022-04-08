@@ -1,0 +1,301 @@
+ 
+
+DECATUR TELEPHONE CO., INC. 
+
+ 
+
+Network TRANSPARENCY statement 
+
+ 
+
+Decatur Telephone Co., Inc. (“Decatur” or “Company”) provides this Network Transparency 
+Statement in accordance with the FCC’s Restore Internet Freedom Rules to ensure that you 
+have sufficient information to make informed choices about the purchase of broadband 
+services.   
+ 
+Decatur engages in network management practices that are tailored and appropriate for 
+achieving optimization on the network considering the particular network architecture and 
+technology of its broadband Internet access service.  Decatur’s goal is to ensure that all of its 
+customers experience a safe and secure broadband Internet environment that is fast, reliable 
+and affordable.  Decatur wants its customers to indulge in all that the Internet has to offer, 
+whether it is social networking, streaming videos and music, to communicating through email 
+and videoconferencing.   
+ 
+Decatur’s network management includes congestion- and security-protocol-management and 
+customers generally will not be impacted by the protocols and practices that Decatur uses to 
+manage its network.   
+ 
+
+A.  Decatur’s Network Transparency Disclosures 
+
+ 
+Decatur uses various tools and industry standard techniques to manage its network and deliver 
+fast, secure and reliable Internet service.  Decatur believes in full transparency and provides the 
+following disclosures about its network management practices:  
+ 
+ 
+
+1.  Blocking: Decatur does not block or discriminate against lawful content.   
+
+ 
+
+2.  Throttling: Decatur does not throttle, impair or degrade lawful Internet traffic. 
+ 
+3.  Affiliated Prioritization: Decatur does not prioritize Internet traffic and has no plans to 
+
+do so. 
+
+ 
+
+ 
+
+4.  Paid Prioritization: Decatur has never engaged in paid prioritization.  We don’t prioritize 
+
+Internet for consideration to benefit particular content, applications, services or devices. 
+Decatur does not have plans to enter into paid prioritization deals to create fast lanes.  
+
+5.  Congestion Management: Decatur monitors the connections on its network in the 
+aggregate on a continuous basis to determine the rate of utilization.  If congestion 
+emerges on the network, Decatur will take the appropriate measures to relieve 
+congestion.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+On Decatur’s network, all customers have access to all legal services, applications 
+and content online and, in the event of congestion, most Internet activities will be 
+unaffected.  Some customers, however, may experience longer download or upload 
+times, or slower surf speeds on the web if instances of congestion do occur on 
+Decatur’s network.   
+
+Customers using conduct that abuses or threatens the Decatur network or which 
+violates the company’s Acceptable Use Policy, Internet service Terms and 
+Conditions, or the Internet Service Agreement will be asked to stop any such use 
+immediately.  A failure to respond or to cease any such conduct could result in 
+service suspension or termination.   
+
+Decatur’s network and congestion management practices are ‘application-agnostic’, 
+based on current network conditions, and are not implemented on the basis of 
+customers’ online activities, protocols or applications. Decatur’s network 
+management practices do not relate to any particular customer’s aggregate monthly 
+data usage.  
+ 
+Decatur monitors its network on a continuous basis to determine utilization on its 
+network.  Decatur also checks for abnormal traffic flows, network security breaches, 
+malware, loss, and damage to the network. If a breach is detected or high-volume 
+users are brought to light by complaint, Decatur provides notification to the 
+customer via email or phone.  If a violation of Decatur’s policies has occurred and 
+such violation is not remedied, Decatur will seek to suspend or terminate that 
+customer’s service.   
+ 
+ 
+
+6. Application-Specific Behavior: Except as may be provided elsewhere herein, Decatur 
+
+does not currently engage in any application-specific behaviors on its network.  
+Customers may use any lawful applications with Decatur.  
+
+ 
+
+7. Device Attachment Rules: Customers must use PPPoE for authentication of point to 
+
+point connections between devices on the network.  There is a limit of one (1) PPPoE 
+session per account.  For best results, DSL modems, wireless modems, or other 
+proprietary network gateways used on the Decatur broadband network should be 
+provided by Decatur. Customers may attach devices of their choosing to their 
+modems, including wired or wireless routers, laptops, desktop computers, video 
+game systems, televisions, or other network-enabled electronics equipment. 
+However, customers are responsible for ensuring that their equipment does not 
+harm Decatur’s network or impair the service of other customers. Decatur is not 
+responsible for the functionality or compatibility of any equipment provided by its 
+customers. Customers are responsible for securing their own equipment to prevent 
+unauthorized access to Decatur’s broadband network by third parties and will be 
+
+ 
+
+held responsible for the actions of such third parties who gain unauthorized access 
+through unsecured customer equipment. 
+
+ 
+
+8. Network Security: Decatur knows the importance of securing its network and 
+customers from network threats and annoyances.  The company promotes the 
+security of its network and patrons by protections from such threats as spam, 
+viruses, firewall issues, and phishing schemes.  Decatur also deploys spam filters in 
+order to divert spam from an online customer’s email inbox into a quarantine file 
+while allowing the customer to control which emails are identified as spam.  
+Customers may access the spam files through the email.  Spam files are 
+automatically deleted. 
+
+As its normal practice, Decatur does not block any protocols, content or traffic for 
+purposes of network management, but Decatur may block or limit such traffic as 
+spam, viruses, malware, or denial of service attacks to protect network integrity and 
+the security of our customers.   
+
+ 
+
+ 
+ 
+B. Network Performance 
+
+ 
+1.  Service Descriptions 
+ 
+
+Decatur deploys Internet access to its subscribers through hardwired broadband access (DSL or 
+Fiber).   
+ 
+
+2.  Network Performance 
+
+ 
+Decatur makes every effort to support advertised speeds and will dispatch repair technicians to 
+customer sites to perform speed tests as needed to troubleshoot and resolve speed and 
+application performance caused by Decatur’s network.  Decatur measures availability, latency, 
+and aggregate utilization on the network and strives to meet internal service level targets.   
+ 
+However, the bandwidth speed at which a particular distant website or other Internet 
+resources may be downloaded, or the speed at which your customer information may be 
+uploaded to a distant website or Internet location is affected by factors beyond Decatur’s 
+control, including the speed of the connection from a distant web server to the Internet, 
+congestion on intermediate networks, and/or limitations on your own computer equipment, 
+including a wireless router.  In addition, your service performance may be affected by the inside 
+wiring at your premise.  Accordingly, you, the customer, must consider the capabilities of your 
+own equipment when choosing a Decatur broadband service. Your computers and/or wireless 
+or other networks in your homes or offices may need an upgrade in order to take full advantage 
+of the chosen Decatur broadband plan.  
+ 
+ 
+
+ 
+
+ 
+Decatur tests each service for actual and expected access speeds at the time of network 
+installation to demonstrate that the service is capable of supporting the advertised speed.   
+Customers may request assistance by calling our business office at (601) 635-2252 or by email 
+at stephen@decaturtelephone.com. 
+ 
+ 
+ 
+Based on the network information Decatur receives from its monitoring efforts, Decatur’s 
+network is delivering data transmission rates advertised for the different high-speed Internet 
+services. To be sure, Decatur has implemented a program of testing the performance of its 
+network by using a test protocol similar to the one sanctioned by the FCC.  We installed specific 
+network performance monitoring equipment at aggregation points across our network and 
+conducted a series of tests using this equipment. Decatur reports the results of this testing 
+below. This result applies to both upload and download data rates, and applies for 
+measurements made both at peak times and over a 24-hour period: 
+ 
+DOWNLOAD & UPLOAD SPEEDS, LATENCY  
+ 
+DOWNLOAD SPEEDS 
+ 
+
+MEASURED 
+(PEAK TIMES) 
+5.8mbps 
+11.2mbps 
+19.3mbps 
+48.3mbps 
+
+MEASURED  
+(OFF-PEAK TIMES) 
+6.2mbps 
+12.1mbps 
+198mbps 
+49.8mbps 
+
+MEASURED 
+(PEAK TIMES) 
+.087mpbs 
+4.5mbps 
+9.2mbps 
+19.5mbps 
+
+MEASURED  
+(OFF-PEAK TIMES) 
+.098mbps 
+5mbps 
+10.1mbps 
+19.9bps 
+
+SPEED TIER 
+
+6 Mbps 
+12 Mbps 
+20 Mbps 
+50 Mbps 
+
+ 
+UPLOAD SPEEDS 
+ 
+
+SPEED TIER 
+
+1 Mbps 
+5 Mbps 
+10 Mbps 
+20 Mbps 
+
+ 
+LATENCY 
+ 
+
+SPEED TIER 
+
+LATENCY (PEAK 
+
+LATENCY 
+
+6/1 Mbps 
+12/5 Mbps 
+
+TIMES) 
+
+34 ms 
+9 ms 
+
+(OFF-PEAK TIMES) 
+24 ms 
+8 ms 
+
+ 
+
+8 ms 
+8 ms 
+
+20/10 Mbps 
+50/20 Mbps 
+
+9 ms 
+9 ms 
+
+ 
+ 
+
+3.   Impact of Non-BIAS Data Services 
+
+ 
+The FCC has defined Non-Broadband Internet Access Services (Non-BIAS) to include services 
+offered by broadband providers that share capacity with Broadband Internet Access Services 
+(BIAS) (previously known as “Specialized Services”) also offered by the provider over the last-
+mile facilities.  At this time, Decatur is not offering any non-BIAS data services. 
+ 
+ 
+C. Commercial Terms 
+ 
+Pricing and additional service information may be obtained upon request to Decatur Telephone 
+at 149 7th St, Decatur, MS 39327. 
+ 
+For questions, complaints or requests for additional information, please contact Decatur at:  
+ 
+Business Office at 601.635.2252  
+Email at annette@decaturtelephone.com 
+                 
+
+

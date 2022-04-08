@@ -1,0 +1,181 @@
+ 
+
+ 
+ 
+October 1, 2018 
+ 
+ 
+Kris Anne Monteith 
+Chief, Wireline Competition Bureau 
+Federal Communications Commission 
+Washington, D.C. 
+20554 
+ 
+ 
+Dear Ms. Monteith: 
+ 
+Re:   Guiness Communications Inc. – FRN: 0016349441 – Transparency Requirements 
+ 
+ 
+Further  to  your correspondence  of  August  29,  2018,  Guiness  Communications  Inc.,  dba  Eastlink  (FRN: 
+0016349441)  herein  provides  information  regarding  the  network  management  practices,  performance 
+characteristics and commercial terms of its broadband Internet access services. 
+ 
+Effective as of October 1, 2018, this is a first-time disclosure for Guiness Communications.   
+  
+
+  Network Management Practices 
+
+o  Blocking.  Any practice (other than reasonable network management elsewhere disclosed) that 
+
+blocks or otherwise prevents end user access to lawful content, applications, service, or non-
+harmful devices, including a description of what is blocked. 
+
+Eastlink only blocks certain ports on the cable modems that carry known malicious exploits which 
+would otherwise cause harm to our network and/or to consumers. 
+
+o  Throttling.  Any practice (other than reasonable network management elsewhere disclosed) that 
+degrades or impairs access to lawful Internet traffic on the basis of content, application, service, 
+user, or use of a non-harmful device, including a description of what is throttled. 
+
+N/A - Eastlink does not participate in any throttling of traffic on the cable modem network. 
+
+o  Affiliated Prioritization.  Any practice that directly or indirectly favors some traffic over other traffic, 
+including through use of techniques such as traffic shaping, prioritization, or resource reservation, 
+to benefit an affiliate, including identification of the affiliate. 
+
+N/A - Eastlink does not traffic shape, prioritize or have resource reservations in place to benefit an  
+Affiliate.  
+
+o  Paid Prioritization.  Any practice that directly or indirectly favors some traffic over other traffic, 
+
+including through use of techniques such as traffic shaping, prioritization, or resource reservation, 
+in exchange for consideration, monetary or otherwise. 
+
+N/A - Eastlink does not practice directly or indirectly in favoring some traffic over other traffic for  
+monetary purposes.  
+
+ 
+
+E regulatory.matters@corp.eastlink.ca 
+
+ 
+
+o  Congestion  Management.   Descriptions  of  congestion  management  practices,  if  any.   These 
+descriptions should include the types of traffic subject to the practices; the purposes served by the 
+practices;  the  practices’  effects  on  end  users’  experience;  criteria  used  in  practices,  such  as 
+indicators of congestion that trigger a practice, including any usage limits triggering the practice, and 
+the  typical  frequency  of  congestion;  usage  limits  and  the  consequences  of  exceeding  them;  and 
+references to engineering standards, where appropriate. 
+
+Eastlink’s  internet  service  does  not  include  usage  limits.  We  use  congestion  management 
+techniques  to  make  sure  our  customers  have the  best  possible  internet  experience  and  they  are 
+applied  to  all  traffic  on  the  network.  We  monitor  congestions  throughout  the  network,  including 
+between the internet access switches and the CMTS (cable modem termination system) as well as 
+from the CMTS to the customer. If uses reaches unacceptable thresholds we will perform necessary 
+upgrades to the system.   The effect of these practices is to improve customer experience.  
+
+o  Application-Specific Behavior.  Whether and why the ISP blocks or rate-controls specific protocols 
+
+or protocol ports, modifies protocol fields in ways not prescribed by the protocol standard, or 
+otherwise inhibits or favors certain applications or classes of applications. 
+
+N/A  –  Eastlink  does  not  engage in  blocking  or  rate-controlling,  nor  do  we inhibit  or favour  certain 
+applications or classes of application. This would require use of deep packet inspection appliances, 
+which we do not have in our network.    
+
+o  Device Attachment Rules.  Any restrictions on the types of devices and any approval procedures 
+
+for devices to connect to the network. 
+
+Eastlink  provides  our  internet  service  with  Eastlink-approved  cable  modems,  intended  to  ensure 
+proper performance of the network. As Eastlink provisions the modems, any process for approving 
+modems is an internal exercise. We do not allow cable modems to be purchased outside our system, 
+due to security and quality of service concerns.  
+
+o  Security.  Any practices used to ensure end-user security or security of the network, including 
+
+types of triggering conditions that cause a mechanism to be invoked (but excluding information that 
+could reasonably be used to circumvent network security). 
+
+Most Eastlink customers use a cable modem which we call a gateway which has built in firewall / 
+security capabilities. This prevents their devices from being directly connected to the Internet. This 
+is important because it blocks malicious traffic into the customer’s home network. Eastlink monitors 
+our network to prevent denial of service attacks on the network and if we discover such activity we 
+are able to stop it.  
+
+  Performance Characteristics 
+
+o  Service Description.  A general description of the service, including the service technology, 
+
+expected and actual access speed and latency, and the suitability of the service for real-time 
+applications. 
+
+We provide service via broadband cable modem technology to customers, with services offered at 
+speeds of 20Mbps. This technology allows the customer to access various real-time applications like 
+VoIP, gaming and live streaming of video (skype) which require low latency connectivity. We place 
+speed test servers on our site to allow a customer to verify both their expected service speeds and 
+the  latency  of  their  connection. We  also  ensure  the  network  and  customer maintains  low  latency 
+connectivity  by  regularly  executing  congestion  management  practices.  This  allows  for  latency 
+sensitive real-time applications to perform optimally.  
+
+o 
+
+Impact of Non-Broadband Internet Access Service Data Services.  If applicable, what non-
+broadband Internet access service data services, if any, are offered to end users, and whether and 
+how any non-broadband Internet access service data services may affect the last-mile capacity 
+available for, and the performance of, broadband Internet access service. 
+
+N/A 
+
+  Commercial Terms 
+
+o  Price.  For example, monthly prices, usage-based fees, and fees for early termination or additional 
+
+network services. 
+
+Residential:  
+
+20Mbps service; $63.14.  No usage based billing, no early termination or 
+additional network services. 
+
+Commercial: 
+
+$48.07/mth– Dynamic 20.  $55.59/mth for Static 20 with each IP address at 
+$15.03/mth. 
+
+o  Privacy Policies.  A complete and accurate disclosure about the ISP’s privacy practices, if any.  For 
+
+example, whether any network management practices entail inspection of network traffic, and 
+whether traffic is stored, provided to third parties, or used by the ISP for non-network management 
+purposes. 
+
+Eastlink has no network management practices that involve inspecting network traffic or providing 
+it to third parties.   
+
+o  Redress Options.  Practices for resolving complaints and questions from consumers, entrepreneurs, 
+
+and other small businesses. 
+
+Eastlink  provides  service  in the  Point  Roberts  community,  a very  small community  serving fewer 
+than  1,000  customers  (a  number  of  whom  are  seasonal).    At  Eastlink,  because  we  also  serve 
+customers  outside  the  US,  we  have  a  large  customer  care  center,  and  we  operate  a  customer-
+focused business, which ensures we are available and responsive to all customers in cases where 
+they have complaints or concerns regarding their service.  All customers in our Point Roberts system, 
+receive direct attention in response to any concerns, and we have a process to escalate complaints 
+where they are not resolved at first instance by our customer care representative.  
+
+Executed on:   October 1, 2018  
+
+ 
+
+ 
+
+ 
+
+________________________ 
+
+Natalie MacDonald 
+VP Regulatory 
+
+

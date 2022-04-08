@@ -1,0 +1,332 @@
+Federal Communications  Commission
+
+FCC  17-166
+
+59.  We also eliminate  the position  of Open Internet Ombudsperson,  the fbrmalcomplaint
+
+process.  and the issuance  of advisory opirionr, because the work of the Open  Internet  Ombudsperson  is
+*o.. uppropriately handled  by Commiision sta{1,  and bccause  the issuancc of advisory  opinions  and the
+formal  complaint  process  have not been shown to provide any benefit to broadband  Intemet  access
+service providers or consumers.
+
+60.  Finally, we rcturn mobilc  broadband  lntemct  access scrvicc to its original classification
+as a private mobile  radio sen,ice  and restore the det-rnition of interconnected  sewice that existed prior to
+the iitle II Order. This r,l,itl  relnove regulatory burdens from  providcrs  of mobilc broadband  lntcfilet
+access service,  including  small providers.
+
+G.  RePort to Congress:
+61.  The  Commission will send a copy of this Declaratory  Ruling.  Report  and Order,  and
+
+Order,  including  this FRFA.  in a report to be scnt  to Congress pursuant  to thc SBREFA'1('}s In addition'
+the Commission will scncl a copy oithis Declararory Ruling.  Report  and order,  and order.  including  the
+FRFA.  to the Chief  Counselfor  Advocacy of the SBA.  A copy of the Declaratory  Ruling,  Repofi  and
+order, and Order,  and the FRFA  (or summarics  thercof) willalso  be publishcd  in the Federal  Rcgistcr.r66
+
+r65 See 5 U.S.C.  $ 801(a)(lXA).
+t66 See id. $ 604(b).
+
+21t3
+
+Fcderal Communications  Commission
+
+FCC l7-166
+
+STATEMENT  OF
+
+CHAIRMAN AJIT PAI
+
+Re:  Restoring  Internet  Freedorn.  WC Docket  No. l7-108'
+
+The Internet is the gleatcst  frce-markct  innovation  in history. It has changcd  the way wc livc.
+
+play, work, leam, and ,p.ui. During my time  at the FCC.  I've met with entrepreneurs  who have started
+turir"rr"r,  doctors  who have hclpeJ caie for patients,  teachcrs who have cducated their  studcnts'  and
+farmers who  increased their crop  yields,  all because  of the Internet. And  the Intemet has enriched  my life
+i,lneasurably.  l1 the past few iays alone, l'vc clownloaded  interesting  podcasts about blockchain
+tcchnology,  orderecl  a tunito,  managed my playoff-bound  fantasy  lbotball tcam' and-as you may  have
+sgsl-hvss1sd.
+
+What is responsible  fbr the phenontenal  tlevelopment  of the Internet? It certainly  wasn't  heavy-
+handcd govemment rcgulation.  quitc to thc contrary: At the dau'n  of the commcrcial  Internet. President
+a RepubliJan Congreis  agreed  that it would  be the policy of the united  States "to preserve the
+Clinton 
+r..ibrant  and competitive  fiee market  that prcsentiy exists fbr thc lntcrnct . ' . unfcttered by Federal  or State
+regulation."
+
+-and 
+
+This bipartisan policy worked.  Encouragecl  by light-touch  regulation, the private-sector  invested
+
+over  $ I .5 trilliol to build oui fixed and nTobile  networks  throughout thc United  Statcs.  28.8k moderr,s
+gave  way to gigabit  fibcr connections.  Innovators  an<J entreprcneurs  grcw  startups  into global giants'
+America's  Internet  econolxy  became the envy  of the u'orld'
+
+And  this light-touch  approach was good  for consumers, too. In a fiee market  firll of
+
+permissionlcss  innovation,  onfin. scrvices blossomed.  Within  a gcneration.  wc'vc gone from email as the
+i.ill., upp to high-clefinition  video strearning.  Entrepreneurs  and innovators guided  the Internet far better
+than the clumsy hand of govcmment  evcr  could havc'
+
+But thcn, i1 early 2015,  the FCC iettisoncd  this succcssf  ul. bipartisan approach  1(). the lntemet'
+
+On express  orders fro- ihe previous Whiie House, the FCC scrapped  the tried-andtrue,  light touch
+rcgulation ot'thc lntcrnct  ani.cplaced it with hcavy-handed  r.nicromanagelncnt. It dccidcd to subject  the
+Inlrnet  to utility-stylc  regulation  designed in the 1930s to govcm  Ma Bell.
+
+This decision  was a mistake. For one thing. there was no problem to solve.  The Intemet wasn't
+brokenin20l5.  Weweren'tlivinginadigitaldystopia.  Tothecontrary,theTnternetisperhapstheone
+thing in An.rerican society  we can all agrec  has becn a stunning  succcss'
+
+Not only  was  there no problem. this "solution"  hasn't r.r'orked.  The main complaint  consumcrs
+have about the  Internet  is not  and has never been  that their Intemet service  provider  is blocking access to
+content. It's that thcy don't havc  acccss at all or cnough  compctition.  These  regulations  have  taken us in
+the opposite  direction  fiom  these  consumer  preferences. Untler Title lI, investuent in high-speed
+networks  has declincd by billions of dollars.  Notably.  thrs is thc first tirne that such investment  has
+cleclined outsicle  of a recession in the Intcrnet era. When  there's less invcstmcnt, that means  fewcr ncxt-
+generation  networks are built. That means  less competition. That means  fewer jobs for Antericans
+building  thosc networks.  And tltat means  more Amcricans arc left on the wrong  side of the digital divide'
+The impact has bccn particularly  serious tbr smaller  Internet servicc  providcrs.  Thcy  don't havc
+the time, ,ror"y, or lawyers to nar,igate a thicket  of complex rules. I have personally  visited  some  of
+them, from Spencer HAunicipat  Utilitics  in Spct-rccr. lowa to Wave  Wirelcss in Parsons' Kansas' I have
+persJnally spoken with many r-nore,  f}om  Arnplex  lntemet  in Ohio to Airlink Services in Oklahoma'  So
+it,, no r.,rprir.  that the Wireless Internet Servlce  Providers  Association, which  represents small fixed
+wireless  co,npanies  that typically  operate in rural Atncrica.  survcyed  its members  and found that  over
+g0% ..incurred  additional-e*pense in contplying  with the Title II mles,  had delayed  or reduced  netrvork
+expansion,  had delayed  or rcdr.rced seruices  anJ had allocated  budget  to comply with the rules'"  Othcr
+
+219
+
+Federal Communications  Commission
+
+FCC 17-166
+
+small  companies.  too,  have told the FCC  that these  regulations  have forced them to cancel' delay'  or
+curtail  fiber  netu,ork  upgrades.  And  nearly h"o ;or.r" rrall providers submitted a letter saying  the FCC's
+heavy-handed  rules "rifil;; 
+that are critical to provlding a filore  conrpetitive nrarketplace'
+
+,iiii,v ," n,',a.  nnun.irg."  Remember,  thcse are the kinds of companies
+
+These rules  have also irnpeded  innovation.  one major company,  fbr instance'  reported  that  it put
+
+on hold a project to build out its out-ot--home  Wi-Fi  net\\'ork cluc to unccrtainty  about the FCC's
+regulatory stance. And a coalition  of l9 municipal  lnternet lt'lit^t providers-that  is' city-owned
+nonprofits-havetoldthcFCCthatthey..oftend"luyo.holdofffrotnrollingoutancwfeatureorservicc'
+because  fthey]  cannot afford  to deal with a potcntial  complaint  and cntbrcement action"'
+
+None of this is goocl for consumers. we  neecl to. elnpower all Americans with digital oppor-tunity'
+
+And considcr  too  that  the sc are just thc effccts  these  rules have hacl on the  Internet  of today'
+
+not  deny them  the benefits ofgreater access and conlpetttlon'
+Think about horv they'11 afTect thc Internct we ncecl  ten, twcnty years  fi'om now' The  digital world bears
+no resembla.ce to a *u,". pip"  or electric line or sewer.  Use of thclse  pipes will be roughly  constant  over
+time, and very f'cw would  say that  tirerc's dramatic innclvation  in thes.aieas'  Bv contrast' o.line traffic  is
+exploding,  ancl we .onru..  .^ponentially  n orl. Autu  o'er time With the dau'n  of the Internet of Things'
+witlrthcdcvelopmentofhighbit-rateapplicationslikevirttralreality,withncwactiviticslikehigh-
+volume bitcoin  ,,irring ilru&e can't y.iirtty grasp, wc are imposing  ever morc dcmands  on the nctwork'
+Overtime,thatmeansournetworksthemselvesrvillneedtoscale'too'
+
+Buttheydotl,thaveto.Ifourrulesdeterthemassiveinfrastructureinvestmentt.hatweneed.
+
+eventually we'll pay tt'," p.i.. in tetms of le ss innovation'  Consiclcr these words fiom Bcn  Thompson'  a
+highly-respected  technology  analyst,  frotn  a post on his blog strutet'herl'  supporting rny proposal:
+The question  that  must be grappled  rvith  . . . is r,vhether or not tlre Internet is .done.,  By
+thar I mean ttrai toOuy's Uaia*iatn  is all wc fwill] nced, which  means  wc can risk chiiling
+investment  through prophylactic  regulation and the elimination  of price signals  that rnay
+spur itrfrastructurc build-out'  ' ' '
+If we are..donc,,,  then the potential hanll  ola Titlc II reclassifrcation is much lower;  surc,
+ISPs will have to do more  paperwork. but  honestly,  tlrey're just a bunch  of mean
+monopolistsanyways,riglrt?Besttogetlawsinplacetopreserver'r''hatwehave'
+But what it'we  aren't  done?  What if virtual reality with dual 8k displays  actually
+becomcs  something  meaningfirl'?  What if those  irnagined  remotc  medicine applications
+are actually deveiJped'? What if the  ltrternet  of Things lnoves  beyond  this rnessy
+experimentation phase  an<l into real-timc  valllc  generation,  not just in the home but in ail
+kintls  of unimagined commercial applications'l I cerlainly  hope we will have the
+bandwidth to suPPorl  all of thatlr
+I do too. And as Thornpsolt  put it in anothcr Stratcchcn'  post:  "Thc fact of thc mattcr is therc  is
+no evidcncc  rhat harm  cxists  in ih" ,o,t of systernatic way that justities hcavily  regulating  lSPsl the
+evidence  that does exist suggests  that  cr"rrrent  regr,rlatory  structures handle  bad actors perfectly  well' The
+
+ffible,arrdDSL:theBroaclbartdTradcoft;thcIn-rportarrccofAntih.trst'
+
+i!11!llt1ltll  (Nov.  29,  20  1 7).
+
+220
+
+Federal CommunicatioUq!  g'nrnitslon
+
+FCC 17-166
+
+onlyfuturetofearistheoneweneveldiscor,erbecause\4.egaveuponthe
+brought us so far."r
+
+Remember:networksdon'thavetobebuilt.I{isksdon'thavctobctakcn'
+
+to be raised. The costs of Title ll toclay  may  appear,  at least to somc'  to bc hidden'
+and innovators  of tonlorrow wilt pay a severe  price'
+
+*r<*
+
+approach that has alreadY
+
+Capital doesn't have
+But the consumers
+
+SowhatistheFCCdoingtoday.?Quitesirnply,wearerestorin-ethelight-touch-frameworkthat
+
+has govemed  the lntcrnet  fo. rnoJt of iti cxisten... W.i..  moving  from Title ll to Title I' Wonkier  it
+
+It'sdifficulttomatchthatmun<lanerealitytotheapocalypticrhetoricthatvu'e'veheardfromTitle
+
+cannot be.
+ll supportcrs.  And as thc debate  has gone on, thcir  claims havc gotten  more  and more  otltlandish'  So
+let's be clear.  Returning to the legal lramerrork  that  governeci  the tnternet from  President  Clinton's
+pronouncement  in 1996 until  ZO ti is not going to deJroy the Internct' It is not C"t-'9 :  ^end 
+as we know it. It is not going to kill tlemooro.-y.  ta is noi going  to stitle  frce cxpression  online ' If stating
+these propositions  alone doein't der-nonstrate their  absurdity,  our lnternet  experience  before  2015' and our
+.*p.ri"ni. tomorrow.  once this order passes'  will prove  them  so'
+Sirnply  put. by returning to the light-touc.lr  Title I frarnc-w.ork,  we alc hclping  consumers  and
+promoting  competition.  gioadb-and p.ori.l"r,  will har.e stronger  incenti'es to build,etworks,  especially
+in unsen,ed  arcas,  and to upgradc  neiworks to gigabit  specds  and 5G' This mcans thcre will be rnore
+competition  among uroadba-n<t  providers.  It also  means  more  ways that  starlups  and tech giants  alike can
+deliver applications and contcnt to more users.  In short, it's a frecr and lnore open lnternct'
+Wc also  promote much  tnore  robust  transparency  among  ISPs than existed  thrce years ago' We
+requirc ISPs  to clisclose  a variety  ofbusiness  ptottitt', and the t-ailure  to do so subjects thcm to
+enforcement  action.  This transparency  rule will ensure  that  cot.tsumers know  r'vhat they're  buying  and
+,,u*rrp, get intbrmation  thcy necd as ihey develop  ncw products  and scrviccs'
+
+the  Internet
+
+Morcover,  we empower  thc Federal Tradc  Commission to cnsure that consumers  and competition
+are protected.  Two olu., ugo.  the Title tl Order  strippecl  the FTCI of its juriscliction  over  broadband
+providers.  But today, ,". ui. putting  our nation's  prcmie' consullcr protection  cop back  on the beat'  The
+FTC will once again have tl-re authority  to take action  against Internet service  providers that  engage  in
+A, FTC Chairrnan  Matlreen Ohlhausen  reoently said'  "The
+anticompetitive,  unfair,  or deceptive  ".tr. 
+FTC's  ability to proteciconsumers  and promote  compctition  in the broadband  industry  isn't  somcthing
+newandfar.fetched.Wehavealong-establishedroleinpreservingllrevaltresthatconsunrerscareabout
+online..'  or as president  obama,s  first FTC Chairman  pit it just yesterday,  "the plan to restore FTc
+jurisiliction is goori t*.onrun].rs.  . . . [T]he  sky isn't ialling'  Consumers  will rernain  protected' and the
+Itlntemet  wilI continue to thrivc "
+Solet'sbeabsolutelyclear.Followingtoday'svote,Amcricansr'villstillbe"!l:'"acccssthc
+websites they  want t" ,*it. they will still  bc iut. ,o enjoy the scrviccs  thcy wanr  to enjoy. There  will
+Thisisthewaythingswerepriorto20l5'and
+stillbecopsonthebeatguardingafreeandoptntntt"lt' 
+this is tlrc way tllcy will bc oncc  asain'
+our dccision today wrll also  retum regulatory parity to thc lntcrnet  economy'  Somc giant Silicon
+Valley platforms  tavor imposing  heavy.-ha,ra.?  r.grioiions on.other  parts of the  Internet  ecosystem'  But
+all too often, they don't practice  what tf,"y p.""tf-I- Edgc proviclcrs  rcgularly  block contcnt  that they don't
+r)-i,l!r-rrtk-ri
+
+\, struret,herl., h$i..!!,ql4-lrcr\'.r'orn'r(l 
+
+ffiti-Title 
+(Nov.  28.  2017  t.
+
+221
+
+Fcderal Communications  Commission
+
+FCC 17-166
+
+like. They  regularly  tlecide  r,r'hat news.  search  results'  and products  you see-and perhaps more
+importantiy,  what you don't. And  many  thrive  on the business  model of chatging to place  content  in front
+of eyeballs.  What clse is "Accelcrated  Mobile Pages" or promotcd  tweets but prioritization?
+
+What is worse,  therc  is no transparcncy  into hou'  dccisions  that appear inconsistent  with  an open
+Internet  are made.  How does  a contpany  decide to restrict a Senate candidate's  campaign  announcement
+vidco  bccausc  her views  on a public  poiicy issue  are too "inllammatory"? How does  a company  decide to
+demonetize  videos frorn political  acir,locates  without  notice'J How does  a company  expressly  block  access
+to websites  on rival devices  or prevent  dissidents' content  frorn appearing  on its platforrr'/ How docs a
+company  decide to block f}om its app store  a cigar aficionado app..apparently  bccause  thc company
+p....iu.. that the app promotes  tobatco  use? You don't have any insight  into any of these  decisions' and
+neither  do I. yet thesc are very real,  actual threats to an open lntcrnct-coming  from the very cntities
+that clainr lo suPPort  it.
+
+Look-perhaps certairr cornpanies support  saddling  broadband  providers r'vith  heavy-handed
+rcgulations because  those  rules *ork to their cconomic advantage. I don't blame  them  for taking  that
+po*sition.  And I'm not saying  that these  same rules should  be slapped on thetn too' What  I (1"? saying is
+ihut the govemment shouldn;t  bc in thc busincss of picking  winncrs and losers in the lnternet economy'
+We should  have a levcl playing  field and let consutlcrs  dccidc  who prevails'
+
+Many  words  have been spoken during ,ni, a.Urr. but  the time has come for action.  It is time for
+the Intenret  once again to be driven by engineers and entrepreneurs and consumers,  rather  than lawyers
+and accountants  ancl burcaucrats.  It is tirr,c fbr us to act to bring  fhster. bettcr'  and cheaper Intemct  access
+to all Arnericans.  It is ti11e fbr us to retum to the bipartisan regulatory fiamework under lvhich  the
+lntcrnet  flourished prior to 20 I 5. It is time for us to rcstorc  Intemet frcedotn'
+
+I want to ertend  my deepcst gratitr-rdc to the stalf who have workcd  so many long hours  on this
+item. From the Wireline Cornpetition  Bureau:  Annick Banoutr,  Joseph  Calascione,  Megan  Capasso,
+Paula  Cech,  Ben Childers, Nathan Eagan, Madelcinc  Findlcy,  Doug  Galbi,  Dan  Kahn'  Melissa Kirkcl'
+Gail Krutov. Susan  Lcc,  Ken Lynch,  Pam  Mcgna. Kris Monteith.  Rarncsh  Nagarajan' Eric  Ralph'
+Deborah  Salons. Shane Taylor. From the Of'1ke  of General  Counsel:  Ashley  Boizelle,  Jim Carr. Kristine
+Fargotstein,  Tom Johnson. Doug Klcin,  Marcus  Mahcr,  Scott Novcck,  Linda Olivcr,  and Bill Richardson'
+From  the Wireless Telecomrnunications Bureau:  Stac.v Ferraro,  Nese Guendelsberger,  Garnet  Hanly,
+Bctsy Mclntyre. Jennifcr  Salhus,  Parorna  Sanyal, Jianting "Jitrtrny" Shang, Don Stockdalc. and Pcter
+Trachtenberg.  Frorn  the Office of Strategic  Pianning and Policy  Analysis:  Eric  Burger. Mark  Bykowsky,
+and Jerry Ellig.  From the Consurner  and Govemmental Affairs Bureau:  Jerusha  Burnett.  From the Public
+Saf-ety  ana Uomeirnd Sccurity Bureau:  Ken Carlberg. And lrom thc Mcdia  Burcau: Tracy Waldon'
+
+222
+
+Federal Communications  Commission
+
+FCC  17-166
+
+DISSENTING STATEMEN'T  OF
+
+COMMISSIONER  MIGNON  L. CLYBURN
+
+Re:  Restoring  Internet  Freedottr^  WC Dockct No' l7-108'
+WhY I must dissent
+
+I clissent.  I ilissent from this ficrcely-spun,  lcgally-lightweight'  consumer-harming'  colporate-
+
+enabling  Destro.f  ing {nlcrnet  Frceclom  Order'
+I dissent, because I am atnong  the rnillions outraged'  Outraged'  because  the  FCC pulls  its own
+teeth, abdicating rcsponsibility  to protect  thc nation's  broailband  consumers'  Some  may ask why are we
+rvitnessing  such an unprecedente<1 groundsw"it  oi puUti" sr'rpport'  for keeping  the 201 5 net neutrality
+protections in place.?  Because  the public  can plainiy  sce. that a soot-t-to-be-toothless FcC.  is handing the
+keys to the internet  - the internet, one of the rlost ien-rarkable,  empowering, enabling inventions  of our
+lifetime  - over  to o t.landfrl of multi-billion dollar  corporations' And if past is prologuc'.those vcry samc
+broadbantl  internet scrvice  proviclers.  that thc majority says you should  ffust to do right by you' will put
+profits  and shareholder  returns  above'  u''hat  is best  for you'
+Each of us raised our  hands  when  we were  sworn  in as FCC  Commissioners' took  an oath and
+promised  to uphold our Juti., and rcsponsibrlities  'to makc  availablc'  so far as possiblc' to all thc people
+of the United  States,  ',vithout  cliscrimination. ' ' 11 *piA, efficient' Nation-wide' and world-wide rvire and
+radio cornrnunicatio,  service with adequate  facilitics at reasonable charges.'  Today thc FCC  majority
+otti.iutty  abandons  that pledge  ancl millions have taken note'
+consumer  outcry. wc are even hearing  atout state andiocal offrces  fielding calls  and what  is newsworthy
+is that at last count,  fivc Republican Members  of Congress wcnt  on thc rccord in calling for a halt of
+today,s  vote.  Why ,r.f, u Uipu,tisan  outcry'l  Because  the large rnajority  of Americans are in favor of
+keeping  strong  net neutraliti rules in plu... th. sad thing  about this commcntary'  it pains  tnc to say'  is
+r,vhat I can only  describe  as the new norm  atihe  FCC: ALajority  that is ignoring  the will of the people' A
+majoritythatwillstandidlybywhilethepcoplethcvart-comtnittedtoscrve[ose.
+
+I do not believe that there  are any FCC or congressional  otfices  immune  to the deluge of
+
+Wehavehear<lstoryafterstoryofwhatnetnctttralitynleanstocollsull1crsandsmallbusinesses
+from  places uli alu.rr" ^ f-o, a,rg"t.ri Ski.l Rou' and Marietta'  Ohio  l holcl in my hand letters  that plead
+wrth the FCC to keep our net neuirality rules in place  but what is striking and in keeping  with the new
+norm,  despite thc rnillions ol commcnis, letters,  and calls rcccived'  this Order  cites' not even one
+consumer  comment.  That speaks  volumes  about the direction  the FCC is heading' That speaks  volumes
+,U*,t i*t who is being heard at the FCC'
+Soleproprietors.whoscentirebrtsincssmodel.dcpendsonanopcnintemet,are.worriedthatthe
+absence of clear and enforceable  net neutraliifprotections  rvill result in higher costs and fewerbenefits
+becausc  you SCe:  they are not  able to pay tolls for prernium access'  Evcn  large onlinc  businesses  have
+Lvcighed  in, cxpressing  conccrn  aboul  being t,U:ttt to adclccl charges  as they simply  tty to rcach their ou'n
+customers. Engineers-have  submitted commerts  including  many oithe  itrternet's pioneers,  sharing  with
+the FCC majority, the fundamentals  of how the intetnct works bccausc fiom  where  thcy sit' there is no
+r.vay that an item tite this rvould ever see the light of day' if the majority understood  the platform some  of
+them  helPed  to crcate.
+I have heard from  innovators. rvorried that wc are standing  up a nrother-may-l,rcgil-tle'  where  the
+broadband  provider  becomes arbiter of accepiable  online busin.r, n-ro.l.lr. And  yes.  1 irave heard tlom
+consumers, who are woried  given that tfr.i.'Uiouafrund  provider  has alreacly  shown  that they will charge
+inscrutablc  below-the-line  fecs, raise priccs unexpectedly.  and.put  consulners  on hold fbr hours  at a time'
+who will l.luu. tt .i, L.sf interests  at heart in a rvorld wit-hout clear and enforceable  rules overseen by an
+agency with clear enfbrcemcnt authoriry'l  A toothless  FCCI'l
+
+223
+
+

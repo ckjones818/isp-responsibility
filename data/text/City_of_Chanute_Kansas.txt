@@ -1,0 +1,309 @@
+CITY OF CHANUTE, KANSAS Transparency Disclosure  
+
+Overview:  
+
+Beginning June 11, 2018, all internet service providers (“ISPs”) are required to publicly disclose 
+information about the network management practices, performance characteristics, and commercial 
+terms of their broadband Internet services in one of two ways: x By providing disclosures on publicly 
+available, easily accessible websites of their choosing x By submitting them to the Federal 
+Communications Commission (“FCC”) for posting.  
+City of Chanute, Kansas (“CITY OF CHANUTE”) has elected to post our Internet Transparency Disclosure 
+on our website at www.chanute.org/fiber/resources.  
+
+Required Public Disclosures:  
+
+NETWORK MANAGEMENT PRACTICES  
+
+ 
+Blocking  
+Any practice (other than reasonable network management elsewhere disclosed) that blocks or 
+otherwise prevents end user access to lawful content, applications, service, or non-harmful devices, 
+including a description of what is blocked.  
+
+City of Chanute does not block access to lawful content.  
+
+Throttling  
+
+Any practice (other than reasonable network management elsewhere disclosed) that degrades or 
+impairs access to lawful internet traffic on the basis of content, application, service, user, or use of a 
+non-harmful device, including a description of what is throttled.  
+
+City of Chanute does not intentionally degrade or impair access to lawful internet traffic.  
+
+Affiliated Prioritization  
+
+Any practice that directly or indirectly favors some traffic over other traffic, including through use of 
+techniques such as traffic shaping, prioritization, or resource reservation, to benefit an affiliate, 
+including identification of the affiliate.  
+
+City of Chanute does not favor any traffic over other traffic.  
+
+ 
+
+Paid Prioritization  
+Any practice that directly or indirectly favors some traffic over other traffic, including through use of 
+techniques such as traffic shaping, prioritization, or resource reservation, in exchange for consideration, 
+monetary or otherwise.  
+
+City of Chanute does not engage in paid prioritization.  
+
+Congestion Management  
+
+This section describes any congestion management practices undertaken by City of Chanute.  These 
+descriptions include types of traffic subject to the practices; the purposes served by the practices; the 
+practices’ effects on the end users’ experience; criteria used in practices, such as indicators of 
+congestion that trigger a practice, including any usage limits triggering the practice, and the typical 
+frequency of congestion; usage limits and the consequences of exceeding them; and references to 
+engineering standards, where appropriate.  
+
+City of Chanute monitors and proactively reinforces our network with additional capacity in areas 
+where growth trends identify a need. If network congestion occurs, City of Chanute employs various 
+techniques to ensure a positive customer experience and fair distribution of network resources.  
+
+Application Specific Behavior  
+
+In this section, we are asked whether and why we might block or rate-control specific protocols or 
+protocol ports, modify protocol fields in ways not prescribed by the protocol standard, or otherwise 
+inhibit or favor certain applications or classes of applications.  
+
+City of Chanute Internet customers receive full access to all of the lawful content, services, 
+and applications that the internet has to offer.  
+
+City of Chanute does not otherwise block, prioritize, or degrade any internet sourced or destined 
+traffic based on application, source, destination, protocol, or port unless it does so in connection 
+with a security practice described in the Terms of Service and Acceptable Use Policy.  
+
+Device Attachment Rules  
+
+City of Chanute is asked to detail any restrictions on the types of devices and any approval procedures 
+for devices to connect to the network.  
+
+City of Chanute customers may attach devices of their choice to the City of Chanute provided 
+Optical Network Terminal. Any attached devices must be used in a manner consistent with our 
+Terms of Service and Acceptable Use Policy.  
+ 
+Security  
+Any practices used to ensure end-user security or security of the network, including types of 
+triggering conditions that cause a mechanism to be invoked (but excluding information that could 
+reasonably be used to circumvent network security).  
+
+City of Chanute engineers are dedicated to managing our network to ensure that all customers 
+receive the most secure online experience.  
+
+When malicious behavior is identified, City of Chanute engineers employ various techniques to 
+help provide a positive customer experience. Our security management techniques include 
+ensuring that customer systems are not propagating viruses, distributing spam email, or 
+
+engaging in other malicious behavior.  
+
+For more information related to network security, please review our “Acceptable Internet Use Policy” 
+found under Internet Policies on our website at  
+www.chanute.org/fiber/resources.  
+
+PERFORMANCE CHARACTERISTICS  
+
+Service Description  
+
+A general description of the service, including the service technology, expected and actual access 
+speed and latency, and the suitability of the service for real-time applications.  
+
+High speed internet service is provided via two (2) 1 gigabit, geographically diversified, fiber 
+connections from CenturyLink and Cox Communications. Latency to City of Chanute backbone 
+providers are between 10ms and 18ms.  
+
+G-PON Fiber-To-The-Home/Premise technologies are utilized to deliver service to the end user 
+premise (customer). City of Chanute provisions the Optical Network equipment to account for 
+approximately 5% of overhead on the customer’s fiber in order to achieve the published Tier-Speed 
+with the exception of 1Gbps services. Under normal circumstances, a customer should expect to 
+receive the speed of the service-tier purchased. Latency on City of Chanute’s network is less than 6ms.  
+
+The "actual" speed that a customer will experience while using the Internet depends upon a variety 
+of conditions, many of which are beyond the control of an ISP such as City of Chanute. These 
+conditions include:  
+
+1 
+
+2 
+
+ 
+3 
+
+ 
+4 
+
+ 
+
+Performance of a customer's computer, including its age, processing capability, operating system,      
+the number of applications running simultaneously, and the presence of any adware and viruses.  
+ 
+Type of connection between a customer's computer and modem. For example, wireless 
+connections may be slower than direct connections into a router or modem. Wireless 
+connections also may be subject to greater fluctuations, interference and congestion. City of 
+Chanute does not recommend wireless modem connections for use with its higher speed tiers as 
+many wireless connections do not perform at the speeds delivered by these tiers.  
+
+The distance packets travel (round trip time of packets) between a customer's computer and its 
+final destination on the internet, including the number and quality of the networks of various 
+operators in the transmission path. The internet is a "network of networks." A customer's 
+connection may traverse the networks of multiple providers before reaching its destination, and 
+the limitations of those networks will most likely affect the overall speed of that Internet 
+connection.  
+
+Congestion or high usage levels at the website or destination. If a large number of visitors are 
+accessing a site or particular destination at the same time, your connection will be affected if the 
+site or destination does not have sufficient capacity to serve all of the visitors efficiently.  
+
+ 
+
+ 
+
+5  Gating of speeds or access by the website or destination. In order to control traffic or 
+
+6 
+
+7 
+
+performance, many websites limit the speeds at which a visitor can download from their site. 
+Those limitations will carry through to a customer's connection.  
+ 
+The performance of a subscriber-owned router installed. Equipment performance may degrade 
+over time, and certain devices are not capable of handling higher speeds.                                                                                
+Latency is another measurement of internet performance. Latency is the time delay in 
+transmitting or receiving packets on a network. Latency is primarily a function of the distance 
+between two points of transmission, but also can be affected by the quality of the network or 
+networks used in transmission. Latency is typically measured in milliseconds, and generally has 
+no significant impact on typical everyday internet usage. As latency varies based on any number 
+of factors, most importantly the distance between a customer's computer and the ultimate 
+internet destination (as well as the number and variety of networks your packets cross), it is not 
+possible to provide customers with a single figure that will define latency as part of a user 
+experience.   
+
+Impact of Non-Broadband Internet Access Service Data Services  
+
+City of Chanute is asked what non-broadband Internet access service data services, if any, are offered 
+to end-users, and whether and how any non-broadband Internet access service data services may 
+affect the last-mile capacity available for, and the performance of, broadband Internet access service.  
+
+The City of Chanute currently offers internet service only.  
+
+COMMERCIAL TERMS  
+
+Price  
+
+Information as to pricing may be found under Our Services at www.chanute.org/fiber/resources. 
+City of Chanute has no usage fees.  Additional information can be found on under Internet Policies 
+on our website at www.chanute.org/fiber/resources.  
+ 
+Guaranteed large bandwidth Institutional Ethernet customers:  (Priced individually) 
+ 
+Fiber Connectivity Ethernet (Where available) Small Customer 
+Up to 1 Gbps of Internet 
+ 
+Static Addressing 
+ 
+Downtown GPON (shared fiber up to 1 Gbps) (Where available) 
+Dynamic Addressing 
+Static Addressing (1-IP Address) 
+ 
+GPON (shared fiber up to 1 Gbps) (Where available) 
+Dynamic Addressing 
+
+$250.00/month 
+$149.00/Month 
+
+$129.00/Month 
+
+$200.00/Month 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Static Addressing (1-IP Address) 
+ 
+Wireless WiMax Connectivity (Where available) 
+Up to 15 Mbps Internet 
+ 
+Additional IP Address (Each)   
+ 
+MPLS/Frame Relay Connection 
+ 
+Virus and Spam Screening through the City’s Barracuda 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 30.00/Month 
+
+$  2.00/Month 
+
+Priced Individually 
+
+$ 50.00/domain/month* 
+
+•  For up to 4 Mailboxes/Domain, $5/Month/Additional Mailbox 
+
+ 
+
+Collocation space rental (with fiber connectivity) 
+ 
+ 
+ 
+
+(With other connectivity) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Priced Individually 
+
+Priced Individually 
+
+Privacy Policies Our privacy policy can be found at www.chanute.org/fiber/resources 
+
+Redress Options Please contact City of Chanute at 620-431-5200 to discuss any issues or concerns. Our 
+
+office hours are 8:00 AM – 5:00 PM Monday – Friday.  Problems after hours contact 620-431-5270. 
+
+ 
+
+ 
+
+

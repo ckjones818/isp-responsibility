@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+Each submission shall address the categories of information listed in paragraphs 218 – 223 of the  – Network Management Practices, Performance Characteristics, and Commercial Terms, as detailed below.  If the ISP does not engage in a specific activity listed below, the ISP should mark it as “Not Applicable” in its disclosure.
+Network Management Practices
+Blocking.  Any practice (other than reasonable network management elsewhere disclosed) that blocks or otherwise prevents end user access to lawful content, applications, service, or non-harmful devices, including a description of what is blocked.
+Not Applicable
+Throttling.  Any practice (other than reasonable network management elsewhere disclosed) that degrades or impairs access to lawful Internet traffic on the basis of content, application, service, user, or use of a non-harmful device, including a description of what is throttled.
+Not Applicable
+Affiliated Prioritization.  Any practice that directly or indirectly favors some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, to benefit an affiliate, including identification of the affiliate.
+Not Applicable
+Paid Prioritization.  Any practice that directly or indirectly favors some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, in exchange for consideration, monetary or otherwise.
+Not Applicable
+Congestion Management.  Descriptions of congestion management practices, if any.  These descriptions should include the types of traffic subject to the practices; the purposes served by the practices; the practices’ effects on end users’ experience; criteria used in practices, such as indicators of congestion that trigger a practice, including any usage limits triggering the practice, and the typical frequency of congestion; usage limits and the consequences of exceeding them; and references to engineering standards, where appropriate.
+Not Applicable
+Application-Specific Behavior.  Whether and why the ISP blocks or rate-controls specific protocols or protocol ports, modifies protocol fields in ways not prescribed by the protocol standard, or otherwise inhibits or favors certain applications or classes of applications.
+Not Applicable
+Device Attachment Rules.  Any restrictions on the types of devices and any approval procedures for devices to connect to the network.
+Not Applicable
+Security.  Any practices used to ensure end-user security or security of the network, including types of triggering conditions that cause a mechanism to be invoked (but excluding information that could reasonably be used to circumvent network security).
+Not Applicable
+Performance Characteristics
+Service Description.  A general description of the service, including the service technology, expected and actual access speed and latency, and the suitability of the service for real-time applications.
+NGN offers internet service to residential and small business subscribers up to 1Gbps through a 100% fiber to the home network.  NGN has both Active Ethernet and GPON fiber networks deployed to deliver up to 1Gbps of service and all subscribers should expect to receive the amount of bandwidth they are paying for regardless of the time of day.  Latency to most all domestic internet websites should be less than 50ms and less than 300ms internationally.  NGN can deliver up to 100Gbps of internet connectivity through specialized equipment on a case by case basis for any customer requesting such service.
+
+Impact of Non-Broadband Internet Access Service Data Services.  If applicable, what non-broadband Internet access service data services, if any, are offered to end users, and whether and how any non-broadband Internet access service data services may affect the last-mile capacity available for, and the performance of, broadband Internet access service.
+Not Applicable
+Commercial Terms
+Price.  For example, monthly prices, usage-based fees, and fees for early termination or additional network services.
+Residential 100Mbps Data Plan- $49.95
+Residential 1Gpbs Data Plan- $79.95
+Privacy Policies.  A complete and accurate disclosure about the ISP’s privacy practices, if any.  For example, whether any network management practices entail inspection of network traffic, and whether traffic is stored, provided to third parties, or used by the ISP for non-network management purposes.
+We collect and use information when you interact with us, when you use our services, and when you visit our website. This information is used to deliver, provide and repair our services; establish and maintain customer accounts and billing records.  Habersham EMC does not sell, license or share information that individually identifies our customers with others outside of Habersham EMC who are not doing work on Habersham EMC’s behalf without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf.
+Redress Options.  Practices for resolving complaints and questions from consumers, entrepreneurs, and other small businesses.
+Redress – generally, the subscriber calls/visits office/emails with complaints or questions. The CSR answers general questions, elevated Tier 1 would go to the Call Center Supervisor, elevated Tier 2 would go to VP of Technology and Services (if business) or Manager (residential or installation issue). At Tier 1 and 2, the issue is researched, and the subscriber is contacted.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,170 @@
+NETWORK TRANSPARENCY DATA REQUEST 
+
+Although ISPs are no longer subjected to prohibitions on practices such as blocking or throttling, they 
+are now required to disclose which of the following practices they are engaged in.  To the extent that 
+you engage in the following practices, please explain your practice.  This will allow JSI to establish a 
+favorable description of your practices.  If you do not engage in the practice, indicate “No.” JSI 
+recommends that the ISP make a definitive statement that it does not engage in a practce. 
+
+Blocking. Practice that blocks or otherwise 
+prevents access to lawful content, applications, 
+service or non-harmful devices. Please provide 
+description of what is blocked. 
+
+Throttling. Practice of degrading or impairing 
+access to lawful traffic on basis of content, 
+application, service, user, or use of a non-harmful 
+device. Please provide description of what is 
+throttled. 
+Affiliate Prioritization. Practice favoring some 
+traffic over other traffic to the benefit of an 
+affiliate.   Please provide a description of the use 
+of any techniques such as traffic shaping, 
+prioritization, or other resource reservation.  
+Please identify the affiliate receiving the benefit. 
+Paid Prioritization. Practice favoring some traffic 
+over other traffic in exchange for consideration, 
+monetary or otherwise.  Please describe the use 
+of any techniques such as traffic shaping 
+prioritization or other resource reservation. 
+Congestion Management.  Describe congestion 
+management practices, if any.  Include the types 
+of traffic subject to the practices, purposes 
+served by the practices, practices’ effects on end 
+user’ experience, criteria used in practices.  
+Indicate things triggering a practice including 
+usage limits, typical frequency of congestion, 
+consequences of exceeding thresholds.  Provide 
+engineering standards. How often do you 
+monitor traffic/connections? 
+Application-Specific Behavior. Whether and why 
+ISP blocks or rate-controls specific protocols or 
+protocol ports, modifies protocol fields in ways 
+not prescribed by the protocol standard, or 
+otherwise inhibits or favors certain applications 
+or classes of applications. 
+
+ 
+None 
+ 
+ 
+
+  
+ 
+None 
+ 
+
+   
+ 
+None 
+
+ 
+ 
+None 
+ 
+
+ 
+ 
+ 
+ 
+ 
+None 
+ 
+
+ 
+ 
+ 
+none 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Device Attachment Rules. Describe any 
+restrictions on the types of devices and any 
+approval procedures for devices to connect to 
+the network.  
+Network Security.  Practices used to ensure end-
+user security or security of the network.  Describe 
+triggering conditions that cause a mechanism to 
+be invoked.   
+ 
+Describe your Service Technologies 
+ 
+Which Non-BIAS Service(s) (i.e., VoIP, IP Video) 
+do you offer? 
+ 
+Offer mobile/wireless services? 
+
+ 
+None 
+
+ 
+ 
+None 
+
+ 
+ 
+ 
+None 
+
+ 
+None 
+
+Download and Upload Speeds 
+
+ISPs may obtain speed measurements through use of the Measuring Broadband America (MBA) 
+methodology, internal testing, customer speed test data, or relevant data from third party sources.   
+
+ADVERTISED 
+
+ACTUAL 
+SUSTAINED 
+ 
+1.5 Mbps 
+3.0 Mbps 
+6.0 Mbps 
+10.0 Mbps 
+15 & 25 
+ 
+.512 Mbps 
+1.0 Mbps 
+1.20 Mbps 
+1.204 Mbps 
+
+Download 
+1.5 Mbps 
+3.0 Mbps 
+6.0 Mbps 
+10.0 Mbps 
+15 & 25 
+Upload 
+.512 Mbps 
+1.0 Mbps 
+1.0 Mbps 
+1.0 Mbps 
+3.0 Mbps                              3.0 Mbps 
+
+3.0 Mbps                               3.0 Mbps 
+
+PERCENTAGE 
+DIFFERENTIAL  
+ 
+ 
+ 
+ 
+Limited Access 
+Limited Access 
+ 
+ 
+ 
+ 
+ 
+
+

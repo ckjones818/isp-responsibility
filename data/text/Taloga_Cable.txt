@@ -1,0 +1,21 @@
+Taloga Cable Internet Broadband Disclosures
+Taloga Cable strives to provide consumers with accessible, easy-to-understand information about the services we provide, so they can make informed decisions about which services best meet their needs. Consistent with that goal, we have established this document so that our customers can access and review the relevant policies, agreements, and other information about our Taloga Cable Internet broadband Internet access services.
+Additionally, the Federal Communications Commission ("FCC") requires that Taloga Cable and other providers of broadband Internet access services disclose certain information regarding those Internet services. The information required for disclosure under the FCC's rules is found  below.  
+Network Practices
+Taloga Cable does not discriminate against lawful Internet content, applications, services, or non-harmful devices. The bullets below provide an overview of Taloga Cable's network practices with respect to its Taloga Cable Internet broadband Internet access services.  
+Blocking
+Taloga Cable does not block or otherwise prevent end user access to lawful content, applications, services, or non-harmful devices. Taloga Cable does engage in reasonable network management practices described  below.
+Throttling
+Taloga Cable does not degrade or impair access to lawful Internet traffic on the basis of content, application, service, user, or use of a non-harmful device. Taloga Cable does engage in reasonable network management practices described  below.
+Affiliated Prioritization
+Taloga Cable does not directly or indirectly favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, to benefit an affiliate.
+Paid Prioritization
+Taloga Cable does not directly or indirectly favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, in exchange for consideration, monetary or otherwise.
+Network Management
+Taloga Cable manages its network with one goal: to deliver the best possible broadband Internet access service to all of its customers. To further this effort, Taloga cable uses reasonable network management practices that are consistent with industry standards. Taloga Cable uses various tools and techniques to manage its network, deliver its service. These tools and techniques are dynamic and can and do change frequently. Network management activities may include identifying spam and preventing its delivery to customer email accounts, and detecting malicious Internet traffic and preventing the distribution of, or inadvertent access to, malware, phishing, viruses, or other harmful code or content.
+Application-Specific Behavior
+Taloga Cable provides its broadband Internet access service customers with full access to all the lawful content, services, and applications that the Internet has to offer. Taloga Cable does not block or rate-control specific protocols or protocol ports (except to prevent spam, malicious attacks, and identity theft), does not modify protocol fields in ways not prescribed by protocol standards, and does not otherwise inhibit or favor certain applications or classes of applications.
+Device Attachment Rules
+Many devices are approved to access our broadband Internet access service. In order for a cable modem device to be approved for use on the network, it must pass CableLabs certification, UL certification, FCC certification, with regard to areas such as DOCSIS performance, security certification, and integration with Taloga Cable’s network and systems.  These devices are available from online retailers and brick and mortar stores such as Walmart, Best Buy, and others.
+Redress Options
+If you have any questions about these disclosures, cannot find what you are looking for, or have any other concerns about Taloga Cable Internet service, please contact Taloga Cable at talcab@gmail.com. Taloga Cable will review and promptly respond to all submissions.

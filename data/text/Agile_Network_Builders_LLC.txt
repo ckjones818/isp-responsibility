@@ -1,0 +1,164 @@
+ 
+
+ 
+
+AGILE NETWORK BUILDERS, LLC  
+
+NETWORK TRANSPARENCY STATEMENT 
+
+ 
+Agile Networks Builders, LLC (“Agile Networks”, “Agile”, “We”, “Us”, “Our”) provides this 
+Transparency Statement pursuant to the Federal Communications Commission’s (“FCC”) 
+Restoring Internet Freedom Order. 
+
+Agile currently operates a hybrid fiber-wireless network in Ohio providing broadband service to 
+both Service Level Agreement (“SLA”) end-users as well as Residential end-users which are 
+typically offered best effort packages.  Agile’s typical terms and conditions are available here: 
+
+•  Agile’s standard SLA customer Master Service Agreement is located on our website as 
+
+follows: http://agilenetworks.com/master-service-agreement/ 
+
+•  Agile’s typical Residential Service Order is available on our website as follows:  
+
+http://agilenetworks.com/residential-service-order/ 
+
+•  Agile’s Terms of Use are available on our website as follows: 
+
+http://agilenetworks.com/terms-of-use/ 
+
+ 
+A.  Network Transparency Disclosures 
+
+Agile  uses  industry  standard  tools  processes  to  manage  its  network  and  deliver  fast, 
+secure  and  reliable  broadband  service.  The  following  disclosures  detail  Agile’s  network 
+management practices: 
+1.  Blocking: Agile does not block or discriminate against lawful content. 
+
+2.  Throttling: Agile does not throttle, impair or degrade lawful Internet traffic. 
+
+3.  Affiliated Prioritization: Agile does not prioritize Internet traffic. 
+
+4.  Paid Prioritization: Agile does not engage in paid prioritization. We do not prioritize 
+
+Internet for consideration to benefit particular: content, applications, services or 
+devices.  
+
+5.  Congestion Management: Agile monitors the connections on its network in the 
+
+aggregate on a continuous basis utilizing a fully staffed 24/7 Network Operations 
+Center (“NOC”) to determine the rate of utilization. As architected with redundant 
+routing, Agile’s network does not typically suffer from congestion related issues.  If 
+congestion occurs on the network, Agile will take the appropriate steps to relieve 
+congestion. 
+
+All Agile customers have access to all lawful services, applications and content online 
+and, in the event of congestion, most Internet activities will be unaffected. Some 
+customers, however, may experience longer download or upload times, or slower 
+surf speeds on the web if congestion does occur on Agile’s network. 
+
+Customers using conduct that abuses or threatens the Agile network or which 
+violates the company’s Terms of Use, Master Service Agreement, or Service 
+
+ 
+
+Order will be asked to stop any such use immediately. A failure to respond or to 
+cease any such conduct could result in service suspension or termination. 
+
+Agile also checks for abnormal traffic flows, network security breaches, malware, 
+loss, and damage to the network. If a breach is detected or high-volume users are 
+brought to light by complaint, Agile provides notification to the customer via email or 
+phone. If a violation of Agile’s policies has occurred and such violation is not 
+remedied, Agile will seek to suspend or terminate that customer’s service. 
+
+6.  Application-Specific Behavior: Agile does not currently engage in any application-
+specific behaviors on its network. Customers may use any lawful applications with 
+Agile. 
+
+7.  Device Attachment Rules: Customers may attach devices of their choosing to their 
+broadband connection. However, customers are responsible for ensuring that their 
+equipment does not harm Agile’s network or impair the service of other customers. 
+Agile is not responsible for the functionality or compatibility of any equipment 
+provided by its customers. Customers are responsible for securing their own 
+equipment to prevent unauthorized access to Agile’s broadband network by third 
+parties and will be held responsible for the actions of such third parties who gain 
+unauthorized access through unsecured customer equipment. 
+
+8.  Network Security: Agile knows the importance of securing its network and 
+
+customers from network threats and annoyances. The company promotes the 
+security of its network and patrons by protections from such threats as spam, 
+viruses, firewall issues, and phishing schemes.  
+
+Agile does not block any protocols, content or traffic for purposes of network 
+management, but Agile may block or limit such traffic as spam, viruses, malware, or 
+denial of service attacks to protect network integrity and the security of our 
+customers if or when a threat becomes known to Agile. 
+
+B.  Network Performance Characteristics 
+
+1.  Service Descriptions: Agile provides internet service to its customers utilizing fixed 
+
+wireless solutions, supported by a hybrid fiber-wireless backhaul. 
+
+2.  Network Performance: Agile tests each service for actual and expected access speeds 
+
+at the time of network installation to demonstrate that the service can support the 
+speed(s) specified in the customer’s Service Order.    When necessary, Agile will 
+dispatch repair technicians to customer sites to perform speed tests and/ or to 
+troubleshoot and resolve speed and application performance caused by Agile’s 
+network.  
+
+Agile measures availability, latency, and aggregate utilization on the network in order 
+to monitor and meet all Service Level Agreements.  
+
+Agile makes every effort to support advertised speeds for its non-SLA customers; 
+however, the bandwidth speed at which a particular distant website or other Internet 
+resources may be downloaded, or the speed at which a customer’s information may be 
+
+ 
+
+uploaded to a distant website or Internet location, is affected by factors beyond Agile’s 
+control, including the speed of the connection from the distant web server to the 
+Internet; congestion on intermediate networks; and/or limitations of a customer’s 
+computer equipment, including a wireless router. Additionally, customer service 
+performance may be affected by the inside wiring at the customer premise. Customer 
+computers and/or wireless or other networks in customer homes or offices may need 
+an upgrade in order to take full advantage of the chosen Agile broadband plan. 
+
+In an effort to assure network reliability to our customers, Agile has installed specific 
+network performance monitoring and troubleshooting tools across our network to 
+provide our technicians with real-time access to network performance, enabling Agile 
+to quickly react to and correct any network issues/outages. 
+
+3.  Impact of Non-BIAS Data Services: Non-broadband Internet Access does not affect last 
+
+mile transmission of broadband internet access for our customers, as Agile is not 
+offering any non-BIAS data services at this time. 
+
+4.  Pricing: Agile prices its residential and commercial broadband packages on an 
+
+Individual Case Basis, based on the regional market and the specific needs of the 
+potential customer.  Agile provides a quote to prospective customers, including the 
+appropriate Master Service Agreement or Service Order which will detail: early 
+termination fees (if any) and additional network services and their associated fees.  
+
+5.  Privacy:  As a general practice, Agile does not store network traffic data nor provide 
+
+such data to third parties.  Network traffic data is used primarily for network 
+management purposes.  Customer data is maintained by Agile for the sole purpose of 
+providing customer service and managing the Customer account.  Customer data may 
+be provided to third parties that may assist us with managing our daily operations, 
+such as processing payments and providing general customer services.  Please also see 
+Terms of Use: http://agilenetworks.com/terms-of-use/ 
+
+6.  Redress Options: Agile maintains a 24/7 Customer Support NOC, which all customers 
+
+can reach at 888.494.0549.  NOC technicians will work with customers on the phone to 
+understand and document any issue/complaint. Agile uses software tools to log and 
+track customer complaints through the creation of a customer case/ticket.   Case 
+management is documented step-by-step until the customer complaint has been 
+resolved, at which time the case is closed; however, the history of the case data 
+remains securely stored for that customer for any future reference.  
+
+

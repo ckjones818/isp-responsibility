@@ -1,0 +1,26 @@
+This document is intended to disclose Resonance Broadbands’s network management, performance Characteristics, and commercial terms of our broadband internet service. 
+1) Blocking – Resonance Broadband does not block any lawful content on our network. Our customers are free to use our service to browse, stream, send email, etc. how they see fit, providing that in doing so does not violate any federal, state or local government laws. 
+2) Throttling – Resonance Broadband does not use any method to throttle traffic to any content on our network. 
+3) Affiliated Prioritization – Resonance Broadband does not use any method of Prioritization on our network. We do not have any affiliations that we benefit from this type of practice. 
+4) Paid Prioritization – Resonance Broadband does not use any method of Prioritization on our network. We do not receive any consideration, monetary or otherwise for this type of practice. 
+5) Congestion Management – Resonance Broadband does not have any network congestion management mechanisms at this time. 
+6) Application-Specific Behavior – Resonance Broadband does not modify, by any means, application specific protocols. 
+7) Device Attachment Rules – Equipment used to access our network is configured at the time of setup. Once the service is set up and the network is handed off to the customer, there are no restrictions or approvals necessary for network access. 
+8) Security – Resonance Broadband utilizes network firewalls to protect our network from malicious attacks on our network. Port scanning and DDOS attacks are examples of the type of activity that we mitigate. 
+9) Service Description – Resonance Broadband provides Fixed Wireless Internet service. This is service that uses radio frequency equipment to provide internet wirelessly. 
+10) Impact of Non-Broadband Internet Access Service Data Services – Resonance Broadband does not offer non-broadband internet services. 
+11) Price – Resonance Broadband charges a set monthly fee for its internet services. We do not charge any usage fees or use data caps with our services. Resonance Broadband does utilize early termination fees if the customer has entered into an agreement with Resonance Broadband and the customer does not fulfill the agreement term. The early termination fee is equivalent to 80% of the remaining agreement term. 
+12) Privacy Policy – Resonance Broadband’s privacy policy is available at request by e-mailing sales@resonancebroadband.com  
+13) Redress Options – Customers can contact us for questions or complaints by emailing support@resonancebroadband.com or by calling us at (918)429-3620
+
+
+
+Current consumer and small business subscription speed offerings are as follows:
+traffic shaping is managed by the equipment at the customer peremesis, using the equipments on board scheduler.
+Tier1: $30 per month, 4096kbps download 512kbps upload
+
+Tier2: $40 per month, 6144kbps download 1024kbps upload
+
+Tier3: $50 per month, 8192kbps download 2048kbps upload
+
+Tier4: $60 per month, 12288kbps download 4096kbps upload

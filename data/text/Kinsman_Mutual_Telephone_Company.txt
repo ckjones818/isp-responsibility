@@ -1,0 +1,107 @@
+Open Internet Statement 
+ 
+The Federal Communications Commission issued rules to preserve the Internet as an open 
+platform. The original rules went into effect on November 20, 2011. The Open Internet Rules 
+have since been revised, and the revisions were adopted on February 26, 2015. The new rules 
+went into effect on June 12, 2015 and can be found at the FCC Open Internet 
+(https://www.fcc.gov/general/open-internet) webpage. 
+ 
+All Internet service providers are required to post information regarding various issues so that 
+consumers, both residential and business, can make informed choices about choosing an Internet 
+service provider. This document contains information regarding our services in compliance with 
+the FCC’s rules. The policies contained herein serve as a supplement to the existing terms of 
+service. 
+ 
+FCC's rules focus on three main areas... 
+ 
+No Blocking: broadband providers may not block access to legal content, applications, services, 
+or non-harmful devices. 
+No Throttling: broadband providers may not impair or degrade lawful Internet traffic on the basis 
+of content, applications, services, or non-harmful devices. 
+No Paid Prioritization: broadband providers may not favor some lawful Internet traffic over other 
+lawful traffic in exchange for consideration of any kind—in other words, no "fast lanes." 
+This rule also bans ISPs from prioritizing content and services of their affiliates. 
+ 
+Network Practices 
+ISPs must disclose their network practices, specifically in the four general areas listed below... 
+ 
+ISPs may not block lawful content, applications, services, or non-harmful devices, subject to 
+reasonable network management. 
+ 
+An ISP may not block consumers from accessing lawful websites, subject to reasonable network 
+management; nor shall the ISP block applications that compete with the provider’s voice or 
+video telephony services, subject to reasonable network management. 
+ 
+ISPs may not unreasonably discriminate in transmitting lawful network traffic over a consumer’s 
+broadband Internet access service, although, reasonable network management shall not constitute 
+unreasonable discrimination. 
+ 
+The FCC’s rules state that a network management practice is reasonable if it is appropriate and 
+tailored to achieving a legitimate network management purpose, taking into account the 
+particular network architecture and technology of the broadband Internet access service. 
+ 
+ 
+Congestion Management 
+Kinsman Mutual Telephone Company (“COMPANY”) does not employ specific network 
+congestion management practices. 
+
+The COMPANY does not have automatic systems that make changes to network routing or 
+individual customer bandwidth and/or latency based on network congestion. All traffic is carried 
+equally on a 'best efforts' basis. 
+ 
+In the event of a denial of service attack or other attacks against infrastructure, COMPANY may 
+black-hole or block specific regions of the network as needed to maintain the best connectivity 
+for the network as a whole. 
+ 
+COMPANY currently does not utilize data caps in its service plans. 
+ 
+Application-Specific Behavior 
+COMPANY does not block or rate control specific protocols or ports.  
+ 
+ 
+ 
+Device Attachment Rules 
+The COMPANY’s customer hand off is a standard Ethernet connection. This may be connected 
+to a customer’s computer or router. Devices from the customer’s network must not send the 
+following types of traffic to the COMPANY: 
+Spanning Tree (STP), Rapid Spanning Tree (RSTP), Open Shortest Path First (OSPF), Routing 
+Information Protocol (RIP), Border Gateway Protocol (BGP) and Dynamic Host 
+Configuration Protocol (DHCP). The COMPANY will take steps to block such traffic which 
+may include disabling the customer's connection. 
+ 
+ 
+Security 
+The COMPANY employs industry standard methods to protect the privacy of its end users and 
+network infrastructure. 
+ 
+Commercial Terms 
+ISPs must disclose the commercial terms of its broadband Internet access service. Monthly 
+pricing and other fees are available by contacting the company at 815-392-4210. 
+ 
+ 
+Privacy Policies 
+Network management policies do not normally entail inspection of network traffic. Network 
+traffic may be inspected as needed by COMPANY personnel to aid in diagnosing and correcting 
+network issues. Network Traffic is not routinely stored or provided to outside parties. Network 
+traffic may be captured, stored, or shared with equipment vendors for the purpose of diagnosing 
+and repairing issues with network equipment or performance. 
+ 
+ 
+ 
+Contact Information 
+ 
+Kinsman Mutual Telephone Company takes great pride in providing the best service and support 
+to our customers. If you are having issues with the service please do not hesitate to contact us. 
+
+ 
+Primary support phone number is 815-392-4210, Primary Support Email is kinstel@mtco.com . 
+If service representatives are busy or you are calling after business hours (M-F, 8 AM - 4:30 
+PM), we encourage you to leave a voicemail with your name and call back number. Someone 
+will get back to you as soon as possible. 
+ 
+FCC Notice 
+If a customer believes that these Open Internet Rules are not being met, the customer may file an 
+informal complaint at the Federal Communications Commission. The FCC urges customers to 
+submit any complaints via the FCC Website (http://esupport.fcc.gov/complaints.htm).  
+
+

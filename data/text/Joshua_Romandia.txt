@@ -1,0 +1,272 @@
+Montana Internet Corporation 
+
+Open Internet Disclosure Statement 
+
+ 
+Effective date of disclosure is January 01, 2019. 
+ 
+This document provides information about the network management practices, performance characteristics, and 
+commercial terms applicable to the broadband Internet access services provided to consumers by Montana Internet 
+Corporation (“Montana Internet”) consistent with the Federal Communications Commission (“FCC”)’s transparency 
+rule 47 CFR § 8.1(a). Montana Internet’s filer registration number (FRN) with the FCC is 0011562717. 
+Montana Internet provides broadband Internet access service utilizing terrestrial fixed wireless, and fiber optic 
+service. This document covers the provisioning of those services to retail customers. 
+Montana Internet maintains an open Internet for its customers, and with this principle in mind, this document 
+summarizes Montana Internet’s network management practices, performance characteristics, and commercial terms 
+of the broadband Internet access services that it offers to its customers. Nothing in this document changes your rights 
+and obligations, or Montana Internet’s rights and obligations, under the terms of service associated with the 
+applicable Montana Internet products and services you subscribe to or Montana Internet’s Acceptable Use Policy or 
+Privacy Policy. This document and the information contained in it are provided for informational purposes only and 
+may be changed at any time, without notice. 
+NETWORK MANAGEMENT PRACTICES 
+Montana Internet manages its network with the goal of delivering the best possible broadband Internet experience to 
+all Montana Internet customers. High-speed bandwidth and network resources are not unlimited and are particularly 
+costly to deploy in the less densely populated rural areas that characterize much of Montana Internet’s fixed-wireless 
+service area. The Internet services provided to customers by Montana Internet is obtained through several large 
+Internet access carriers providing wholesale Internet transport services to broadband providers such as Montana 
+Internet. As a result, many of Montana Internet’s network management practices and the performance characteristics 
+described in this document may be directed, implemented and monitored by Montana Internet’s wholesale Internet 
+access carriers for the maintenance and protection of their own respective networks. References in this document to 
+Montana Internet’s actions and policies necessarily include the actions and policies of Montana Internet’s underlying 
+carriers for Internet access services using their networks, which Montana Internet and the customers must follow and 
+be subject to in their usage of Montana Internet’s Internet services. Accordingly, any reference to Montana Internet 
+below may include upstream Internet access carriers providing services to Montana Internet that Montana Internet 
+incorporates into its offering to its customers. 
+Protecting and managing the network is essential to promote the use and enjoyment of the Internet by all of Montana 
+Internet’s customers. Montana Internet reserves the right to employ reasonable tailored Internet Protocol (“IP”) 
+network management practices that are consistent with industry standards for such networks. Such practices would 
+ensure that all customers and application providers have access to a fair share of Montana Internet’s network while 
+not unreasonably discriminating in transmitting lawful broadband traffic. Montana Internet and its service providers 
+also try to use tools and technologies that are minimally intrusive but may cause a complete outage for a customer if 
+the customer’s IP address is determined to be under attack. Just as the Internet continues to change and evolve, so 
+too will Montana Internet’s network management practices adapt to address the challenges and threats on the 
+Internet. By engaging in reasonable and responsible network management, Montana Internet can enhance its 
+delivery of the best possible broadband Internet experience to all its customers. 
+Blocking. So long as traffic is not determined to be, or likely to be, malicious or harmful to its network, Montana 
+Internet does not block certain applications or classes of applications sourced from, or destined to, the public Internet. 
+Rather, Montana Internet strives to provide the best customer experience for all types of applications. Montana 
+Internet and its carriers operate service operations centers that monitor the network for abuse and fraud. When 
+Montana Internet determines either by automated or manual means, the presence of suspicious, malicious, criminal, 
+or abusive traffic, or other activity that violates Montana Internet’s Acceptable Use Policy, Montana Internet may (and 
+likely will) temporarily block access from or to its network to protect the security and availability of its network and 
+service to its other customers. This measure may be triggered by, among other conditions, a denial-of-service 
+(“DDoS”) attack or by Montana Internet (or its carriers) detecting an unusual amount of traffic that may be related to  
+computers suspected to be infected with malicious software. If a customer believes that Montana Internet is blocking 
+such traffic in error, the customer should contact Montana Internet’s customer support at (406) 443-3347 or 
+support@mt.net. 
+ 
+Throttling. Montana Internet does not engage in throttling of Internet services except for in aggregate for all traffic 
+destined to a given customer in accordance with the speed package selected. Common speed package and throttling 
+rules are listed below. 
+
+ 
+
+1 
+
+2 Mbps Upload 
+2 Mbps Upload 
+4 Mbps Upload 
+5 Mbps Upload 
+
+2 Mbps Download 
+8 Mbps Download 
+16 Mbps Download 
+25 Mbps Download 
+
+60 Mbps Upload 
+100 Mbps Upload 
+300 Mbps Upload 
+500 Mbps Upload 
+1000 Mbps Upload 
+
+60 Mbps Download 
+100 Mbps Download 
+300 Mbps Download 
+500 Mbps Download 
+1000 Mbps Download 
+
+ 
+Terrestrial Fixed Wireless 
+Basic 
+Turbo 
+X-stream 
+Ultimate 
+ 
+Fiber Optic 
+Turbo 
+Flux 
+Ultimate 
+Ultimate Plus 
+Gigabit 
+ 
+Affiliated Prioritization. Montana Internet does not engage in affiliated prioritization. 
+ 
+Paid Prioritization. Montana Internet does not engage in paid prioritization. 
+ 
+Congestion Management. Congestion management of Internet services will occur for very basic reasons. All 
+Internet traffic is considered “best effort” and is therefore subject to congestion management processes by Montana 
+Internet, its carriers and their peer Internet service providers. Internet Service Providers such as Montana Internet 
+use a combination of buffering, “first in first out” tools, multiple upstream connections, and monitoring and pro-active 
+upgrades of upstream connections to accomplish the goal of lessening the impact caused by network congestion. 
+Selection of traffic to delay during times of congestion will be completely random and all customer traffic attempting to 
+access resources located behind the point of congestion, regardless of their bandwidth usage or network application, 
+will be equally subject to the same factors of randomization. Customer traffic is congestion-managed not based on 
+the applications or content being used but based on current network conditions. 
+ 
+Application-Specific Behavior. Montana Internet does not prevent users of its service from sending and receiving 
+the lawful content of their choice; running lawful applications and using lawful services of their choice; or connecting 
+their choice of legal devices (subject to the discussion below), provided that such applications and services do not 
+harm the network or the provision of broadband Internet access services, facilitate theft of service, or harm other 
+users of the service. Similarly, Montana Internet does not impair or degrade content, applications, services, or non-
+harmful devices. 
+ 
+The broadband marketplace is dynamic and constantly changing. While this document is intended to be thorough and 
+current, Montana Internet expects to continue evaluating its approach to network management in response to 
+changes in technology and Internet usage, and it reserves the right to adopt new or different network management 
+practices. 
+Device Attachment Rules. Montana Internet permits its customers to attach any device to its network, so long as the 
+device’s usage does not harm Montana Internet’s network. Not all such devices, however, may be technically 
+compatible with Montana Internet’s network. The technical compatibility of a device will vary depending on the 
+broadband Internet access service to which it is being attached. 
+ 
+Security. Montana Internet actively seeks to address the threats posed by harmful and unwanted traffic and thus to 
+protect the security, integrity, and availability of its network and its customers. Malicious software (often referred to as 
+“malware”) such as viruses, worms, spyware, and distributed denial of service (“DDoS”) attacks not only can 
+adversely affect the network, but also can result in harm to customers’ computers and the quality of the service they 
+receive, compromise their data, and harm third parties as well. Unwanted communications such as spam can lead to 
+similar problems. 
+ 
+Montana Internet encourages its customers to protect themselves from malicious Internet content utilizing a wide 
+variety of commercially-available tools such as anti-virus, firewalls, and anti-malware tools. It is the customer’s 
+responsibility to initiate and maintain safeguards as to the customer’s services and equipment, including adequate 
+and secure passwords, updated operating system and application software, and updated anti-virus, firewall, and anti-
+malware software and other protections for the customer’s equipment applicable to the services. 
+ 
+As discussed in Blocking, Montana Internet may employ certain practices on a case-by-case and as-needed basis to 
+protect its network and its customers against DDoS attacks. These practices could be triggered if Montana Internet 
+detects traffic levels that significantly exceed certain baselines; the applicable thresholds are not disclosed here, in 
+order to ensure that these security practices remain effective and cannot be deliberately circumvented. Further, in 
+accordance with common industry practices (and in response to demonstrated harms), Montana Internet may on 
+occasion and for limited periods of time inhibit certain Internet ports or IP address ranges (often correlated to specific 
+geographic regions) that are commonly misused to harm networks, although this in no way is intended to prevent any 
+
+ 
+
+2 
+
+Montana Internet customer or broadband Internet access user from accessing lawful Internet content. If a customer 
+believes that Montana Internet is blocking such traffic in error, the customer should contact Montana Internet’s 
+customer support at (406) 443-3347 or support@mt.net. 
+PERFORMANCE CHARACTERISTICS 
+Service Description. Montana Internet offers Internet services to consumers primarily through terrestrial fixed 
+wireless or fiber optic facilities. Both services are subject to availability which is geographically limited. These 
+offerings provide several asymmetric and sometimes symmetrical speed profiles. Common speed profiles are listed 
+above in the Throttling section. 
+ 
+As detailed more specifically below, speeds are dependent upon many factors including specific technology deployed 
+for a customer connection. For example, terrestrial fixed wireless speeds can be impacted by wireless interference 
+that may or may not be within Montana Internet’s control to identify and resolve. Additionally, other factors, such as 
+the number of devices the customer elects to connect to the Internet modem/router, radio frequency interference 
+within the customer’s home, network congestion, and other factors may also impact performance. 
+Montana Internet provisions its network to ensure that its customers can enjoy the speeds to which they subscribe. 
+However, Montana Internet does not guarantee that a customer will always actually achieve those speeds. No 
+Internet Service Provider can always guarantee a speed to a customer. Montana Internet advertises its speeds as “up 
+to” a specific level based on the tier of service to which a customer subscribes. 
+The “actual” speed that a customer will experience while using the Internet depends upon a variety of conditions, 
+many of which are beyond the control of Montana Internet. While it is impossible to list all conditions that could 
+possibly affect Internet service, some of the most common are: 
+•  Performance of a customer’s computer, including its age, processing capability, its operating system, the 
+
+number of applications running simultaneously, and the presence of any adware, malware and viruses. 
+
+•  Type of connection between a customer’s computer and the (likely Montana Internet managed) router. For 
+
+example, wireless connections may be slower than wired connections into a router or modem. Wireless 
+connections also may be subject to greater fluctuations, interference and congestion from other common 
+household electronics including, but not limited to, microwave ovens. Montana Internet does not recommend 
+wireless modem connections for use with its higher speed tiers as many wireless connections typically are not 
+capable of supporting speeds delivered by these tiers particularly when multiple devices are connected to the 
+wireless modem/router. Also, when a customer provides its own router, many older routers, instead of utilizing a 
+Montana Internet managed router, such older routers are likely not capable of supporting speeds delivered on 
+higher speed tier packages. 
+
+•  The distance packets travel (round trip time of packets) between a customer’s computer and its destination on 
+
+the Internet, including the number and quality of the networks of various operators in the transmission path. The 
+Internet is a “network of networks.” A customer’s connection may traverse the networks of multiple providers 
+before reaching its destination, and the limitations of those networks will most likely affect the overall speed of 
+the customer’s Internet connection. 
+
+•  Congestion or high usage levels at the website or destination can impact a customer’s Internet connection 
+
+speed. If many visitors are accessing a site or destination at the same time, your connection will be affected if 
+the site or destination does not have sufficient capacity to serve all of the visitors efficiently. 
+
+•  Gating of speeds or access by the website or destination may impact a customer’s Internet connection speed. 
+In order to control traffic or performance, many websites limit the speeds at which a visitor can download from 
+their site. Those limitations will carry through to a customer’s connection and impact their download speeds. 
+Latency is another measurement of Internet performance. Latency is the time delay in transmitting or receiving 
+packets on a network. Latency is primarily a function of the distance between two points of transmission, but 
+also can be affected by the quality of the network or networks used in transmission. Latency is typically 
+measured in milliseconds, and generally has no significant impact on typical everyday Internet usage. As 
+latency varies based on any number of factors, most importantly the distance between a customer’s computer 
+and the ultimate Internet destination (as well as the number and variety of networks your packets cross), it is not 
+possible to provide customers with a single figure that will define latency as part of a user experience. However, 
+Montana Internet strives to maintain its network such that customers can achieve a latency of less than 100 
+milliseconds and less than 50 milliseconds to common destinations. 
+
+• 
+
+ 
+ 
+ 
+ 
+ 
+There are numerous products and services available to test Montana Internet’s services. These tests are heavily 
+dependent on a customer’s home network configuration, modem, and computers, and therefore do not reflect the 
+
+ 
+
+3 
+
+performance of the Montana Internet network only. In order to test your Internet speed when utilizing Montana 
+Internet’s Internet services, visit www.speedtest.mt.net, and select to run a speed test. Montana Internet also may be 
+able to provide testing of the services to assure that customer is receiving the subscribed bandwidth at the 
+demarcation point between Montana Internet’s network and the customer’s inside wiring. If the tests demonstrate the 
+customer’s services are degraded from the speeds delivered by Montana Internet’s network, the customer should 
+evaluate problems with the customer’s equipment at the premises and any software issues associated with the use of 
+that equipment. 
+Impact of Non-Broadband Internet Access Service Data Services. Montana Internet offers broadband Internet access 
+service over the same last-mile facilities as specialized services, such as virtual private network (“VPN”), voice over 
+IP (“VoIP”). In most cases, when the specialized service is not being used, customers may use the capacity that 
+would otherwise be used for the specialized service for broadband Internet access. When these customers do utilize 
+the special services, less bandwidth will be available for broadband Internet access service than when they are not 
+using the specialized services. 
+COMMERCIAL TERMS 
+Price. The terms of service for Montana Internet’s Internet access services are set forth in the materials specific to 
+that service as executed by and between Montana Internet and the Customer when the service was established or 
+ordered. Montana Internet offers various pricing options for its Internet access services depending upon location, 
+bandwidth needs and other terms and conditions. Common packages can be found on our website, on the home 
+page as well as the “services” page. 
+ 
+Current customers can find pricing information concerning their service on their monthly bill or by contacting a 
+customer service representative. Prospective customers can obtain pricing information through Montana Internet’s 
+customer service representatives. 
+Privacy. Montana Internet’s does not share customer information with any third parties except for those third parties 
+involved in provisioning or supporting service. Specifically, at times, Montana Internet utilizes a third party to provide 
+support as overflow or additional hours coverage. Montana Internet utilizes a wholesale partner to provide voice 
+services. And Montana Internet utilizes a third party to perform credit card processing and payment collections. 
+ 
+Redress Options. If you have any questions about Montana Internet’s service or any questions or concerns regarding 
+any of the information set forth above and wish to contact a customer service representative you may do so by calling 
+Montana Internet’s customer support at (406) 443-3347 or support@mt.net. 
+CERTIFICATION 
+This statement has been reviewed by Montana Internet’s CEO, Josh Romandia, who certified that the information 
+contained in the disclosure is true and correct to the best of his knowledge. 
+ 
+
+ 
+
+4 
+
+

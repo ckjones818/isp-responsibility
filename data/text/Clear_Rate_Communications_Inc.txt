@@ -1,0 +1,180 @@
+NETWORK MANAGEMENT PRACTICES 
+
+ 
+
+(Pursuant to 47 C.F.R. § 8.1 et seq) 
+
+Clear  Rate  Communications,  Inc.  ("Clear  Rate”  or  “We"  or  “Us”)  has  developed  the  following  network 
+management practices with respect to its broadband Internet access services in its operating areas This document is 
+intended  to  meet  the  Transparency  requirements  of  the  Protecting  and  Promoting  the  Open  Internet  regulations 
+promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. §§ 8.1, et seq.). 
+This document is in addition to and supplements any other existing terms, policies and procedures relating to services 
+provided by Us. Clear Rate’s management practices, as well as the performance characteristics and terms of service, 
+for its broadband internet access services are subject to change. We will provide updates to this document, the most 
+recent version of which is filed with the Commission. 
+
+I. 
+
+Overview 
+
+The  purpose  of  this  document  is  to  disclose  information  regarding  Clear  Rate’s  network  management  practices, 
+performance, and commercial terms of its broadband Internet access service (the "Service") sufficient for consumers 
+to make informed choices regarding use of such Service and for content, application, service, and device providers to 
+develop, market, and maintain Internet offerings, consistent with the Commission's Protecting and Promoting the Open 
+Internet regulations. High-speed bandwidth and network resources are limited and managing the network is essential 
+to promote the use and enjoyment of the Internet by all of our customers. We are committed to providing the best 
+online experience possible for all of our customers and uses reasonable network management practices to ensure that 
+the Clear Rate Service is used in ways that are consistent with the specifications of a shared network, and the standards 
+of our local municipalities and the Internet community. We also aim to ensure that the Internet access resources we 
+provide are used in a manner that benefits everyone. The network management practices used by Us are consistent 
+with industry standards. For example, we use tools and practices to reduce the negative effects of spam, viruses or 
+other harmful code or content, security attacks, network congestion, and other risks and degradations of the Service. 
+By engaging in reasonable and responsible network management, We can deliver the best possible broadband Internet 
+experience to all of its customers. 
+
+II. 
+
+Network Practices 
+a.  Blocking 
+
+i.  We do not block or otherwise prevent end users access to lawful content, applications, 
+
+service or other non-harmful devices. 
+
+b.  Throttling 
+
+i.  We don’t throttle, degrade, or impair access to lawful internet traffic on the basis of content 
+application, service, user, or use of a non-harmful device, unless otherwise indicated in this 
+disclosure. 
+
+c.  Affiliated prioritization 
+
+i.  VOIP is prioritized over other internet traffic, as long as its identified as such, using DSCP 
+EF. We don’t guarantee that third party traffic over the public internet will correctly be 
+able to use DSCP EF as we have no control over the third party’s network ability to deliver 
+it to Us. 
+d.  Paid Prioritization 
+
+e.  Congestion Management 
+
+i. 
+
+ We do not favor some traffic or other traffic in exchange for consideration, monetary or 
+otherwise. 
+
+i.  Clear Rate monitors its network on a continual basis to determine if an area of congestion 
+could occur. The area of possible congestion will be identified and network improvements 
+will attempt to be made prior to any congestion occurring. These network improvements 
+may include: the addition of network hardware or network segregation to accommodate 
+additional traffic. If a period of congestion occurs, customers may experience things like: 
+longer times to download or upload files, surfing the Web may seem somewhat slower, or 
+playing games online may seem somewhat sluggish.  
+
+ii.  We do prioritize VOIP traffic when there is congestion to ensure call quality and continuity. 
+iii.  We prioritize VOIP and video calling/conferencing as well as control traffic for both when 
+DSCP tags are appropriately applied. The specific tags and their use can be requested from 
+our  support  team.  We  are  agnostic  to  the  source  and  destination  of  this  traffic.  Any 
+customer may use the appropriate DSCP tags to prioritize their own traffic. 
+
+f.  Application Specific Behavior 
+
+g.  Device Attachment Rules 
+
+h.  Security 
+
+i.  Clear Rate does not block P2P traffic or applications like BitTorrent, Gnutella, or others as 
+part  of  its  current  network  congestion  management  technique.  We  do  not  discriminate 
+against particular types of lawful online content. Clear Rate provides its customers with 
+full access to all the lawful content, services, and applications that the Internet has to offer. 
+However,  we  are  committed  to  protecting  customers  from  spam,  phishing,  and  other 
+unwanted  or  harmful  online  content  and  activities.  In  that  connection,  we  use  industry 
+standard  tools  and  generally  accepted  practices  and  policies  to  help  ensure  that  our 
+customers are protected from unwanted or harmful content and activities. Clear Rate's use 
+of  these  tools,  techniques  and  policies  help  to  identify  and  restrict  certain  harmful  and 
+unwanted online content, such as spam or phishing Web sites. In other cases, these tools, 
+techniques and policies may permit customers to identify certain content that is not clearly 
+harmful or unwanted, such as bulk email or Web sites with questionable security ratings, 
+and enable those customers to inspect the content further if they want to do so. 
+
+i.  For  most  services,  We  supply  Clear  Rate  managed  equipment  that  must  be  used  in 
+combination with the service. In most cases, we do not allow Customer Owned Equipment 
+to directly attach to the network for monitoring and performance purposes. Customers may 
+connect their own equipment at the industry standard handoffs (Ethernet, T1, etc…) this 
+equipment provides. 
+
+i.  Clear Rate employs a number of practices to help prevent unwanted communications such 
+as spam as well as protect the security of our customers and network. Clear Rate limits the 
+number of  login, SMTP, DNS, and DHCP transactions per  minute (at levels  far above 
+"normal" rates) that customers can send to Our servers in order to protect them against 
+Denial  of  Service  (DoS)  attacks.  We  do  not  disclose  the  exact  rate  limits  in  order  to 
+maintain the effectiveness of these measures, which ensure that these critical services are 
+available for all of our customers. In order to further protect our customers, we may block 
+a limited number of ports that are commonly used to send spam, launch malicious attacks, 
+or  steal  a  customer's 
+information,  for  example,  SQL  Exploits  and  Microsoft 
+communication protocol ports in the event of an outbreak. In addition, We  conduct several 
+security initiatives, and offer security tools for our customers, such as DoS monitoring, 
+web filtering, and Virus Scanning software. 
+
+i. 
+
+Impact of Non-Broadband Internet Access Service Data Services 
+
+1.  Non-broadband  does  not  affect  last  mile  transmission  of  broadband  internet 
+
+III. 
+
+General Pricing Policy 
+
+access for our customers. 
+
+All prices for Clear Rate Internet services are provided to customers at the point of sale and before services are 
+provided to the customer. Our pricing is subject to change. Prices for Clear Rate broadband Internet access services 
+vary  by  region  and  often  change  over  time  or  based  on  current  promotions.  Current  subscribers  can  find  pricing 
+information  concerning  their  service  on  their  monthly  bill,  or  by  contacting  a  customer  service  representative. 
+Residential Prospective customers can obtain pricing information for broadband Internet access service by contacting 
+a Clear Rate sales representative or by visiting www.clearrate.com. Business Prospective customers can obtain pricing 
+information for broadband Internet access service by contacting a Clear Rate Business sales representative. Clear Rate 
+typically sells its broadband Internet access service to business customers for a specified term (generally ranging from 
+1-5 years). Pricing may vary depending upon the length of the agreed upon service term. Customers that agree upon 
+a longer service term may receive more favorable pricing. In most cases, our Business agreements automatically renew 
+for an additional term (usually one year) at the end of the initial term. All of Our prices are subject to change. We 
+offer a variety of service plans in our operating regions, which include pricing for Internet Services that vary depending 
+upon the plan and whether the Internet Services are bundled with other service offerings. In most service areas, Clear 
+Rate offers to its residential customers the option to enter into an agreement with a specified minimum term. Customers 
+that agree upon a minimum term arrangement may receive more favorable pricing. At the end of the minimum term, 
+the agreement will automatically continue (if not terminated) on a month to month basis and pricing will be adjusted 
+to reflect Our then current standard rates. If the Agreement is terminated early by the Customer without cause or by 
+Clear Rate for cause, Early Termination Fess will apply, which is included in the terms and conditions of the offer. 
+We typically agree with our business customers that the agreed upon BIAS pricing will not change for the initial term 
+of our agreement. After the initial term, pricing is subject to change. 
+
+Our Privacy Policy can be located at https://www.clearrate.com/privacy-policy/ . 
+ 
+Redress Options 
+
+a.  Customers may contact Clear Rate to submit a complaint or ask a question with regard to any aspect 
+
+of the service by the following means: 
+
+i.  Corporate Phone: 877-877-4410 
+ii.  Corporate Fax: 877-877-5225 
+iii.  Sales Phone: 877-877-7599 
+iv.  Customer Service: 877-877-4799 M-F 7A-10P or on Saturdays 9A-5P 
+v.  Repairs: 877-877-3975 or emailing repairs@clearrate.com  
+vi.  After Hours Repairs: 877-877-0314 
+vii.  Business Sales: 877-877-4899 or emailing bizsales@clearrate.com  
+viii.  Mail to the Corporate Office: 2600 W. Big Beaver Rd., Suite 450, Troy, MI 48084 
+ix.  Mail regarding billing: PO Box 27308, Lansing, MI 48909 
+x.  On our website at www.clearrate.com  
+xi.  Emailing support@clearrate.com or info@clearrate.com or complaints@clearrate.com  
+
+IV. 
+
+V. 
+
+ 
+
+ 
+
+

@@ -1,0 +1,748 @@
+ 
+
+CASTLEBERRY TELEPHONE COMPANY, INC.’S 
+
+BROADBAND INTERNET ACCESS SERVICE DISCLOSURES 
+
+ 
+
+Scope of ISP’s Coverage 
+
+Name of Filer. Castleberry Telephone Company, Inc.  
+ 
+FCC Registration Number. 0004317368 
+ 
+Trade name or DBA name. CTC Internet 
+ 
+Type of ISP service. Wired  
+ 
+Brief  Description  of  Service  Covered  by  Disclosure.  Castleberry  Telephone  Company’s 
+broadband Internet service is delivered over fiber optic cables to the curb/cabinet (FTTC), which 
+serves several customers.  Each of Castleberry’s customers has a connection to this platform via 
+a pair of copper cables. Customers subscribing to Castleberry’s cable service access the network 
+using cable modems and can utilize wireless routers within the premises. 
+  
+Effective Date of Disclosure. June 11, 2018  
+ 
+This broadband Internet service disclosure is a first-time disclosure. 
+
+ 
+
+ 
+
+CASTLEBERRY TELEPHONE COMPANY, INC.’S 
+BROADBAND INTERNET ACCESS SERVICE DISCLOSURES 
+
+Pursuant  to  the  terms  and  conditions  of  Castleberry  Telephone  Company,  Inc.’s 
+(“Castleberry”)  Service  Application,  Tariff,  Customer  Service  Agreement  and  Acceptable  Use 
+Policy,  Castleberry  provides  telecommunications,  information  and  other  services  to  its 
+customers through Castleberry and those of its subsidiaries, affiliates and any other person or 
+entity doing business as Castleberry Telephone or CTC Internet.  Castleberry offers Asymmetric 
+Digital Subscriber Line (aDSL) services via its own network facilities. 
+
+ 
+
+ 
+
+I.  Network Management Practices 
+
+ 
+
+ 
+Congestion Management 
+In order to offer consumers affordable broadband service, all broadband providers make 
+their services available over "shared" rather than "dedicated" networks. While shared networks 
+typically  cost  less  to  build  and  operate,  they  are  also  more  prone  to  congestion.    Some 
+consumer broadband services, like cable modem and mobile wireless service, are shared all the 
+way from the consumer to the Internet, while other services, like DSL, are only partially shared 
+because  they  offer  a  dedicated  link  over  the  "last  mile"  to  the  consumer.    With  any  shared 
+network, some limitations on the uses individual subscribers make of their service are inherently 
+necessary  to  ensure  that  all  customers  collectively  receive  an  acceptable  level  of  service.  
+Absent such limitations, excessive or inappropriate usage by a minority of users can negatively 
+affect the Internet experience of all users. 
+
+ 
+Castleberry’s network is designed to provide its customers with highly reliable Internet 
+access  and  data  transmission  services  via  a  variety  of  transmissions  mediums  that  are 
+monitored  around  the  clock.    Castleberry  uses  various  tools  and  techniques  to  manage  its 
+network and deliver its services.  These tools and techniques are dynamic, like the network and 
+its  usage,  and  can  and  do  change  frequently.    For  example,  these  network  management 
+activities  may  include  (i)  identifying  spam  and  preventing  its  delivery  to  customer  e-mail 
+accounts,  (ii)  detecting  malicious  Internet  traffic  and  preventing  the  distribution  of  viruses  or 
+other harmful code or content, (iii) temporarily delaying peer-to-peer sessions (or sessions using 
+other  applications  or  protocols)  during  periods  of  high  network  congestion,  (iv)  limiting  the 
+number of peer-to-peer sessions during periods of high network congestion, and (v) using other 
+tools and techniques that Castleberry may be required to implement in order to meet its goal of 
+delivering the best possible broadband Internet experience to all of its customers. 
+
+ 
+Specific Applications / Device Attachments 
+
+ 
+
+Not applicable. Castleberry does not block or rate-control specific protocols or protocol 
+ports, modify protocol fields in ways not prescribed by the protocol standard, or otherwise inhibit 
+or  favor  certain  applications  or  classes  of  applications.  Castleberry  does  not  impose  any 
+restrictions on the types of devices used to connect to its network.  
+ 
+
+Security Measures 
+ 
+Castleberry  regularly  monitors  the  technical  performance  of  its  network  to  provide  a 
+secure, high-quality broadband experience, and it will act to minimize the impact of threats to 
+the security of the network – including threats posed by viruses, worms, spyware and spam – 
+
+ 
+
+1 
+
+that  could  lead  to  congestion  and  degraded  performance.    None  of  the  security  measures 
+intended to prevent the spread of viruses, malware, spam or other threats to consumers should 
+prevent  you  from  running  a  mail  server  or  web  server  using  the  broadband  connection; 
+however,  Castleberry  is  not  required  to  disclose  internal  network  security  measures,  such  as 
+routing security practices, that do not directly bear on a consumer’s choices regarding Internet 
+access or services.  
+
+ 
+You are solely responsible for the security of any device you choose to connect when 
+using Castleberry’s services, including any data stored on that device.  You assume any and all 
+risks relating to the security of your communications, data and network and its potential access 
+by  others,  including,  but  not  limited  to,  the  transmission  of  any  computer  virus  or  similar 
+software which alters, disables or destroys, in whole or in part, the hardware, communications, 
+data and/or network.  You must take reasonable measures to protect the security of any such 
+connected  equipment,  including  maintaining  at  your  cost  an  up-to-date  version  of  anti-virus 
+and/or firewall software to protect your computers from malicious programs.  In the event of a 
+malicious program infecting your computer that causes a violation of Castleberry’s Acceptable 
+Use  Policy,  as  found  at  http://cbtelco.com,  Castleberry  may  suspend  your  service  until  the 
+problem  is  resolved;  however,  you  will  remain  fully  liable  for  all  applicable  monthly  fees  and 
+charges during any period of suspension. 
+ 
+II.  Service Descriptions and Performance Characteristics 
+
+ 
+One of the challenges associated with providing broadband Internet access is the fact 
+that the end-to-end Internet throughput that customers experience – that is, the average rate of 
+successful message delivery over the service connection, usually measured in bits per second 
+(bit/s  or  bps),  and  sometimes  in  data  packets  per  second  or  data  packets  per  time  slot  –  is 
+largely  outside  the  control  of  individual  broadband  providers  like  Castleberry.    A  myriad  of 
+factors  ranging  from  the  capacity  of  content  providers'  servers  and  connections,  to  the 
+performance  of  a  user's  own  computer  can  affect  throughput.    As  a  result,  no  provider  can 
+guarantee  the  end-to-end  throughput  speed  across  the  Internet  that  a  consumer  will  receive.  
+Thus, when Castleberry offers service at a given speed, we are referring to the speed capability 
+we  provide  to  a  customer's  home,  rather  than  the  speed  at  which  the  customer's  computer 
+exchanges packets with other Internet end points.  Castleberry provides broadband service in 
+discrete, non-overlapping speed tiers.  Castleberry will strive to provide service within the speed 
+tier that you purchased; if we find that we are not providing service within the ordered speed tier, 
+Castleberry  will  take  action  either  to  bring  the  service  within  the  ordered  tier  or  give  you  an 
+option  to  move  to  a  different  tier.    Your  personal  computer(s)  or  other  premises  equipment 
+connected must meet the minimum hardware and software requirements necessary to access 
+the Internet, as required in your specific situation or application. 
+
+ 
+Castleberry’s Digital Subscriber Line (DSL) service provides digital data transmission 
+
+over telephone wires, enabling simultaneous use of the telephone and data.  
+ 
+
+Castleberry’s  Asymmetric  Digital  Subscriber  Line  (aDSL)  service  provides  digital 
+data transmission at high bandwidths over telephone wires and simultaneously accommodates 
+both analog (voice) and digital data on the same line.  aDSL works by splitting the phone line 
+into two frequency ranges: the frequencies below 4 kHz are reserved for voice, and the range 
+above  that  is  reserved  for  data.    Castleberry  offers  the  following  aDSL  services  to  the 
+businesses and residences it serves: 
+
+ 
+
+ 
+
+2 
+
+ 
+
+1.5  MEG  DSL  Service  -  Unlimited  Broadband  access  and  access  to  the  Internet,  with 
+download speeds of up to 1.5 Mbps and upload speeds of up to 512 Kbps; includes up to five 
+(5) e-mail accounts with web-based e-mail access 
+
+ 
+3.0  MEG  DSL  Service  -  Unlimited  Broadband  access  and  access  to  the  Internet,  with 
+download speeds of up to 3.0 Mbps and upload speeds of up to 512 Kbps; includes up to five 
+(5)  e-mail  accounts  with  web-based  e-mail  access.    This  is  the  minimum  speed  required  to 
+stream SD and HD movies and television. 
+
+ 
+6.0  MEG  DSL  Service  -  Unlimited  Broadband  access  and  access  to  the  Internet,  with 
+download speeds of up to 6.0 Mbps and upload speeds of up to 800 Kbps; includes up to five 
+(5) e-mail accounts with web-based e-mail access 
+
+ 
+10.0 MEG DSL Service - Unlimited Broadband access and access to the Internet, with 
+download speeds of up to 10.0 Mbps and upload speeds of up to 1024 Kbps; includes up to five 
+(5)  e-mail  accounts  with  web-based  e-mail  access.    This  is  the  speed  required  to  stream 
+multiple devices at once. 
+ 
+
+Charges do not include any additional features or premium services. 
+
+DSL  is  a  fixed-location  service  and  may  not  be  moved  to  a  different  residence  or  a 
+
+different phone number without payment of new connection fees and a $20.00 service charge. 
+
+ 
+The Castleberry system is engineered to help offset the impact of latency, which is the 
+delay  caused  by  sending  signals  from  a  customer’s  PC  to  the  various  points  on  the  public 
+Internet.    Latency  is  typically  defined  in  milliseconds.    Castleberry’s  most  recent  analysis  of 
+network  latency  between  a  typical  customer’s  PC  and  Castleberry’s  core  routing  facilities 
+indicates  average  latency  of  approximately  1  millisecond.    Castleberry  strives  to  keep  this 
+particular measurement at less than 4 milliseconds.  Various measurements of latency between 
+a  customer’s  PC  and  other  points  on  the  public  Internet  (e.g.,  a  popular  website)  may  vary 
+substantially because of congestion or other network conditions over which Castleberry has no 
+control.  For  most  applications,  this  latency  does  not  affect  performance;  however,  there  are 
+some  applications  like  voice  over  Internet  protocol  (telephone  service  delivered  over  the 
+Internet,  also  known  as  VoIP),  or  real-time  interactive  gaming,  where  latency  will  have  a 
+noticeable effect on performance over the Castleberry network, as it would on any broadband 
+service. 
+ 
+Commercial Terms 
+
+III. 
+ 
+ 
+additional charges may apply; promotional pricing may vary from stated rates) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1.5 MEG DSL Service - $29.99 per month 
+3.0 MEG DSL Service - $39.99 per month 
+6.0 MEG DSL Service - $49.99 per month 
+10.0 MEG DSL Service - $59.99 per month 
+ 
+You may elect to purchase a standard DSL modem with wireless router from Castleberry 
+for $67.00, or a bonded modem (required for longer loop connections) at Castleberry’s cost for 
+
+Base Pricing (additional packages including these basic services may be offered; 
+
+Castleberry Data only (listed prices require subscription to local telephone service): 
+
+ 
+
+ 
+
+3 
+
+$130.00.  You may also purchase your own modem.  Castleberry’s modems are guaranteed to 
+work  correctly  with  the  company’s  network  infrastructure.    Should  you  elect  to  purchase  your 
+modem from someone other  than  Castleberry, Castleberry  cannot guarantee that the  modem 
+will be fully compatible with Castleberry’s network.  There is a one-time installation charge of 
+$20.00 to install your DSL and a $15.00 charge to change DSL speeds; no charge is imposed 
+for the first change. 
+
+ 
+Certain  inside  wiring  and/or  equipment  may  also  be  necessary  in  order  to  complete 
+installation of DSL service.  In particular, a phone filter must be installed for each phone in order 
+for DSL to work, at a cost of $1.71 per filter.  Provided they have the necessary technology and 
+equipment, Castleberry’s technicians will assist in troubleshooting a customer’s inside wiring at 
+the prevailing hourly rate for those services.  Additional assistance may be available to disabled 
+customers who contact the company.  The services require a working telephone line, and the 
+customer is solely responsible for the costs associated, directly or indirectly, with said line. 
+ 
+ 
+
+Cancellation Fees and Termination of Service 
+You  may  cancel  your  order  for  Castleberry  services  before  the  first  of  the  ordered 
+services is installed, without charge.  Service will be considered installed when such service is 
+activated and ready for use, regardless of whether you are actually using such service or have 
+connected it to any equipment inside your premises.  If you cancel your order after installation, 
+you  will  be  responsible  for  all  installation  and  connection  charges,  any  billed  or  accrued,  but 
+unpaid, service charges through the date of cancellation (including for service paid in advance), 
+and any charges for damaged or unreturned equipment.  
+ 
+
+The customer has the right to terminate access to Castleberry service at any time.  Any 
+termination notice may be by telephone or in person during normal business hours and must be 
+acknowledged in writing.  Termination of service after installation shall be effective upon five (5) 
+business days’ notice.  The customer is responsible for all access and use of the service until 
+the billing cycle has ended and the customer agreement has been terminated.  Customers who 
+seek  to  restore  service  following  termination  will  also  be  subject  to  the  terms  of  a  new 
+agreement, which may include payment of a new installation charge and any additional charges 
+associated  with  installation  or  reconnection  of  the  service,  and/or  a  security  deposit.    A 
+reconnection  fee  of  $15.00  for  telephone  service  and  $15.00  for  DSL  service  is  due  if 
+Castleberry agrees to reconnect service to a customer whose service has been terminated due 
+to any breach or violation of the terms and conditions of use of the service.  Castleberry retains 
+sole  discretion  as  to  whether  to  allow  service  to  be  reconnected  after  termination  due  to  a 
+breach or violation of the customer service agreement. 
+ 
+ 
+If the customer seeks to relocate service to another location within Castleberry’s service 
+area, the customer will be responsible for any installation and/or reconnection charges that arise 
+from the relocation. 
+ 
+ 
+Should the service, or any portion, be terminated or suspended, all amounts owed for 
+prior  service  will  become  immediately  due  and  payable,  and  all  of  Castleberry’s  equipment 
+relating to such service must be returned immediately.  If you seek to restore your service after 
+termination, you may be required to pay a new installation charge and any additional charges 
+associated with installation or reconnection of your service.  The customer remains liable for all 
+other accrued, but unbilled charges through the termination date (including any charges paid in 
+advance) and the reasonable costs of any action Castleberry may take to collect amounts not 
+paid  when  due,  including,  but  not  limited  to,  the  costs  of  a  collection  agency,  reasonable 
+attorney’s fees and court costs. 
+
+ 
+
+4 
+
+Privacy Policies 
+Internet systems use public access facilities to transmit voice and data communications, 
+and  the  privacy  of  such  transmitted  materials  cannot  be  guaranteed.    In  particular,  electronic 
+mail  passes  through  multiple  mail  servers  on  the  Internet  as  it  passes  from  source  to 
+destination, and Internet systems may carry material which may be considered abusive, profane 
+or sexually offensive.  Castleberry is not liable to its customers for any claims, loss, damages or 
+cost that may result from lack of privacy on the system or from the content of such transmitted 
+material. 
+ 
+Castleberry  does  not  control,  pre-screen  or  censor  content  placed  on  Castleberry's 
+computer  servers  or the  subscriber's  use  of  or the  content  of  the World Wide Web  or  of  any 
+newsgroups or other communications passing through its systems.  Moreover, Castleberry does 
+not  have  the  practical  ability  to monitor,  review,  or restrict  access  to  content  on  Castleberry's 
+servers prior to its transmission or to monitor all communications between parties.  Castleberry 
+believes such choices should generally be left to the individual customer.  Software tools are 
+available  to  screen  a  customer  account’s  access  to  newsgroups  and  websites  that  might  be 
+considered offensive.  It is the customer’s responsibility to make use of such tools, if desired.  
+The customer is responsible for and bears all risk associated with the accuracy, completeness, 
+reliability or usefulness of any content available on or through the service and for all customer 
+communications on the service. 
+
+ 
+Newsgroup postings and other e-mail messages sent via the service and the Internet are 
+communications  between  the  senders  and  consenting  receivers  thereof,  and  Castleberry  has 
+neither the authority nor the responsibility to regulate their content.  The views and comments 
+expressed by the senders of such postings or messages are solely those of their authors and do 
+not  reflect  any  review,  approval  or  endorsement  by  Castleberry.    Castleberry  will,  however, 
+attempt to assist customers who continually receive e-mail they deem to be objectionable and/or 
+unsolicited e-mail and notify it of the problem. 
+
+ 
+Likewise,  Castleberry  does  not  routinely  monitor  the  activity  of  individual  service 
+accounts for violations of its usage policies or agreements, except when determining aggregate 
+bandwidth  consumption  or  when  examining  mail  on  Castleberry’s  own  mail  servers  when 
+allowed  under  law  or  as  part  of  system  maintenance  or  troubleshooting  –  i.e.,  when 
+investigating e-mail delivery problems or pursuant to a valid state or federal civil or investigative 
+demand.  However, Castleberry will respond appropriately if it becomes aware of inappropriate 
+use of its services. 
+
+  
+Castleberry and its suppliers reserve the right at any time to monitor bandwidth, usage, 
+transmissions,  and  content  in  order  to,  among  other  things,  operate  the  service,  identify 
+violators and/or protect the network, the services and Castleberry’s users, although they have 
+no legal obligation to do so.  Castleberry prefers to inform customers of inappropriate activities 
+and give them a reasonable period of time in which to take corrective action or to resolve their 
+differences with other customers without its intervention.  However, if the services are used in a 
+way  that  Castleberry  or  its  suppliers,  in  their  sole  discretion,  believe  violate  its  customer 
+agreements, Castleberry or its suppliers may, without liability, take any responsive actions they 
+deem appropriate under the circumstances, with or without notice to the customer, including, but 
+not  limited  to,  temporary  or  permanent  removal  of  content,  cancellation  of  newsgroup  posts, 
+filtering  of  Internet  transmissions,  and  the  immediate  suspension  or  termination  of  all  or  any 
+portion of the service.  These actions are not exclusive remedies, and Castleberry may take any 
+other legal or technical actions it deems appropriate, with or without prior notice to the customer. 
+
+ 
+
+5 
+
+ 
+
+Service Limitations 
+The Internet is an international computer network. The Internet is not owned, operated, 
+or managed by, or in any way affiliated with Castleberry.  The service provides you access to 
+information,  communications,  software,  photos,  video,  graphics,  music,  sounds,  services  and 
+other material located both on Castleberry's computer servers and on the Internet.  Castleberry 
+cannot and does not guarantee that the service will provide Internet access that is sufficient to 
+meet your needs.  Neither does Castleberry guarantee that Castleberry-provided equipment or 
+Internet  package  software  is  suitable  or  fit  for  any  particular  purpose.    Any  defects  in  the 
+equipment  or  software,  including  manufacture  or  design,  are  the  sole  responsibility  of  the 
+manufacturer  of  the  equipment  or  software  under  the  manufacturer’s  warranties,  and 
+Castleberry shall have no liability to the customer for any loss, damage, injury or expense of any 
+kind  or  nature  related  directly  or  indirectly  to  any  such  equipment,  software  or  Castleberry 
+service.  Use of the service, equipment and the Internet is solely at the customer’s own risk and 
+is subject to all applicable local, state, national and international laws and regulations. 
+
+ 
+Castleberry has no liability for any claims in any way related to the customer’s inability or 
+failure to perform research or related work or to work properly or completely or any lost profits 
+damages relating to the customer’s right or use of, or inability to use, the Internet or data.  Use 
+of any information obtained via the service is at the customer’s own risk.  Castleberry disclaims 
+any responsibility for the accuracy or quality of information obtained through its services. 
+
+ 
+Further,  Castleberry’s  services  are  subject  to  transmission  limitations  caused  by 
+atmospheric,  topographical  and  any  other  like  conditions.    Additionally,  services  may  be 
+temporarily refused, limited, interrupted or curtailed due to government, regulations or orders, 
+system  capacity  limitations,  limitations  imposed  by  an  underlying  communications  carrier,  or 
+because of equipment modifications, upgrades, repairs or reallocations or other similar activities 
+necessary  or  proper  for  the  operation  or  improvement  of  Castleberry’s  Internet  system.  
+Castleberry shall in no event be liable for such service or equipment interruptions or delays in 
+transmission, errors or defects in service or equipment when caused by acts of God, fire, war, 
+riots, government authorities, default of supplier or other causes beyond its or any underlying 
+communications carrier’s control. 
+ 
+ 
+Unless  otherwise  authorized  by  Castleberry,  you  may  not  permit  more  than  one  high-
+speed Internet log-on session to be active at one time.  A log-on session represents an active 
+connection  to  your  Internet  access  provider.    The  active  session  may  be  shared  to  connect 
+multiple computers/devices within a single home or office location or within a single unit within a 
+multiple dwelling unit (e.g., single apartment or office within an apartment or office complex) to 
+your  modem  and/or  router  to  access  the  service  (including  the  establishment  of  a  “WiFi” 
+hotspot), but the service may only be used at (depending on the class of service ordered) the 
+single home, office or commercial location (e.g., restaurant or coffee shop) or single unit within a 
+multiple  dwelling  unit  for  which  service  is  provisioned  by  Castleberry,  unless  otherwise 
+authorized by the company.  You may not use a WiFi hotspot in violation of the terms of your 
+use agreements or in a way that circumvents Castleberry’s ability to provide service to another 
+customer (e.g., you cannot use a WiFi hotspot to provide service outside your single home or 
+commercial location or outside your single unit within a multiple dwelling unit, and you cannot 
+resell service provided over a WiFi hotspot unless approved by Castleberry in writing). 
+ 
+ 
+You may not use more than one IP address for each log on session unless an advanced 
+service allocating you more than one IP address has been purchased.  Service may be used to 
+host a server, personal or commercial, as long as such server is used pursuant to the terms and 
+
+ 
+
+6 
+
+conditions applicable to the service, and not for any malicious purposes.  You may not use the 
+service for resale or license of any nature whatsoever without Castleberry’s prior consent, which 
+may be given or withheld in its sole discretion. 
+ 
+ 
+
+Use of the Service 
+Castleberry  grants  a  non-exclusive,  non-transferable,  limited  license  to  customers  to 
+store  documents  on  the  Castleberry  Internet World  Wide  Web  server  in  accordance  with  the 
+customer  agreement.    Castleberry  will  bill  for  usage  in  accordance  with  rate  and  prices 
+published by Castleberry at the time of use. 
+ 
+
+As a condition of use of the service, customers must agree not to publish on or over the 
+Internet content that violates or infringes upon the rights of any other person.  If Castleberry is 
+challenged by any third party regarding the suitability of a customer’s content, Castleberry may, 
+at  its  sole  discretion,  delete  the  customer’s  content  from  the  Internet  service.    Sending 
+unsolicited e-mail advertising a service or website, newsgroup, etc. located or hosted within the 
+service domain space or address space, or service otherwise associated with the service is also 
+prohibited, regardless of e-mail point of origin.  Additionally, using a Castleberry e-mail address 
+or website address to collect responses from unsolicited e-mail is prohibited.  Customers may 
+not send unsolicited electronic mail to other Castleberry customers without Castleberry’s explicit 
+written permission for each instance of communication.  Customers shall not knowingly collect 
+or solicit personal information from a minor or use this service to harm a minor, including, but 
+not limited to, using the service to send pornographic, obscene or profane materials involving a 
+minor.  A minor is defined as any person under nineteen (19) years of age. 
+ 
+
+Castleberry may also immediately terminate any account which it determines, in its sole 
+discretion, is transmitting or is otherwise connected with any “spam” or other unsolicited bulk e-
+mail.  If actual damages cannot be reasonably calculated or quantified, Castleberry may seek 
+liquidated  damages  of  five  dollars  ($5.00)  for  each  piece  of  “spam”  or  unsolicited  bulk  e-mail 
+transmitted from or otherwise connected with your account. 
+ 
+
+Castleberry is not responsible for deleting or forwarding any e-mail sent to the wrong e-
+mail address by you or by someone else trying to send e-mail to you.  Castleberry is also not 
+responsible for forwarding email sent to any account that has been suspended or terminated.  
+This  e-mail  will  be  returned  to  the  sender,  ignored,  deleted  or  stored  temporarily,  at 
+Castleberry’s sole discretion.  In the event Castleberry believes, in its sole discretion, that any 
+customer  name,  account  name  or  e-mail  address  (collectively,  an  “identifier”)  on  the  service 
+may  be  used for,  or  is being  used for,  any  misleading, fraudulent  or  other  improper  or  illegal 
+purpose,  Castleberry  (i)  reserves  the  right  to  block  access  to  and  prevent  the  use  of  any  of 
+these identifiers and (ii) may at any time require any customer to change his or her identifier.  In 
+addition,  Castleberry  may  at  any  time  reserve  any  identifiers  on  the  service  for  its  own 
+purposes.    If  a  service  account  is  terminated  for  any  reason,  all  e-mail  associated  with  that 
+account (and any secondary accounts) will be permanently deleted, as well. 
+ 
+
+Customers  may  not,  through  action  or  inaction,  allow  the  transmission  of  files  that 
+contain a virus or corrupted data.  To protect our customers and the network, Castleberry may 
+suspend  and/or  cancel  a  customer’s  account  if  it  believes  that  the  customer  is  transmitting  a 
+virus to other Internet users or Castleberry’s network. 
+
+ 
+The customer does not own, nor have any rights, other than those expressly granted, to 
+a particular IP address, even if you have ordered a static IP address.  Neither does a customer 
+
+ 
+
+7 
+
+have any proprietary right in the Internet access account IDs provided by Castleberry, by which 
+the customer may use Castleberry’s Internet system. 
+ 
+ 
+Customers  may  report  a  violation  of  Castleberry’s  Acceptable  Use  Policy  by  e-mail  to 
+cbtel@cbtelco.com with sufficient information to investigate the report.  During its investigation, 
+Castleberry will, when feasible, contact the subscriber or others to seek additional information 
+regarding the complaint.  If the investigation reveals an apparent violation, Castleberry may, in 
+its  sole  discretion,  request  that  the  subscriber  correct  the  problem,  suspend  or  terminate  the 
+subscriber’s account, and, where appropriate, take legal action against the offending subscriber 
+and report the violation to government authorities. 
+ 
+ 
+The customer is responsible for: (1) all access to and use or misuse of the service, even 
+if  the  inappropriate  activity  was  committed  by  a  friend,  family  member,  guest,  customer, 
+employee  or  any  other  person  with  access  to  your  account  or  password(s),  regardless  of 
+whether you authorized the use of the service; (2) ensuring that all end users, including WiFi 
+users,  comply  with  all  terms  of  the  Castleberry  Acceptable  Use  Policy.    You  are  solely 
+responsible  for  obtaining  sufficient  identification  of  users  of  your  WiFi  network.   You  are 
+responsible  for  any  fees  incurred  for  the  service,  or  for  software  or  other  merchandise 
+purchased through the service, or any other expenses incurred in accordance with Castleberry’s 
+applicable  terms  and  conditions.    Any  use  of  the  service  other  than  as  specified  herein  and 
+under Castleberry’s agreements with the customer may result in the immediate termination of 
+the service, without prejudice to any other rights and remedies available to Castleberry at law 
+and at equity. 
+ 
+
+Prohibited Uses and Activities 
+Castleberry’s agreement with the customer prohibits service uses and activities that are 
+illegal, infringe on the rights of others or interfere with or diminish the use and enjoyment of the 
+service  by  others.    Prohibited  uses  and  activities  include,  but  are  not  limited  to,  using  the 
+service,  customer  equipment  or  Castleberry’s  equipment,  either  individually  or  in  combination 
+with one another, as follows: 
+
+ 
+
+Conduct and Information Restrictions 
+ 
+Customers may not: 
+•  undertake or accomplish any unlawful purpose, including, but not limited to, posting, storing, 
+transmitting  or  disseminating  information,  data  or  material  that  is  libelous,  obscene, 
+unlawful,  threatening,  abusive,  harassing,  deceptive,  fradulent  or  defamatory,  or  which 
+infringes  on  the  intellectual  property  rights  of  any  person  or  entity,  or  which  in  any  way 
+constitutes  or  encourages  conduct  that  would  constitute  a  criminal  offense  or  otherwise 
+violate any local, state, federal or international law, order, or regulation; 
+
+•  post, store, send, transmit, or disseminate any information or material which a reasonable 
+person  could  deem  to  be  indecent,  pornographic,  harassing,  threatening,  hateful  or 
+intimidating; 
+
+•  upload,  post,  publish,  transmit,  reproduce,  create  derivative  works  of,  or  distribute  in  any 
+way information, software or other material obtained through the service or otherwise that is 
+protected by copyright or other proprietary right, without obtaining permission of the owner, 
+including, but not limited to, links to such material, serial or registration numbers for software 
+programs or pirated copyrighted content, such as authorized copies of music, video or other 
+media files, whether through Internet Relay Chat or file sharing programs or services; 
+
+ 
+
+ 
+
+8 
+
+• 
+
+• 
+
+• 
+
+transmit  unsolicited  bulk  or  commercial  messages,  commonly  known  as  “spam,”  to ten  or 
+more recipients; 
+to forge electronic mail headers (including any portion of the Internet Protocol packet header 
+and/or electronic mail address) or any other method used to forge, disguise or conceal the 
+user’s identity when using the service, commonly known as “spoofing”; 
+to  use  another  Internet  user’s  electronic  mail  server  to  relay  electronic  mail  without  the 
+explicit permission of that third party (“mail relay”); 
+
+•  send numerous copies of the same or substantially similar messages, empty messages or 
+messages which contain no substantive content, or send very large messages or files that 
+disrupt a server, account, newsgroup or chat service; 
+initiate, perpetuate or in any way participate in any pyramid or other illegal scheme; 
+
+• 
+•  participate in the collection of e-mail addresses, screen names, or other identifiers of others 
+(without their prior consent), a practice sometimes known as “spidering” or “harvesting,” or 
+participate in the use of software (including “spyware”) designed to facilitate this activity; 
+
+•  collect responses from unsolicited bulk messages; 
+• 
+• 
+• 
+
+falsify, alter or remove message headers; 
+falsify references to Castleberry or its network, by name or other identifier, in messages; 
+impersonate  any  person  or  entity,  engage  in  sender  address  falsification,  forge  anyone 
+else's  digital  or  manual  signature,  or  perform  any  other  similar  fraudulent  activity  (for 
+example, “phishing”); 
+
+•  violate  the  rules,  regulations,  or  policies  applicable  to  any  network,  server,  computer 
+
+database, or Web site that you access. 
+
+ 
+Technical Restrictions 
+ 
+Customers may not: 
+•  attempt to interfere with or compromise the operation of Castleberry’s network in whole or 
+part,  to  interfere  with  any  of  the  equipment  comprising  the  system,  or  to  access  other 
+accounts or restricted areas of the system; 
+
+•  access any other person’s computer or computer system, network, software, or data without 
+his or her knowledge and consent; breach the security of another user or system; or attempt 
+to  circumvent  the  user  authentication  or  security  of  any  host,  network,  or  account.  This 
+includes, but is not limited to, accessing data not intended for you, logging into or making 
+use  of  a  server  or  account  you  are  not  expressly  authorized  to  access,  or  probing  the 
+security of other hosts, networks, or accounts without express permission to do so; 
+
+•  use  or  distribute  tools  or  devices  designed  or  used  for  compromising  security,  such  as 
+password  guessing  programs,  decoders,  password  gatherers,  unauthorized  keystroke 
+loggers,  analyzers,  cracking  tools,  packet  sniffers,  encryption  circumvention  devices,  or 
+Trojan Horse programs. Unauthorized port scanning is strictly prohibited; 
+
+•  copy,  distribute,  or  sublicense  any  software  provided  in  connection  with  the  service  by 
+Castleberry  or  any  third  party,  except  that  you  may  make  one  copy  of  each  software 
+program for back-up purposes only; 
+
+•  distribute programs that make unauthorized changes to software (“cracks”); 
+•  use  or  run  dedicated,  stand-alone  equipment  or  servers  from  the  premises  that  provide 
+network content or any other services to anyone outside of your premises local area network 
+(“Premises  LAN”),  also  commonly  referred  to  as  public  services  or  servers.    Examples  of 
+prohibited  equipment  and  servers  include,  but  are  not  limited  to,  e-mail, Web  hosting,  file 
+sharing, and proxy services and servers; 
+
+ 
+
+9 
+
+•  use or run programs from the premises that provide network content or any other services to 
+anyone outside of your Premises LAN, except for personal and non-commercial residential 
+use; 
+
+•  service, alter, modify, or tamper with Castleberry’s equipment or service or permit any other 
+
+person to do the same who is not authorized by Castleberry. 
+
+ 
+Network and Usage Restrictions 
+ 
+Customers shall not: 
+• 
+
+restrict, inhibit, or otherwise interfere with the ability of any other person, regardless of intent, 
+purpose or knowledge, to use or enjoy the service, including, without limitation, posting or 
+transmitting  any  information  or  software  which  contains  a  worm,  virus,  lock,  key,  bomb, 
+cancelbot or other harmful feature, or generating levels of traffic sufficient to impede others’ 
+ability to use, send, or retrieve information; 
+restrict,  inhibit,  interfere  with,  or  otherwise  disrupt  or  cause  a  performance  degradation, 
+regardless of intent, purpose or knowledge, to the service or any Castleberry (or Castleberry 
+supplier)  host,  server,  backbone  network,  node  or  service,  or  otherwise  cause  a 
+performance  degradation  to  any  Castleberry  (or  Castleberry  supplier)  facilities  used  to 
+deliver the service; 
+resell the service or otherwise make available to anyone outside the premises the ability to 
+use the service (for example, though WiFi or other methods of networking), in whole or in 
+part,  directly  or  indirectly.    The  service  is  to  be  used  for  residential  and  small  business 
+purposes  only.    You  agree  not  to  use  the  service  for  operation  as  an  Internet  service 
+provider or for any similar business purpose; 
+
+•  connect the Castleberry equipment to any computer outside of your premises; 
+• 
+
+interfere  with  computer  networking  or  telecommunications  service  to  any  user,  host  or 
+network,  including,  without  limitation,  denial  of  service  attacks,  flooding  of  a  network, 
+overloading  a  service,  improper  seizing  and  abusing  operator  privileges,  and  attempts  to 
+“crash” a host. 
+
+• 
+
+• 
+
+ 
+
+Castleberry is committed to complying with U.S. copyright and related laws and requires 
+all  customers  and  users  of the  service  to  comply  with  these  laws.    Accordingly,  you  may  not 
+store any material or content on, or disseminate any material or content over, the service (or 
+any part of the service) in any manner that constitutes an infringement of third party intellectual 
+property rights, including rights granted by U.S. copyright law. 
+ 
+
+Owners of copyrighted works who believe that their rights under U.S. copyright law have 
+been infringed may take advantage of certain provisions of the Digital Millennium Copyright Act 
+of 1998 (the “DMCA”) to report alleged infringements.  It is Castleberry’s policy, in accordance 
+with the DMCA and other applicable laws, to reserve the right to terminate the service provided 
+to any customer or user who is either found to infringe third party copyright or other intellectual 
+property rights, including repeat infringers, or who Castleberry, in its sole discretion, believes is 
+infringing  these  rights.    In  the  event  of  repeat  copyright  infringing  activities,  Castleberry  may 
+take additional steps to protect its network and subscribers, including, but not limited to, filtering 
+IP addresses or disabling or, as appropriate, terminating subscriber accounts at any time with or 
+without notice for any affected customer or user. 
+
+ 
+Copyright owners may report alleged infringements of their works that are stored on the 
+service  by  sending  Castleberry’s  authorized  agent  a  notification  of  claimed  infringement  that 
+satisfies the requirements of the DMCA.  Upon Castleberry’s receipt of a satisfactory notice of 
+
+ 
+
+10 
+
+claimed infringement for these works, Castleberry will respond expeditiously to either directly or 
+indirectly (i) remove the allegedly infringing work(s) stored on the Service or (ii) disable access 
+to the work(s).  Castleberry will also notify the affected customer or user of the service of the 
+removal or disabling of access to the work(s). 
+
+  
+Redress Options 
+Customers  may  contact  Castleberry  via  e-mail  at  cbtel@cbtelco.com  for  technical 
+support.  Technical support is available twenty-four hours a day, seven days a week for Internet 
+service at 1-251-966-8324.  
+
+ 
+Castleberry’s  Customer  Service  is  available  to  resolve  customer  complaints  and 
+questions  by  e-mail  at  cbtel@cbtelco.com;  by  mail  to  Castleberry  Telephone  Company,  Inc., 
+1881 Cleveland Avenue, P.O. Box 37, Castleberry, Alabama 36432; and by telephone during 
+the hours of 8:00 am to 4:00 pm Monday through Friday at 1-251-966-2110. 
+ 
+IV.  Blocking  
+ 
+
+Castleberry is committed to providing high-quality Internet access services and being a 
+responsible member of the Internet Community, including adhering to the “net neutrality” rules 
+set forth by Federal Communications Commission (FCC).  With regard to the above-referenced 
+Internet access services, Castleberry does not block lawful websites, applications, services or 
+non-harmful  devices,  nor  does  it  block  applications  that  compete  with  Castleberry’s  voice 
+services. 
+ 
+V.  Discrimination 
+ 
+ 
+VI.  Throttling 
+ 
+ 
+than  reasonable  network 
+management elsewhere disclosed) that degrades or impairs access to lawful Internet traffic on 
+the basis of content, application, service, user, or use of a non-harmful device. 
+ 
+VII.  Paid Prioritization 
+ 
+
+Castleberry does not unreasonably discriminate in transmitting lawful network traffic. 
+
+Castleberry  does  not  engage 
+
+in  any  practice  (other 
+
+Castleberry does not engage in any practice that directly or indirectly favors some traffic 
+over other traffic, including through use of techniques such as traffic shaping, prioritization, or 
+resource reservation, in exchange for consideration, monetary or otherwise. 
+ 
+VIII.  Affiliated Prioritization 
+ 
+ 
+Castleberry does not engage in any practice that directly or indirectly favors some traffic 
+over other traffic, including through use of techniques such as traffic shaping, prioritization, or 
+resource reservation, to benefit any affiliate. 
+
+ 
+
+11 
+
+

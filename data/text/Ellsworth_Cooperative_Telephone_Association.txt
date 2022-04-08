@@ -1,0 +1,429 @@
+Ellsworth Cooperative Telephone Association 
+
+Broadband Internet Access Service 
+
+Network Management Disclosure 
+
+ 
+
+Ellsworth Cooperative Telephone Association (the Company) invests significant resources to 
+bring Internet access to our customers and strives to provide customers an optimum online 
+experience that enables them to access all available content within the realm of the Open 
+Internet principle. Generally, the Company utilizes a best-efforts approach to deliver Broadband 
+Internet Access Service so that customers experience speeds at or near the advertised levels.  
+ 
+Key attributes of the Company’s network management are:  
+
+• 
+
+• 
+
+• 
+• 
+
+it does not block, throttle, or inhibit any specific applications or classes of 
+applications. 
+it does not directly or indirectly favor some traffic over other traffic for the benefit of 
+an affiliate. 
+it does not engage in paid prioritization.  
+it does not restrict the types of devices that can be connected to its network.  
+
+ 
+The Company may use network management tools to optimize quality of service to customers 
+for applications that are sensitive to packet loss, delay or jitter like VoIP, time sensitive data, and 
+video traffic. The Company offers Specialized Services, such as IP Video of Voice over IP 
+(“VoIP”), over the same last mile facilities as broadband Internet access services.  While the 
+VoIP and Video traffic are given priority, there is sufficient capacity in the company’s last mile 
+optical network that congestion should not occur for the internet access service speeds currently 
+provided by the company.  
+ 
+The Company generally allows customers to attach any lawful device to its network so long as it 
+does not impede the provision of Internet access service, harm the network, enable theft of the 
+service or a violation of the Company’s Acceptable Use Policy or any terms of service, or harm 
+other users of the service.  
+ 
+Service Performance 
+
+All Company Broadband Internet Access Services are provided over optical fiber technology.    
+The Service speeds identified in the Company’s marketing materials and other communications 
+reflect maximum advertised speed and services provided will be “up to” those advertised. Actual 
+speed experienced by a customer will vary based on multiple factors including inside wiring and 
+customer equipment configuration, interference on the customers line, website(s) accessed, and 
+internet congestion. Customers can determine the speed of their Broadband Internet Access 
+Service connection at this link (http://www.netins.net/support) 
+ 
+Latency is highly variable depending on the network path, other providers in the path, the 
+distance to the destination, and performance of end destination servers.  Customers should 
+expect roundtrip latency to most general internet sites in the range from 50-100ms. 
+ 
+ 
+ 
+
+ 
+
+July 2018 
+
+1 
+
+Security Policy 
+
+The Company is dedicated to managing its network to ensure that all customers receive a 
+secure online experience. We use industry-leading security practices to manage our network, 
+provide services to our customers, and ensure compliance with our Acceptable Use Policy. 
+These tools and practices may change from time to time to keep up with the new and innovative 
+ways that customers use the network and to keep up with changing network technologies. 
+
+The Company relies on its supplier, Aureon, to identify malicious behavior and for security 
+management techniques to ensure that customer systems are not propagating viruses, or 
+distributing spam email, or other malicious behavior. This includes use of industry best practices 
+to prevent virus/spam delivery to customer email accounts, automatically detect and mitigate 
+(Denial of Service) DOS attacks for our customers and blocking of malicious and phishing sites 
+to prevent fraud against customers and to prevent customers from getting infected via (Domain 
+Name Service) DNS black-holing and Internet Protocol address (IP) black-holing. 
+
+Commercial Terms 
+
+Customers can learn about the specific pricing and service availability by calling or visiting the 
+Company’s local business office.   
+
+The Company’s current Broadband Internet Access Service offering does not include usage-
+based fees. Other terms or use are listed in the Company’s Internet Terms & Conditions & 
+Acceptable Use Policy. 
+
+Privacy Policy 
+
+Like most companies, we have certain information about our customers and use it to provide 
+our services. We also share it as needed to meet our business goals or fulfill our legal 
+obligations. We protect the information we have about our customers, and we require those we 
+share it with to protect it too. We use information generated on our networks to manage those 
+networks, to plan for future development, and to keep our services running reliably and 
+efficiently. For example, we monitor data to check for viruses, to control spam, to prevent 
+attacks that might disable our services, to ensure that your traffic does not violate our Internet 
+Terms & Conditions & Acceptable Use Policy, and to guard against other inappropriate or illegal 
+activity. This may involve looking at the characteristics of our network traffic, such as traffic 
+volumes, beginning and ending points of transmissions, and the types of applications being 
+used to send traffic across our network. In limited circumstances, we need to examine the 
+content of the data (such as the specific Web sites being visited, files being transmitted, or 
+application being used) for the purposes described above, in circumstances when we are 
+concerned about fraud or harassment, to repair a problem we detect or that a customer contacts 
+us about, or when we are providing the content of broadband traffic to law enforcement which 
+we only do as authorized by law. 
+
+Redress Policy 
+
+If you have any questions or complaints regarding Ellsworth Cooperative Telephone Association 
+Broadband Internet Access services and the subjects of this disclosure, you may call or visit our 
+local business office or send us a message using our Facebook page. 
+
+Ellsworth Cooperative Telephone Association takes all such questions and complaints seriously. 
+The appropriate Company personnel will review all such submissions and respond in a timely 
+manner. 
+
+July 2018 
+
+2 
+
+Ellsworth Cooperative Telephone Association 
+
+Acceptable Use Policy (AUP) 
+
+for Broadband Internet Access Service   
+
+Last Updated: July 2018 
+
+  
+This Acceptable Use Policy ("AUP") governs Broadband Internet Access Service 
+provided to you by Ellsworth Cooperative Telephone Association (together with any 
+subsidiaries or affiliates providing your service, hereafter, "we" "us" or "Company") 
+and includes the following terms and provisions as the same may be amended or 
+modified from time to time as provided herein. The terms and provisions of this AUP are 
+without limitation of any rights to suspend or terminate service that Company otherwise 
+possesses under your Agreement or applicable law. 
+
+1.  Applicability. This AUP applies to you as a customer and to any other person, 
+
+authorized or abusive, using your service (each such person, a User). For purposes of 
+this AUP, your use includes, and you are responsible for, the use of all Users who 
+access service through your account. It is your responsibility to take precautions to limit 
+access to service to approved Users. 
+
+2.  Compliance Required. Pursuant to your Agreement, all customers have agreed to and 
+must comply with this AUP. Company reserves the right to terminate or suspend service 
+immediately or to otherwise disconnect, remove, block, filter or restrict your use of 
+service if Company determines, in its sole discretion, that such use is illegal or violates 
+this AUP. Company will cooperate with legal authorities and/or third parties in the 
+investigation of any suspected or alleged crime or civil wrong. If Company believes that 
+you have used service for an unlawful or abusive purpose, Company may forward the 
+relevant communication and other information, including your identity, to the appropriate 
+authorities for investigation and prosecution. You hereby consent to Company’s 
+forwarding of any such communications and information to these authorities. In addition, 
+Company may provide information in response to law enforcement requests, lawful 
+government requests, subpoenas, court orders, to protect its rights and property and in 
+the case where failure to disclose the information may lead to imminent harm to you or 
+others. Company also reserves the right to take action on abuse which is not specifically 
+named in this AUP at the sole discretion of Company. Use of the Company’s systems 
+and network constitutes understanding and agreement of this policy. 
+
+3.  Prohibited Uses and Activities. This AUP identifies certain uses and activities that 
+
+Company considers to be unlawful or abusive and therefore strictly prohibited. The 
+examples listed herein are non-exclusive and are provided solely for guidance to 
+customers. Company, at its sole discretion, reserves the right to discontinue service for 
+any unlawful use. In the event of uncertainty as to whether any contemplated use or 
+activity is permitted, please contact a customer service representative for assistance. In 
+addition to any other illegal or abusive uses or activities, the following constitute 
+violations of this AUP:  
+
+1.  Unlawful Use: Using service in any manner that violates local, state or federal law, 
+
+including without limitation using service to transmit any material (by e-mail or 
+otherwise) whose transmission is unlawful under any local, state or federal law 
+applicable to such transmission. 
+
+July 2018 
+ 
+
+1 
+
+2.  Copyright or Trademark Infringement: Using service to transmit any material (by e-
+mail, file sharing software, direct download, FTP sites or otherwise) that infringes any 
+copyright, trademark, patent, trade secret, or other proprietary rights of Company or any 
+third party, including, but not limited to, the unauthorized copying of copyrighted 
+material, the digitization and distribution of photographs from magazines, books, or 
+other copyrighted sources, the digitization and distribution of copyrighted video or 
+music, and the unauthorized transmittal of copyrighted software. 
+
+3.  Violation of the Digital Millennium Copyright Act (DMCA): Using service to 
+
+circumvent any technological measures used by copyright owners to protect their works 
+or using service to produce or disseminate technology primarily designed or produced 
+to circumvent DMCA protections, that have only limited commercially significant 
+purpose or use other than to circumvent; or that are marketed for use in circumventing 
+DMCA protections. 
+
+4.  Harm to Minors: Using service to harm, or attempt to harm, minors in any way; 
+
+including but not limited to activities involving child pornography or the sexual 
+exploitation of children. 
+
+5.  Threats: Using service to transmit any material (by e-mail or otherwise) that illegally 
+
+threatens or encourages bodily harm or destruction of property. 
+
+6.  Harassment and Cyberbullying: Using service to transmit any material (by e-mail or 
+
+otherwise) that unlawfully harasses another. 
+
+7.  Fraudulent Activity: Using service to make fraudulent offers to sell or buy products, 
+
+items or services, or to advance any type of financial scam such as pyramid schemes, 
+Ponzi schemes, unregistered sales of securities, securities fraud and chain letters. 
+
+8.  Forgery or Impersonation: Adding, removing or modifying identifying network, 
+
+message or article header information in an effort to deceive or mislead is prohibited 
+while using service. Attempting to impersonate any person by using forged headers or 
+other identifying information is prohibited. 
+
+9.  Unsolicited Commercial E-mail/Unsolicited Bulk E-mail: Using service to transmit 
+
+any unsolicited commercial e-mail or unsolicited bulk e-mail. Activities that have the 
+effect of facilitating unsolicited commercial e-mail or unsolicited bulk e-mail, whether or 
+not that e-mail is commercial in nature, are prohibited. Using deliberately misleading 
+headers in e-mails sent to multiple parties is prohibited. 
+
+10. Intentional Network Disruptions and Abusive Activity: Using service for any activity 
+that adversely affects the ability of other people or systems to use service or third party 
+Internet-based resources. This specifically but without limitation includes excessive 
+consumption of network or system resources whether intentional or unintentional. This 
+also includes denial of service (DoS) attacks against another network host or individual 
+user. Interference with or disruption of other network users, network services or network 
+equipment is prohibited. The transmission of viruses, malware, or engaging in mail 
+bombing, chat flooding, cybersquatting, and similar unlawful behavior is also prohibited. 
+Attempting to circumvent user authentication or security of any host, network, or 
+account on Company’s systems or the Internet at large ("cracking"). This includes 
+scanning or probing ports without the consent of the owner of the machine being 
+scanned. 
+
+11. Unauthorized Access: Using service to access, or to attempt to access without 
+
+authority, the accounts of others, or to penetrate, or attempt to penetrate, security 
+
+July 2018 
+ 
+
+2 
+
+measures of Company’s or a third party’s computer software or hardware, electronic 
+communications system, or telecommunications system, whether or not the intrusion 
+results in disruption of service or the corruption or loss of data. 
+
+12. Collection of Personal Data: Using service to collect, or attempt to collect, personal 
+
+information about third parties without their knowledge or consent in violation of 
+applicable state or federal law. 
+
+4.  Network Management Practices. Service is available for individual customer 
+
+use only and not for resale. Reselling service without Company’s written 
+authorization will be considered a violation of your Agreement and will result in 
+termination of service. Pricing is based on contemplated usage not exceeding 
+commercially reasonable limitations. Unlimited plans and features offered as part 
+of any service may ONLY be used for normal residential or business use. During 
+certain peak usage times, Company may limit data transfer speeds in a non-
+discriminatory fashion, which may slow the rate of streaming video or download 
+speeds. Company will not unreasonably discriminate in the transmission of lawful 
+network traffic, and will provide a reasonable description of network performance 
+characteristics on our website. Company will not block access to lawful content 
+or websites, applications, services, or non-harmful devices. Company will keep 
+accurate records of your service location(s), quantities, and usage under your 
+Agreement. Company reserves the right to immediately disconnect or modify 
+your service if Company determines, in its sole and absolute discretion, that your 
+use of service is, or at any time was, inconsistent with normal residential or 
+business usage patterns or is otherwise in violation of this AUP. In the event your 
+usage exceeds applicable usage limitations and as an alternative to 
+disconnection of service, Company may offer you a revised Agreement including 
+higher rates for usage of service that is deemed to be inconsistent with normal 
+residential or business use. Company reserves the right to protect its network 
+from harm, which may impact legitimate data flows. Company reserves the right 
+to limit throughput or amount of data transferred, and to deny or discontinue 
+service, without notice, to anyone it believes is using an unlimited data plan or 
+feature in any manner prohibited herein or whose usage adversely impacts 
+Company’s network or service levels. Specific management practices and 
+service descriptions and disclosure of service pricing can be obtained by 
+contacting the company. The Company’s supplier, Aureon, also offers a speed 
+test site to any user or customer. It can be accessed at:  
+https://www.netins.net/support. 
+
+5.  Content. You will be liable for any and all liability that may arise out of the content 
+
+transmitted by you. You shall assure that your use of service and content comply at all 
+times with all applicable laws, regulations and written and electronic instructions for use. 
+Company reserves the right to disconnect or suspend your service and remove your 
+content from service if Company determines, in its sole and absolute discretion, that 
+such use or content does not conform with any applicable law, the requirements set 
+forth in this AUP or interferes with Company’s ability to provide service to you or others. 
+Company’s action or inaction under this Section will not constitute any review, waiver or 
+approval of your usage or content. 
+
+July 2018 
+ 
+
+3 
+
+6.  Service Monitoring. Company is under no obligation to monitor a customer’s usage, 
+bandwidth, transmissions and/or content of service. However, Company may monitor 
+the usage, bandwidth, transmissions and content of service periodically to (i) comply 
+with any necessary laws, regulations or other governmental requests or (ii) operate 
+service properly or to protect itself, its network and its customers and subscribers. 
+Company reserves the right to modify, reject or eliminate any information residing on or 
+transmitted to its server that it, in its sole discretion, believes is unacceptable or in 
+violation of this AUP or any other terms and provisions applicable to service. 
+
+7.  Domain Name Service. Keeping registry information updated and accurate is the 
+
+responsibility of the domain holder.  Acceptable use of the domain name service does 
+NOT include falsifying or omitting valid domain contact information, including the 
+administrative, technical, zone, and billing contacts. Such usage will result in termination 
+of service. 
+
+8.  Dial-up Access. Dial-up connections that are idle for 20 minutes or longer, or 
+
+connected for more than 24 hours continuously, will be disconnected. Idle time is 
+defined as a period during which no input or output is sent or received across the 
+modem connection. Multiple simultaneous logins to a single dial-up account are 
+prohibited. 
+
+9.  Web/FTP Sites. Acceptable use of Company’s web/FTP space does NOT include: 
+
+Distribution of illegal pornographic or otherwise indecent or offending materials, 
+distribution of restricted software or materials in violation of copyrights or distribution 
+licenses, or any other illegal activity prohibited under Paragraph 3, above. 
+
+10. Theft of Service. You must notify Company immediately if you become aware at any 
+time that your service is being stolen, fraudulently used or otherwise being used in an 
+unauthorized manner. When you provide such notification, you must provide your 
+account number and a detailed description of the circumstances of the theft, fraudulent 
+or abusive use of service. Failure to do so in a timely manner may result in the 
+disconnection of your service, additional charges to you, and civil or criminal liability. 
+Until such time as Company receives notice of the theft, fraudulent use or abusive use, 
+you will be liable for all stolen, fraudulent or abusive use of service. Company reserves 
+all of its rights at law and equity to proceed against anyone who uses service illegally or 
+improperly. 
+
+11. Indemnification. By activating or using service, you agree to use service only for 
+authorized, lawful purposes in accordance with this AUP and your Agreement. In 
+addition to being subject to other remedies, liabilities and obligations under law or 
+applicable agreements, you shall defend, indemnify, and hold Company harmless from 
+any claims, damages, losses, or expenses (including without limitation attorney’s fees 
+and legal costs) incurred in connection with all claims, suits, judgments and causes of 
+action for damages arising from the breach by you or your Users of any provision of this 
+AUP. Company shall not be liable to customers or third parties for any loss, costs, or 
+damage to customer's personal computer or the contents thereof caused by or resulting 
+from Company's performance of Remote PC Support Services for customer, and 
+customer shall indemnify and hold Company harmless therefor. 
+
+12. Termination of Service. Company has the right to terminate access to or use of this 
+service as provided in this AUP and your Agreement. Access to and use of service is 
+subject to strict compliance with law and applicable agreements. 
+
+July 2018 
+ 
+
+4 
+
+13. Modifications. Company may modify the terms and conditions of this AUP in a 
+
+commercially reasonable manner from time to time and shall provide you notice of such 
+changes by publication on our website, bill message or other commercially reasonable 
+notice. Your use of service following such notice constitutes your agreement to the 
+modified terms and conditions. 
+
+14. Survival. The provisions of this AUP that by their sense and context are intended to 
+survive the discontinuance or disconnection of your use of service shall survive such 
+discontinuance or disconnection. 
+
+15. Governing Law. This AUP and the relationship between you and Company shall be 
+
+governed by and construed in accordance with the substantive laws of the State of 
+Iowa, without regard to the principles of conflict of law. 
+
+16. No Waiver of Rights. Company’s failure to exercise or enforce any right under or 
+
+provision of this AUP shall not constitute a waiver of such right or provision. 
+
+17. Severability. If any part or provision of this AUP is legally declared invalid or 
+
+unenforceable, that part or provision will be construed consistent with applicable law as 
+nearly as possible, and the remaining parts and provisions will remain in full force and 
+effect. Such invalidity or non-enforceability will not invalidate or render unenforceable 
+any other part or provision of this AUP. 
+
+18. Applicability to Attached Sites. Sites directly attached to Company backbone are 
+
+expected to adhere to Company acceptable use policies. The individual who signed the 
+contract is responsible for educating site users on acceptable use policies. Violations of 
+the AUP by directly attached sites will be referred to the account owner for resolution. 
+The account owner will be held responsible for any violations of the AUP. 
+
+19. Important Customer Information. In addition to the terms and conditions set forth in 
+this AUP, service is subject to your Agreement, which you should read carefully before 
+activating or using service. For additional terms and conditions of service, refer to your 
+Agreement, or speak with a customer service representative. 
+ 
+IMPORTANT: BY SIGNING THE SERVICE AGREEMENT AND/OR ACTIVATING OR 
+USING SERVICE, YOU AGREE TO COMPLY WITH ALL OF THE APPLICABLE 
+TERMS, CONDITIONS AND PROVISIONS CONTAINED IN THE SERVICE 
+APPLICATION, SERVICE AGREEMENT AND ANY APPLICABLE SERVICE 
+TARIFFS, THIS ACCEPTABLE USE POLICY, THE TERMS AND CONDITIONS OF 
+SERVICE, AND YOUR SELECTED SERVICE PLAN OR SERVICE PACKAGE. IF 
+YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS OF SERVICE, PLEASE 
+NOTIFY US PRIOR TO INSTALLATION AND WE WILL CANCEL YOUR SERVICE. 
+ 
+
+July 2018 
+ 
+
+5 
+
+

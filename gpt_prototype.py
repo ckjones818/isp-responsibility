@@ -1,7 +1,7 @@
 import openai
 from decouple import config
 
-openai.api_key = config['OPENAI']
+openai.api_key = config('OPEN_AI')
 
 print('Enter a question:')
 input = input()

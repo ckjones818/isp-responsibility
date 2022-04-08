@@ -1,0 +1,88 @@
+Open Internet Disclosure
+
+To comply with the Federal Communications Commission ("FCC") and its Restoring Internet Freedom 
+Order, Yellowstone Media Design ("Yellowstone Media Design") is providing this transparency 
+statement. It is intended to inform subscribers of what to expect when using service provided by 
+Yellowstone Media Design.
+
+Network Management Practices:
+    Blocking; Delinquent accounts are subject to partially or completely blocked Internet access.
+    Yellowstone Media Design does not block accounts in good standing, excepting access to illegal 
+     content, or Application-Specific Behavior described below.
+
+    Throttling; Due to interference, terrain, foliage, or other factors, Yellowstone Media 
+    Design may not be able to provide the full advertised speed to certain subscribers. 
+    Yellowstone Media Design may reduce a subscriber's provisioned speed, in order for the 
+    affected subscriber to receive a consistent experience, and/or to reduce negative impacts 
+    on other subscribers.
+
+    In this event, Yellowstone Media Design will notify the affected subscriber of their newly 
+    provisioned account speed. 
+
+    Subscribers will always be notified of reductions in provisioned speed, but may or may not 
+    be notified of increases in provisioned speed.
+
+    Affiliated Prioritization; Yellowstone Media Design does not implement Affiliated Prioritization.
+
+    Paid Prioritization; Yellowstone Media Design does not implement Paid Prioritization.
+
+    Congestion Management; Yellowstone Media Design does not implement programmatic Congestion
+    Management.
+
+    Application Specific Behavior; To protect subscribers from exploitation, Yellowstone Media Design 
+    may block or restrict subscribers' incoming traffic to ports 25 and 80, and NetBIOS services. 
+    Subscribers may request to have this block removed, subject to a security audit by Yellowstone
+    Media Design to ensure responsible use of these ports.
+
+    To facilitate management of Yellowstone Media Design's network, Yellowstone Media Design may 
+    also block subscribers' incoming traffic on a few undisclosed ports. Blocking of these ports is not
+    known to negatively impact any common Internet traffic; subscribers may request a complete list of
+    blocked ports.
+
+    Device Attachment Rules; Yellowstone Media Design allows subscribers to use the router of their
+    choice, it must have an Ethernet WAN port and support both PPPoE and DHCP for the WAN 
+    connection.
+
+    Security; External hosts conducting port scans or probing commonly-exploited ports on a
+    Yellowstone Media Design IP address (for internal services, or in use by a Yellowstone Media
+    Design subscriber) may have all incoming traffic blocked temporarily. Subscribers being negatively
+    affected by this automatic intrusion prevention may request an exemption from this protection,
+
+    which may be provided at Yellowstone Media Design's sole discretion.
+
+Performance Characteristics:
+
+    Service Description; Yellowstone Media Design provides terrestrial, fixed-wireless service, received 
+    with an outdoor antenna. Yellowstone Media Design's website advertises "baseline" plans and their 
+    capabilities. In some areas, Yellowstone Media Design's service offerings may differ from the
+    advertised plans. Preceding and/or during installation, Yellowstone Media Design will clearly inform
+    a subscriber of any variation from the advertised plan they may encounter.
+
+    Impact of Non-Broadband Internet Access Service Data Services; Yellowstone Media Design does
+    not offer Non-BIAS services.
+
+Commercial Terms
+
+    Price. Pricing is clearly advertised at www.ymdesign.net. Advertised plans are considered "baseline"
+    plans, and represent what is available in most of Yellowstone Media Design's coverage area.
+    Different plans may be available in some locations. Contact Yellowstone Media Design by phone or
+    email to find out what services are available at a specific location.
+
+Privacy Policies; Yellowstone Media Design does not intercept, retain or share subscribers' traffic 
+    content, except where required by law. Yellowstone Media Design may view TCP/IP connection data
+    in order to assist subscribers with problems, and for network management purposes.
+
+    Yellowstone Media Design does not retain connection data as a practice, and does not share this data.
+
+    Yellowstone Media Design retains subscriber usage data and other network equipment metrics, for
+    the purpose of network management and improving service quality. Yellowstone Media Design does
+    not share this data.
+
+Redress Options; Complaints are handled by Yellowstone Media Design on a case-by-case basis, and
+should be submitted via email to sales@ymdesign.net or by postal mail to:
+
+            Yellowstone Media Design
+            PO Box 962
+            Gardiner, MT 59030
+
+

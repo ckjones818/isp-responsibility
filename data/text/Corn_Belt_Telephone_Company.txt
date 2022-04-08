@@ -1,0 +1,161 @@
+Corn Belt Telephone Company 
+
+Broadband Internet Access Services 
+
+Network Management Practices, Performance Characteristics, and 
+
+Commercial Terms and Conditions for Fixed Services 
+
+ 
+Corn Belt Telephone Company, (the Company) has adopted the following network management 
+practices, performance characteristics, and commercial terms and conditions for its broadband Internet 
+access services in compliance with the Federal Communications Commission’s Open Internet Framework 
+requirements (GN Docket No. 09-191, WC Docket No. 07-52, and WC Docket 17-108. 
+ 
+These practices, characteristics, terms and conditions are intended to help preserve the Internet as an 
+open framework that enables consumer choice, freedom of expression, end-user control, competition, 
+and freedom to innovate without permission, while permitting the Company to manage its network 
+reasonably. 
+
+ 
+
+Network Management Practices 
+
+ 
+The Company manages its network with the goal of providing the best practicable broadband Internet 
+experience to all of its customers.  Within the scope of its resources, it attempts to deploy and maintain 
+adequate capacity and facilities within its own network, and to acquire sufficient capacity or facilities 
+outside its service area.  Templeton Telephone brand directly offers broadband ISP services through 
+NETINS in its markets.   
+
+a.  Congestion Management Practices 
+
+Corn Belt Telephone Company does not implement any congestion management techniques. In the 
+event of congestion, all traffic is classified as best effort.  Congestion may be caused by capacity limits 
+and bottlenecks in a service provider’s own network, or by limitations in the capacity of transport 
+facilities.   The Company has experienced no recent problems with congestion.  If significant congestion 
+problems arise in the future, the Company’s approach is to determine the source of the problem, and to 
+increase the capacity of the affected portions of its network.   
+
+b.  Application-Specific Behavior Practices 
+
+The Company does not favor or inhibit certain applications or classes of applications.  Customers may 
+use any lawful and commercially available application which they desire on the Company’s network.  
+The Company does not normally monitor the contents of the traffic or applications of its customers.  It 
+undertakes no obligation to monitor or investigate the lawfulness of the applications used by its 
+customers.  If any party contacts the Company with a substantial allegation that an application being 
+used by a customer is unlawful, the Company will investigate the matter (including consultation, as it 
+deems appropriate, with attorneys, consultants, federal or state regulators, and/or federal, state or local 
+law enforcement agencies), and will take appropriate actions to deal with the use of applications that 
+are demonstrated to be unlawful.  Customers may develop their own applications.  The Company will 
+not prohibit the use of customer-developed or modified applications unless there is a reasonable belief 
+that the application will cause harm to its network.  The Company does not block or rate-control specific 
+protocols or protocol ports.  The Company does not modify protocol fields in ways that are not 
+prescribed by the applicable protocol standards.   
+
+c.  Device Attachment Rules 
+
+Corn Belt Telephone Company does not have any approval procedures that must be satisfied before a 
+device can be connected to its network.  Customers may use any lawful, compatible, type-accepted and 
+commercially available device on the Company’s network, as long as there is no harm to the network.  
+The Company does not monitor the devices used by its customers and undertakes no obligation to 
+monitor or investigate the lawfulness of the devices used by its customers.  If any party contacts the 
+Company with a substantial allegation that a device used by a customer is unlawful the Company will 
+investigate and take appropriate action.  
+
+d.  Security Practices 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+E. Traffic blocking; 
+
+Performance Characteristics 
+
+The Company does not normally monitor the traffic of its customers. Customers are free to obtain anit-
+spam and/or anit-virus software or services from any source they desire, as long as such software or 
+services do not disrupt or degrade the traffic of other customers of the Company or harm the network.  
+In the event of Denial of Service (DoS), Distributed Denial of Service (DDoS) attack, spoofing or other 
+malicious traffic, Company will implement inbound and outbound filtering on specific hosts. INS may 
+perform this action on behalf of Corn Belt Telephone Company equipment that is managed by INS. 
+ 
+The Company does not block any lawful content, applications, devices, and/or non-harmful devices.  The 
+only potential exceptions where blocking may occur would be unlawful or harmful circumstances.  The 
+Company does not knowingly impair, degrade or delay the traffic on its network. Congestion may from 
+time to time impair, degrade, or delay some traffic.   Corn Belt Telephone Company does not charge 
+edge service providers of content, applications, services and/or devices any fees simply for transporting 
+traffic between them and its customers.  
+ 
+ 
+ 
+Iowa Network Services (INS) is the internet upstream provider for Corn Belt Telephone Company.  INS 
+offers a speed test site to any user or customer.  It can access here: INS Speed Test 
+http://netins.net/speed.htm.  These tests are heavily dependent on a customer’s home network 
+configuration, modem, and computer, and therefore do not reflect the performance of Corn Belt 
+Telephone Company network only.  Latency is another measurement of the Internet performance. 
+Latency is the time delay in transmitting or receiving packets on the network.  Latency is primarily a 
+function of the distance between two points of transmission, but also can be affected by the quality of 
+the network or networks used in transmission.  Because conditions on these facilities and routes can 
+change frequently, the Company can provide estimated actual access speed and latency information 
+only for specific recent time periods requested by a customer.  The Companies service is suitable for 
+real-time applications.  The speed a customer subscribes to will impact the efficiency of the real-time 
+applications. 
+ 
+Specialized Services:  Corn Belt Telephone Company does not offer specialized services to end users. 
+ 
+ 
+ 
+The commercial terms and conditions of Corn Belt Telephone Company’s broadband Internet access 
+services are available at the business office or by request. 
+ 
+
+Commercial Terms and Conditions 
+
+ 
+
+ 
+
+ 
+
+a. Pricing:  Corn Belt Telephone Company offers different levels of service offerings that change 
+
+b. Discrimination:  The Company does not impair, degrade or delay VoIP applications or services 
+
+ 
+as we continue to build out our network.  Pricing and service offerings are available by contacting the 
+business office.   Corn Belt Telephone Company does not impose fees for early termination.  The 
+Company does not impose usage-based fees upon certain tiers or levels of its service.   
+ 
+that compete with its voice services and those of its affiliate.  The Company does not impair, degrade, 
+delay or otherwise inhibit access by its customers to lawful content, applications, services or non-
+harmful devices.   The Company does not impair free expression such as slowing traffic from websites or 
+blogs. Corn Belt Telephone Company does not use or demand pay for priority that directly or indirectly 
+favor some traffic over other traffic. The Company does not prioritize its own content, application, 
+services, or devices, or those of its affiliates. 
+ 
+c. Privacy:  The Company’s network management practices do not generally entail inspection of 
+network traffic.  The Company does not collect, store or use traffic information to profile its customers 
+in order to sell additional services to them, or for similar non-network management purposes.  Corn Belt 
+Telephone Company retains, stores and provides to law enforcement any traffic information requested 
+pursuant to the procedures of the Communications Assistance for Law Enforcement Act (CALEA), the 
+Foreign Intelligence Surveillance Act (FISA) or other applicable national security or criminal statutes.  The 
+Company retains and stores certain traffic information (customer IP address) for time periods required 
+by federal or state law. 
+ 
+businesses should be addressed to the Company at 712-664-2221 or cornbelt@netins.net Customers 
+and edge service providers that are not able to obtain satisfaction from the Company have the option of 
+invoking the FCC’s informal and formal complaint procedures regarding Open Internet Framework 
+disputes.   
+ 
+ 
+ 
+
+d. Redress Options:  Questions and complaints from consumers, entrepreneurs, and other small 
+
+

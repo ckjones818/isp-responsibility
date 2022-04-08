@@ -1,0 +1,38 @@
+Restoring Internet Freedom Order ISP Disclosure
+Local Internet Service Company, Inc.
+FRN: 0006210736
+DBA: LISCO
+Type of ISP Service: Primarily symmetric Ethernet over fiber
+and Copper-based DSL
+Description of Service: This disclosure describes LISCO’s Internet service for the three listed categories.
+Effective: June 11, 2018 (these have been LISCO’s policies since the start of its broadband service)
+First time disclosure.
+
+Certification of Filing Accuracy
+I state under penalty of perjury that the foregoing is true and correct. Executed on June 18, 2018.
+    
+
+David L. Magill
+VP, Administration and Legal Affairs
+
+Substantive Disclosure Submission
+Network Management Practices
+Blocking: LISCO does not block or otherwise prevent end user access to lawful content, applications, service, or non-harmful devices in any way.
+Throttling: LISCO does not degrade or impair access to lawful Internet traffic on the basis of content, application, service, user, or use of a non-harmful device. In the event that LISCO receives notification of copyright violation more than three times for a customer, after notifying the customer at their current email address on file, LISCO does throttle that customer’s speed progressively from 2Mbps to 0Mbps in the event of additional notice of copyright violations.
+Affiliated Prioritization LISCO does not directly or indirectly favor any traffic, except that VoIP traffic has quality of Service priority, and all VoIP traffic is treated equally.
+Paid Prioritization LISCO does not receive payment, monetary or otherwise, directly or indirectly, for the delivery of traffic.
+Congestion Management LISCO’s only congestion management is to purchase additional upstream bandwidth.
+Application-Specific Behavior LISCO does not block or rate-control specific protocols or protocol ports in any way.
+Device Attachment Rules LISCO has no restrictions based on devices.
+Security  
+
+
+Performance Characteristics
+Service Description 
+Fiber-based broadband: LISCO offers fiber-based broadband, both residential and business in Fairfield, Libertyville, and Packwood, Iowa. It offers mainly business service in Burlington, Ft Madison, Knoxville, Mt Pleasant, Ottumwa, Sigourney and West Burlington. The service for a particular customer is delivered symmetrically on an unshared fiber operating at 1G in both directions between the customer location and the hut or CO serving that town. Internet service is offered at speeds ranging from 5Mbps to 1Gbps symmetrical. That is the speed, including Internet overhead in each packet, that is delivered between the LISCO connection to the Tier 1 provider and the customer. LISCO has no control beyond that point. Latency is consistently about 8 ms to either of the Tier 1 providers. 
+Copper DSL-based broadband: LISCO offers DSL in the above communities as well as Pella, IA. Newly offered services range from 1024Kbps to 2048kbps symmetric and 5/1 to 20/5 for bonded circuits. Latency should be similar to fiber since most of the distance is on fiber. 
+Impact of Non-Broadband Internet Access Service Data Services LISCO offers MPLS services, but they do not use the Internet pipes and do not affect LISCO’s broadband Internet customers in any way. LISCO also has a few remaining dial-up Internet customers; they also have no effect on LISCO broadband customers.
+Commercial Terms
+Price Customers sign an agreement for service, one year for residential, three to five years for business. Early cancellation is permitted when moving outside the LISCO service area; otherwise the customer is committed to the full contract. Local and LD telephone service or video is packaged with Internet service for a reduced fee. Price for symmetric fiber residential service in Fairfield is $74/month for 100 Mbps Internet with up to 500GB transferred, and a single landline with up to 1500 minutes of long distance. 
+Privacy Policies LISCO does not inspect, store, or sell network traffic or use it for any other purpose. 
+Redress Options LISCO maintains a customer service department available by telephone with an expedite process to bring any problems to upper management.

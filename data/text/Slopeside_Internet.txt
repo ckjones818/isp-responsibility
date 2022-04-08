@@ -1,0 +1,322 @@
+Slopeside Internet Transparency Disclosures – Slopeside Internet Inc.
+
+Page 1 of 5
+
+Contact
+
+  
+
+Home
+
+Slopeside Internet Transparency Disclosures 
+
+Slopeside Internet LLC (SSI) provides broadband internet access services to residential & commercial subscribers in eastern Grand 
+County, Colorado. Our Internet services are provided over SSI’s fixed wireless broadband network using licensed, lightly licensed, 
+and unlicensed wireless spectrum and via the all important backhaul connections down to Denver where our true connection to 
+the global Internet is made.
+
+Please note that SSI is committed to providing our Internet products & services on as open a service platform as we can that 
+enables innovation, investment, job creation, economic growth, competition, and free speech to all. We support and open and an 
+transparent Internet eco-system when ever we can.
+
+That said, there are many requirements placed on the Internet backhaul connections we use down to Denver that are by 
+definition–constrained resources. This means that they must be managed judiciously in order to support our customers and the 
+viability of our business as a going concern. This process is often referred to as network traffic management and is a foundational 
+element of any ISP’s broadband Internet Access services and the network that they are delivered on.
+
+SSI does not block any lawful content, applications, services, or your use of non-harmful devices, or discriminate in transmitting 
+lawful network traffic except as reasonably necessary to manage our network effectively for the benefit of our subscribers as 
+described below. Please note that this document is intended to be informational and does not replace or alter the legal terms and 
+conditions of our service.
+
+The purpose of this document–besides being a regulatory requirement of the Federal Government of the United States of 
+America– is to offer a reasonable level of transparency & information about our network management practices and the network 
+speeds and commercial terms of our broadband Internet access services so potential (and current!) SSI customers like you to 
+make informed choices regarding the purchase and use of our services.
+
+This document is provided, in accordance with the open Internet policies and rules of the Federal Communications Commission 
+(ie the FCC) who is the Independent Expert Federal Agency of the US Government which has tasked to Regulate most of the US 
+Internet & telecommunications industry in the US and other services that are digital in nature.
+
+Network Management Practices
+
+The SSI network does not block access to or discriminate against any lawful web site, application or service. All lawful Internet use 
+is handled identically. SSI does not slow, throttle or shape one type of use over another.
+
+• No Blocking: SSI does not block access to legal content, applications, services, or non-harmful devices.
+• No Throttling: SSI does not impair or degrade lawful Internet traffic on the basis of content, applications, services, or non-
+
+harmful devices. *
+
+• No Paid Prioritization: SSI does not favor some lawful Internet traffic over other lawful traffic in exchange for consideration of 
+
+any kind–ie: no “fast lanes” for those who are willing to pay for them.
+
+Congestion Management
+
+SSI is committed to providing the best online experience possible for all of its subscribers. In order to ensure the best experience, 
+in certain circumstances, managing the network is required. SSI network management techniques are tailored to ensure that 
+under congested network conditions, all subscribers receive their fair share of the service.
+
+http://slopeside.co/transparency-disclosure?preview_id=735&preview_nonce=283a80ab42&...
+
+10/1/2018
+
+Slopeside Internet Transparency Disclosures – Slopeside Internet Inc.
+
+Page 2 of 5
+
+This type of Network management is only activated when congestion is detected on our network. When a specific device is 
+determined “congested”, the subscribers serviced from/by the network device(s) in question are analyzed and then managed 
+based on the plan and usage thresholds of the users in question until the congestion has been alleviated. Subscribers will still be 
+able to do what they want online and in many cases activities may be unaffected, but subscribers may see reduced speed in 
+downloads and/or uploads. No specific type of usage activity is targeted by these techniques. It is important to note this type 
+of network management is temporary in nature and based on SSI reacting to dynamic network conditions.
+
+Note that SSI generally use “round-robin” or “fair queuing” in our routing fabric as a network management tool when congestion is 
+present in the network. This means data traffic get equally “split up” based on available bandwidth across all active subscribers 
+regardless of usage or service plan.
+
+The Network Management practices described in this section are part of a defacto SSI network architecture. The overall reason for 
+Network Management it to assure all products and services that SSI provides are the best they can be to support our base of 
+customers, and also our compliance to the laws established by the FCC.
+
+Equipment
+
+Subscribers may connect to the service with any lawful, non-harmful equipment of their choice–though we urge our customers to 
+use our zero cost WiFi home router so that we can maintain your in-home router for you. We do this to assure he most trouble 
+free WiFi experience for your home or business as sometimes exploits such as Malware or Computer Viruses can be “mass 
+produced” on WiFi routers not properly maintained. SSI believes by providing free WiFi router’s to its customers assure a good 
+level of WiFi support & ease of configuration for our customers that might not otherwise be possible.
+
+This still assures that any equipment (..such as a computer, or router, or any other type of “Internet-Enabled” consumer electronic 
+device) that get its connection to the Internet via SSI’s managed Customer Premise Equipment (CPE) or the SSI managed router on 
+site, will still work fine. Note our CPE (usually installed outdoors on the customer premises) receives its Internet connection in 
+almost all cases wirelessly from a one of our tower site locations appropriate to the subscriber’s location.
+
+Network Security
+
+SSI uses a number of tools and techniques to protect its network and subscribers from malicious and unwanted Internet traffic 
+that we feel can prevent the distribution of viruses or other harmful malware code which could cause harm to our subscriber’s 
+computers or other Internet-connected devices.
+
+Its important to mention that– because the nature of external threats to the network connected to the Internet are constantly 
+evolving– SSI network security practices are also dynamic and regularly changing. In general, these security practices should not 
+have any effect on our subscribers’ use of their network connections. Also please note that these practices are of huge 
+importance to our Network Security, and what we protect on SSI’s network–our customers and our ability to deliver service.
+
+The 24×7 awareness of, and monitoring of, a range of foundational security measures is the best practices that we always work to 
+keep up with. The list of these measures is too long to list here, but, under the right conditions we are more than willing to discuss 
+how we handle Network Security–with the caveat that any network security measures we use (if disclosed to the wrong people) 
+could create a negative impact on our network and our customers. And, while we are willing to be transparent about the security 
+measures employed–we will require justification of any disclosure from the requesting party in writing.
+
+Network Speeds
+
+SSI offers a range of Internet speeds to residential and commercial subscribers. The network is designed to support these speeds 
+to help ensure that every subscriber receives the speeds to which they have subscribed. SSI however cannot guarantee speeds at 
+all times, as there are many factors and conditions beyond SSI’s control that can affect Internet performance. Some of these 
+external factors and conditions are:
+
+• Performance of subscriber computer and/or router
+• Type of connection to SSI Customer Premise Equipment (i.e. WIFI or ethernet)
+• Congestion of web sites and services out on distant servers on the Internet
+• Web site or service limiting the speeds of their site to the Internet
+• Internet performance upstream of SSI’s network that can suffer from periodic congestion based on peak-usage times of the 
+
+week or times of day–or other unknown factors.
+
+http://slopeside.co/transparency-disclosure?preview_id=735&preview_nonce=283a80ab42&...
+
+10/1/2018
+
+Slopeside Internet Transparency Disclosures – Slopeside Internet Inc.
+
+Page 3 of 5
+
+This simply means that SSI’s services (as we are a “last-mile” provider) are offered on a “best effort basis” and that SSI’s package 
+speeds are offered measuring speeds described as “up to” that really reflect performance under ideal conditions–or at least 
+speeds across our piece of the Internet.
+
+In the spirit of transparency, and because the reality is that speeds & Internet condition upstream from SSI’s network can see 
+issues any time of the day or night, we are not in a position to (in any true way) guarantee what conditions will occur off of SSI’s 
+network.
+
+Such conditions can often effect even the large business subscriber using much more expensive “Dedicated Internet Access” 
+services (also know as “middle-mile connections”) that usually have significant “Service Level Agreements” (or SLA) from larger 
+backbone providers.
+
+In 2019 SSI plans to provide an “on-net” speed test server for our subscribers to use–though that speed test tool will only measure 
+data moving across our piece of the Internet.  While the test results on our speed test service website will provide information 
+regarding our “on-net” speeds, they are still not be definitive any speed test we have will still be highly dependent on equipment & 
+configuration found in the home network as well as conditions on the wider Internet.
+
+Pricing & Service offerings and other Value
+
+SSI has a number of service offerings that reflect our history and experience using fixed wireless technology and our ability to 
+deliver broadband Internet Service with it.
+
+But service Pricing and Speed are key metrics that must be shared in a clear concise way.
+
+So, for our service speeds, they can vary from 3 Mbps to 40 Mbps speeds with our current generation of equipment. These 
+speeds will increase with the entry of Fixed Wireless LTE into the marketplace.
+
+For these speeds, our customers can expect to pay any where from $30 to $80 dollars–depending of the level of service our 
+customer decides to purchase from us and if they are residential or business customers.
+
+Note that we also offer other “non-monetary value” to our customers either by sharing information with them about Internet-
+connected consumer products we recommend, or by offering flexible billing practices that support the various types of customers 
+that we have here in the Winter Park-Fraser Valley. Whether the customer lives in Denver and has their 2nd home in eastern 
+Grand County, or if they’re local full time residences who live here and work here as well as drive our local economy, we try to 
+offer flexibility and service to convey how much we appreciate their business. There is no way to tell larger ISP’s how important 
+this type of value is to our individual customers, and no way to see them make similar offers.
+
+Also note that our services-because they are terrestrial in nature (ie ground-based and usually fiber backhauled) usually have very 
+low latency. The quality of latency is a measure of how quickly a data packet of information moves from one point on the Internet 
+to another. To put numbers on this, there are speed tests that include latency (& jitter too) and our customers usually see in the 
+low to middle 10’s of milliseconds. The smaller the number, the faster the speed. And, if you count latency as important (as some 
+Internet application do.. such as VoIP or VPN connection to work down in Denver, and others) then you will know why Satellite 
+broadband can be latencies into the middle and higher hundreds. This too, is an important non-monetary value that our 
+technology offers to our customers.
+
+Our Terms of Service
+
+SSI has multiple levels of residential & commercial Internet service offerings, and the price of each service level is set forth in our 
+service agreement, and soon on our new website too.
+
+Note that we support the intake of new customers by using the following process:
+
+• Once a potential client contacts us with any type of service request, we require that we receive an email from them disclosing 
+
+the service address & their contact information and a “expression of interest” or a “service installation request” to get our 
+Internet services at their location.
+
+• Once we confirm the ownership of the location of the specified address, (to confirm if the potential customer owners or rents 
+the property) we’ll use software tools–and most times–a site visit that will allow us to confirm the serviceability we can offer at 
+the requested address.
+
+http://slopeside.co/transparency-disclosure?preview_id=735&preview_nonce=283a80ab42&...
+
+10/1/2018
+
+Slopeside Internet Transparency Disclosures – Slopeside Internet Inc.
+
+Page 4 of 5
+
+• We’ll then contact the potential client again to inform them of the level of services we feel we can deliver, and will email them a 
+
+copy of our Residential or Business Service Agreement (SA) as needed. Said SA will contain our current pricing for monthly 
+recurring service fees–as well as any one-time non-recurring charges associated with doing an installation for that location.
+
+• If the potential client decides to move forward, we’ll set a tentative installation date & time and ask if they have any questions 
+
+about the SA or its content before they sign the SA. If not, we’ll ask them to fill in their info and sign the SA and firm up their 
+installation date & time.
+
+Note that the above process assures that potential customers ALWAYS get the needed information required to make an informed 
+buying decision about our service.
+
+We feel its important to be transparent in a competitive market as consumer confusion and missteps are common in consumer & 
+business broadband purchasing–mostly because needed information & knowledge is often scare or missing –at least from the 
+consumer/decision makers point of view.
+
+Usage Metering
+All SSI subscriptions are truly unlimited or uncapped. SSI does NOT limit subscribers to a specific amount of 
+Internet usage or throttle subscribers based on Internet usage. We believe this is a future looking practice and 
+hope that all adopt this approach.
+That said, there are situations possible in some places on our network that the constrained resource of the Internet link we 
+provide, can be congested beyond what has been designed for. This is usually caused by computer viruses or other types of 
+Internet exploits that are designed to create a “storm” of usage and saturate a user’s Internet connection.
+
+SSI’s will–when required–monitor customer usage levels to be able to respond should such congestion issues occur. This response 
+is strictly to support the quality of the products we offer to our customers. Usage metering and monitoring is a “best practices” 
+and proactive way to be able to address congestion issues that effect our customers.
+
+Transparency
+
+SSI’s network management practices, and the performance of our services and terms of our services are made available to 
+consumers in hopes of both setting expectations about our services and to be transparent and minimize consumer confusion so 
+that informed choices can be made by the potential consumers of Internet services from SSI
+
+For the products that we offer, there are some basic performance characteristics and methods for managing same, and 
+acceptable use policies that we have described on our website.
+
+We feel that this information is he foundation of consumers being able to make informed choices regarding the purchase and use 
+of our service offerings.
+
+SSI Privacy Policies
+
+SSI values and supports with vigor the importance of protecting the privacy of our subscribers and follows procedures and uses 
+tools to ensure that information we collect is better than reasonably protected. Additional details concerning the types of 
+information SSI collects, how the information is used, and your privacy rights can be found on our website in our privacy 
+statement
+
+Its also important to know that SSI feels that–though we support transparency– we also are highly aware of why keeping any 
+private customer information and usage data must be do so securely.
+
+We will never, ever, sell our data and will also NOT give it away without a fight. (ie we will follow the advice of legal counsel if in any 
+CALEA action is served to SSI, but otherwise we will never release your data)
+
+Internally, sometimes customer usage data, is important to us being able to manage & measure our network’s performance and 
+its quality of delivery of services. (..this is mostly for planning and growth purposes) For instance, we do accumulate usage data on 
+a rolling basis to know how much streaming traffic we see–though this information is NOT tied to any one person’s account but 
+aggregated up for network planning and measuring latency and jitter.
+
+Note also sometimes need to validate customer complaints and service issues on occasion. This means that we will turn on 
+service monitoring level data captures to confirm what customers are seeing with their service. Without these types of monitoring, 
+we often cannot trouble-shoot or solve equipment or latency issues that do occur sometimes with a given customer’s service link.  
+
+http://slopeside.co/transparency-disclosure?preview_id=735&preview_nonce=283a80ab42&...
+
+10/1/2018
+
+Slopeside Internet Transparency Disclosures – Slopeside Internet Inc.
+
+Page 5 of 5
+
+Often the causes of such Internet-connected consumer product issues is equipment related failures that degrade over time–which 
+are very hard to spot w/out monitoring usage data. Note that we do NOT keep such monitoring data, but only use it one time to 
+identify the source of network management or “in-home” customer issues.
+
+Questions / Complaint Process / FCC Compliance
+
+SSI strongly desires to resolve questions, complaints and other problems of its customers and edge service providers in an 
+informal and direct manner that satisfies all interested parties to the greatest extent practicable. Questions, complaints and 
+concerns regarding SSI service or network management practices can be directed to customercare@slopeside.net or by calling 
+our office at 970-281-4477.  You can also send a letter to our Winterpark mailing address: Attn: Customer Care, Slopeside Internet, 
+PO Box 1138, Winterpark, CO 80482
+
+Note also that the Federal Communications Commission (FCC) has rules to preserve the Internet as an open platform. Information 
+regarding these rules are available on the FCC’s website at: https://www.fcc.gov/restoring-internet-freedom
+If, as a subscriber to SSI’s services, you believes that SSI is not in compliance with the FCC’s rules, you as a subscriber may file an 
+informal complaint with the FCC–though again we urge our subscribers to get in touch directly any time of the day or night to alert 
+us of such issues so they can be quickly resolved.  Note that the FCC asks for any informal complaints via this link: 
+https://consumercomplaints.fcc.gov/hc/en-us.
+
+Misc Information
+
+• Name of filer: Slopeside Internet LLC
+• FRN: 000171163304
+• ISP Type: Future CBRS/5G operator & current Wireless Internet Service Provider
+• Services Offered: High speed fixed wireless broadband Internet access using various bands of wireless spectrum, and various 
+
+types of wireless vendor technology to deliver Internet Access & private network services.
+
+• Effective date of this Disclosure Statement: Oct 1st 2018
+• This is Slopeside Internet’s first time released Disclosure Statement and this is a notification of this fact as required by law
+
+References
+
+Here is the text of the Open Internet Order: https://docs.fcc.gov/public/attachments/FCC-17-166A1.pdf
+
+FCC Disclosures Portal: https://www.fcc.gov/isp-disclosures
+
+© 2018 Slopeside Internet Inc.
+
+Compliance & Regulations
+
+http://slopeside.co/transparency-disclosure?preview_id=735&preview_nonce=283a80ab42&...
+
+10/1/2018
+
+

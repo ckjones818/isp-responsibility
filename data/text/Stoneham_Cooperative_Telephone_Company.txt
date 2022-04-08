@@ -1,0 +1,185 @@
+Stoneham Cooperative Telephone Corporation 
+
+Disclosures Regarding Internet Service 
+
+(Transparency Disclosures) 
+
+The  following  are  the  Terms  of  Service  and  Network  Management  Practices  for  Stoneham 
+Cooperative  Telephone  Corporation.    The  bandwidth  you  purchase  (your  service  package  or 
+nominal  bandwidth)  from  Stoneham  Cooperative  Telephone  Corporation  is  the  maximum 
+bandwidth  available  to  you.  Stoneham  Cooperative  Telephone  Corporation  will  make  its  best 
+effort  to  transmit  your  data  in  a  timely  fashion.  However,  Stoneham  Cooperative  Telephone 
+Corporation does not guarantee you that you will be able to use your entire nominal bandwidth at 
+any  given  time.  This  is  referred  to  as  “best  effort”  service.  Stoneham  Cooperative  Telephone 
+Corporation  strives  to  make  your  total  nominal  bandwidth  available  for  you  to  use  within  our 
+network.   
+
+Stoneham Cooperative Telephone Corporation cannot control bandwidth availability, congestion, 
+or service quality on those parts of the Internet beyond our network.   When other customers use 
+our network, you may not be able to use your maximum nominal bandwidth because all customers 
+share total bandwidth capacity at some points on our network and on the Internet. If the bandwidth 
+demand of all customers at a particular network location exceeds the bandwidth capacity provided, 
+you may not  be able to  use  your  entire nominal  bandwidth.  All  services  other than Committed 
+Bandwidth services are “shared services” used by many customers. 
+
+Service is provided equally to all customers, and every customer's data has an equal chance to be 
+served.  Service is provided equally to all customers, Internet services, protocols, and sources or 
+destinations on the Internet such as websites, email servers, etc.  
+ 
+Affiliated Prioritization /Paid Prioritization.  It is customary to assign priority levels to traffic 
+based on the technology being served.  For instance, live video traffic will have a higher priority 
+than live voice, which has a higher priority than web browsing which has a higher priority than 
+email.  When such prioritization is assigned, it will be assigned equally to all traffic based on the 
+technology creating and receiving the traffic Stoneham Cooperative Telephone Corporation does 
+not practice directly or indirectly any prioritization of traffic that favors some traffic over other 
+traffic,  whether  it  is  to  an  affiliated  company  or  to  any  other  customer  in  exchange  for 
+consideration, money, or otherwise. 
+ 
+Due to limited bandwidth capacity on an upstream basis (customer to Internet), service is provided 
+equally to all customers, protocols, and sources or destinations on the Internet such as websites, e-
+mail servers, etc. Service is not prioritized by customer or source or destination on the Internet.  
+No services, protocols, or legal sources and destinations on the Internet are blocked other than for 
+reasonable  network  management.  Any  effects  on  service  may  only  be  noticeable  in  times  of 
+significant congestion.  
+
+Throttling.   Stoneham  Cooperative Telephone  Corporation does not, other than for reasonable 
+network management, throttle, degrade or impair access to lawful internet traffic on the basis of 
+content, application, service, user, or use of a non-harmful device. 
+
+Blocking.  Stoneham Cooperative Telephone Corporation may block any service, protocol, source, 
+or  destination  that  Stoneham  Cooperative  Telephone  Corporation  determines  to  be  illegal  or  a 
+threat to life, property, or national security, or if ordered to block or otherwise modify your data 
+by law enforcement agencies.  
+
+Congestion Management.  At this time, Stoneham Cooperative Telephone Corporation does not 
+implement  network  management  techniques  when  congestion  occurs,  however,  in  times  of 
+congestion  on  Stoneham  Cooperative  Telephone  Corporation  network,  Stoneham  Cooperative 
+Telephone  Corporation  may,  at  its  sole  discretion,  implement  reasonable  network  management 
+techniques  to  protect  the  services  of  all  of  Stoneham  Cooperative  Telephone  Corporation’s 
+customers so that each customer has adequate service quality. Stoneham Cooperative Telephone 
+Corporation  will  not  implement  network  management  if  degradation  of  service  is  caused  by 
+congestion  on  portions  of  the  Internet  outside  of  the  Stoneham  Cooperative  Telephone 
+Corporation’s network. 
+
+Application – Specific Behavior (Devices & Software) 
+
+There are no restrictions on types of devices you may connect to Stoneham Cooperative Telephone 
+Corporation’s  network  other  than  that  they  must  be  approved  by  the  Federal  Communications 
+Commission  (FCC)  for  use  in  the  US  telecommunications  network.  You  may  not  connect  any 
+equipment to Stoneham Cooperative Telephone Corporation’s network that is not approved by the 
+FCC. Most commercially available equipment such as modems, routers, and PCs are approved. 
+All equipment approved by the FCC will have a label stating that it is approved and what the type 
+of the approval is. This information is also found in the user’s manual or printed instructions that 
+are  provided  with  the  equipment  and  may  be  found  online  at  the  manufacturer’s  website.  You 
+should  read  this  label  whenever  you  buy  any  equipment  you  wish  to  connect  to  Stoneham 
+Cooperative  Telephone  Corporation’s  network.  If  you  have  questions  about  any  particular 
+equipment, please call us at 970-735-2251  
+
+Stoneham  Cooperative  Telephone  Corporation’s  Internet  access  service  is  designed  to  function 
+with  accepted  industry  standard  interface  software  such  as  provided  by  Microsoft,  Apple,  and 
+others. If you use a type of software not widely used in the worldwide Internet, you may experience 
+some problems with compatibility between your software and Stoneham Cooperative Telephone 
+Corporation’s Internet access service. If you have any questions, please call us at 970-735-2251, 
+and we will try to help you resolve this problem. It is the customer's responsibility to assure that 
+their software and operating interfaces conform to industry accepted specifications.  
+
+Services Plan Stoneham Cooperative Telephone Corporation Offers 
+ 
+
+SPEED 
+
+PRICE 
+
+DOWNLOAD SPEED 
+
+UPLOAD SPEED 
+
+6.0 mbps 
+
+20.0 mbps 
+
+$45.00 
+
+$85.00 
+
+6.0 mbps 
+
+20.0 mbps 
+
+50.0 mbps 
+
+$100.00 
+
+50.0 mbps 
+
+1.0 mbps 
+
+5.0 mbps 
+
+25.0 mbps 
+
+ 
+
+ 
+
+For addition information about rates, application fees, installation fees, and possible credit 
+discounts, please check out our website stonehamtelephone.com 
+
+Network Security  
+
+Stoneham Cooperative Telephone Corporation uses the latest industry-best-practices to maintain 
+integrity and security of its network. This may include security protections that interfere with some 
+types of customer traffic. If you believe your services are being disrupted by our security systems, 
+please contact us at 970-735-2251 
+
+Stoneham Cooperative Telephone Corporation provides a level of protection for your computers 
+from  spam,  viruses,  and  other  malicious  or  unwanted  items.  While  Stoneham  Cooperative 
+Telephone Corporation strives to provide the best protection possible for your computer, we make 
+no guarantees that we can prevent all malicious or unwanted items from accessing your computer. 
+It is the customer’s responsibility to protect their computers and other devices from unwanted or 
+harmful  items.  It  is  very  strongly  recommended  that  you  provide  your  own  virus  and  malware 
+protection, spam filtering, and firewall software.  
+
+There are additional considerations regarding Internet security related to Stoneham Cooperative 
+Telephone Corporation Internet access service. Please review the Terms and Conditions portion 
+of your service agreement.  
+
+Use of Stoneham Cooperative Telephone Corporation’s Services for Real-Time Applications  
+
+The  Best  Effort  services  above  may  be  suitable  for  real-time  applications  if  the  customer  has 
+purchased adequate bandwidth for that service. Disruption during times of congestion, if any, will 
+be minimized if you purchase adequate bandwidth for the services you wish to use. However, since 
+there are occasionally conditions of extreme congestion at various points in the Internet, including 
+Stoneham  Cooperative  Telephone  Corporation’s  network.  Stoneham  Cooperative  Telephone 
+Corporation does not guarantee that your service will never be degraded.  
+
+Note that bandwidth requirements will differ by real-time application. For example, video such as 
+that offered by various services such as YouTube may require somewhat less total bandwidth than 
+entertainment quality streaming video. Bandwidth requirements may also differ among providers. 
+
+Privacy of Customer Information  
+
+Stoneham Cooperative Telephone Corporation inspects packets of data you send or receive over 
+our network to allow us to route and, where applicable, prioritize data. We inspect only the packet 
+headers which tell us where to send your data and the type of data.  
+
+Stoneham Cooperative Telephone Corporation does not examine the content of your data, i.e.: the 
+data which you send or receive, such as the from and to e-mail addresses of your e-mail, which 
+web sites you visit, the sources of your video, or the contents of files you send or receive. 
+
+Stoneham Cooperative Telephone Corporation does not sell or reveal your data to any third parties. 
+
+Stoneham Cooperative Telephone Corporation may provide any of your data, both on an active, 
+real time basis and stored data such as your billing records, to law enforcement under appropriate 
+legal orders if law enforcement requests your information in matters dealing with illegal acts or a 
+threat to life, property, or national security.  
+
+Contact Us 
+If you have any complaints, questions or comments regarding our network management policies 
+or practices, please contact us at 970-735-2251 or stoneham.telephone@yahoo.com 
+
+ 
+
+  
+
+

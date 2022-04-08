@@ -1,0 +1,89 @@
+ISP Transparency Disclosure 
+
+ 
+I. Introduction:  
+ 
+Premium Choice Broadband (PCB) believes in net neutrality and an open internet, and has always 
+stood for, practiced, and advocated for the principles of an open and equal internet for all. 
+ 
+We believe that our customers choose PCB with the understanding that we will simply deliver their 
+traffic without inspection, modification or artificial limitations. The federal government’s repeal of Title 
+II classification and the 2010 FCC Open Internet Order has dismantled bans on blocking, throttling, 
+and prioritizing content; paving the way for service providers to impose performance limits, prioritize 
+content of their choosing, and monetize traffic throughout, all at the expense of citizen’s fair and 
+open access to the rich spectrum of content and information available on the internet. 
+ 
+Instead of banning these practices, the FCC now requires ISPs to publicly disclose network 
+management practices on a “publicly available, easily accessible website” or at the FCC’s ISP 
+Transparency Disclosures Portal at https://www.fcc.gov/isp-disclosures. 
+ 
+While these practices are not banned, PCB is proud to continue supporting the principles of net 
+neutrality and provide our customers with an open internet experience unburdened by cost-cutting, 
+performance impacting network management practices, monetization of access or priority for content 
+providers, censorship of legal content, or sharing of any customer information. 
+ 
+In accordance with the 2018 FCC Restoring Internet Freedom Order and subsequent 
+repeal of net neutrality principles, PCB is happy to disclose continued adherence principles of an 
+open and equal internet as compliant with the RIF “Transparency Rule”. 
+ 
+II. Network Management Policies: 
+ 
+Blocking: PCB does not engage in any practice that blocks or otherwise prevents end user access 
+to lawful content, applications, service, or non-harmful devices, including a description of what is 
+blocked. 
+ 
+Throttling: PCB does not engage in any practice that degrades or impairs access to lawful internet 
+traffic based on content, application, service, user, or use of a non-harmful device. 
+ 
+Affiliated Prioritization: PCB does not engage in any practice that directly or indirectly favors some 
+traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or 
+resource reservation, to benefit an affiliate. 
+ 
+Paid Prioritization: PCB does not engage in any practice that directly or indirectly favors some 
+traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or 
+resource reservation, in exchange for consideration, monetary or otherwise. 
+ 
+Congestion Management: PCB does not engage in any practice to limit customer usage nor 
+impose penalties for bandwidth consumption for reasonable household use. 
+ 
+Application-Specific Behavior: PCB does not engage in any practice to block or rate-control 
+specific protocols or protocol ports, modify protocol fields in ways not prescribed by the protocol 
+standard, or otherwise inhibit or favor certain applications or classes of applications. 
+ 
+Device Attachment Rules: PCB does not engage in any practice to restrict the types of devices 
+that connect to the network. For certain residential products (such as IP Broadband services), 
+
+equipment is supplied, and an equipment fee is applicable. 
+ 
+Security: PCB does not engage in any practice that could possibly jeopardize network security or 
+customer information. Saddleback employs a variety of industry- standard security practices on the 
+network to ensure customer protection. PCB monitors overall network activity to detect potential 
+intrusion and denial of service attack. Additionally, end-users whose systems are compromised, and 
+are sourcing malicious traffic, may be contacted or suspended until the system is secured. We may 
+block traffic to or from customers when a denial of service attack is in progress, and when such 
+traffic is impacting network elements shared by other customers. 
+ 
+III. Performance Characteristics 
+ 
+Service Description: PCB provides internet access via Fiber, ADSL2, Cable, and Wireless. Actual 
+speeds vary by location and product selected. See our website for details. Impact of Specialized 
+Services: No specialized services which affect last-mile capacity are currently offered. 
+ 
+IV. Commercial Terms: 
+ 
+Pricing: PCB offers a variety of products at a range of price points. Products offered are based on 
+geographical availability at the service address. To see product availability and pricing for your 
+address, please visit http://www.premiumchoicebroadband.com. 
+ 
+Privacy Policies: PCB firmly believes in customer privacy. Customer browsing information is not 
+stored. Network traffic management practices are limited to protocol flow analysis (header 
+information only) as required to plan peering, transit and enforce network security, e.g. DoS 
+prevention and tracking. Traffic information is not provided to third parties, nor used by the ISP. 
+ 
+V. Redress Options: 
+ 
+PCB Responds to all complaints. Please email customerservice@premiumchoicebroadband.com if 
+you have any concerns. 
+ 
+
+

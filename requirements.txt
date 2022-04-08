@@ -1,3 +1,5 @@
 requests
 PyPDF2
 openai
+pdfminer3
+python-docx

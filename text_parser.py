@@ -1,28 +1,60 @@
-import PyPDF2
+from pdfminer3.layout import LAParams
+from pdfminer3.pdfpage import PDFPage
+from pdfminer3.pdfinterp import PDFResourceManager
+from pdfminer3.pdfinterp import PDFPageInterpreter
+from pdfminer3.converter import TextConverter
+from docx import Document
+import io
+import os
+import re
  
-#constant
-DATA_DIR = "./data/pdf/"
-FILE = "Absaraka_Cooperative_Telephone_Co._Inc..pdf" 
+# constant
+PDF_DATA_DIR = "./data/pdf/"
+DOC_DATA_DIR = "./data/doc/"
 OUT_DIR = "./data/text/"
- 
-#create file object variable
-pdffileobj=open(DATA_DIR + FILE,'rb')
- 
-#create reader variable that will read the pdffileobj
-pdfreader=PyPDF2.PdfFileReader(pdffileobj, strict=False)
-print()
- 
-#This will store the number of pages of this pdf file
-x=pdfreader.numPages
- 
-#create a variable that will select the selected number of pages
-pageobj=pdfreader.getPage(x+1)
- 
-#(x+1) because python indentation starts with 0.
-#create text variable which will store all text datafrom pdf file
-text=pageobj.extractText()
 
-file_name = FILE.replace(".pdf", ".txt")
+# parse pdf first
+for pdf in os.listdir(PDF_DATA_DIR):
+    # initialize PDF parser
+    resource_manager = PDFResourceManager()
+    file_handler = io.StringIO()
+    converter = TextConverter(resource_manager, file_handler, laparams=LAParams())
+    page_interpreter = PDFPageInterpreter(resource_manager, converter)
+    
+    # open pdf to get text
+    in_path = os.path.join(PDF_DATA_DIR, pdf)
+    with open(in_path, 'rb') as fh:
+        for page in PDFPage.get_pages(fh, caching=True, check_extractable=False):
+            page_interpreter.process_page(page)
 
-file1=open(OUT_DIR + file_name,"w")
-file1.writelines(text)
+        text = file_handler.getvalue()
+        fh.close()
+    
+    # write text to file
+    file_name = pdf.replace(".pdf", ".txt")
+    out_path = os.path.join(OUT_DIR, file_name)
+    file1=open(out_path,"w")
+    file1.writelines(text)
+    file1.close()
+
+    # close open handles
+    converter.close()
+    file_handler.close()
+    
+# parse the docx
+for docs in os.listdir(DOC_DATA_DIR):
+    # initialize docx parser
+    try:
+        doc = Document(os.path.join(DOC_DATA_DIR, docs))
+        text = []
+        [text.append(para.text) for para in doc.paragraphs]
+        text = '\n'.join(text)
+        
+        # write text to file
+        file_name = re.sub('.docx?', '.txt', docs)
+        out_path = os.path.join(OUT_DIR, file_name)
+        file1=open(out_path,"w")
+        file1.writelines(text)
+        file1.close()
+    except Exception as e:
+        print(e)

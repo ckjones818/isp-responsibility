@@ -1,0 +1,57 @@
+FCC Open Internet Disclosure
+
+The Federal Communications Commission ("FCC") requires that all Internet Service Providers ("ISPs") within the United States provide you with open, transparent information on the policies and procedures enforced on said ISPs networks. This disclosure statement, in an effort to comply with said rules and regulations, is to inform you of the policies of Signal, Inc. residential and business Internet services, including information regarding any network management practices that we employ, as well as the performance characteristics of our services. This applies solely to the portion of our network used to deliver, run, and maintain both our residential and business Internet services.
+
+Signal, Inc. ("Signal") reserves the right to change or modify this Disclosure and its policies at any time, so long as such changes adhere to the FCC's rules and regulations for ISPs, without notice to you. It is your responsibility as the end user to review this Disclosure from time to time to be aware of any changes. Continued use of Signal's residential and business Internet services after any changes are made to this statement will be considered acceptance and knowledge of said changes.
+
+In no way does this Disclosure alter or change the existing Terms of Service or Acceptable Use Policies, which should be read in addition to this statement.
+
+1. Network Practices
+
+1.1 Congestion Management
+
+The bandwidth and network resources used to deliver our residential and business Internet services are limited and shared among users. The FCC allows ISPs such as Signal to engage in "reasonable network management practices" to ensure that our customers enjoy a high quality online experience. The use of network management tools and techniques to conserve bandwidth may cause certain users of the residential and business Internet services to notice slower Internet performance from time to time, such as longer download and upload times or slower responses while surfing the Internet or playing games. Typically this will only occur for brief periods of time, if at all.
+
+Signal does not employ limits such as, Blocking, Throttling, Affiliated Prioritization, or Paid Prioritization beyond "reasonable network management practices" to ensure that our customers enjoy a high quality online experience.
+
+Signal does deploy some tools and techniques in its network in order to ensure reasonable performance for all users. These include but are not limited to, Quality of Service ("QOS") policies that may throttle down heavy users.
+
+1.2 Usage Limits
+
+Signal does employ limits on the amount of data a user can download or upload to the Internet in a given time frame, associated with the service level each customer subscribes to.
+
+1.3 Application-specific Behavior
+
+Signal does not discriminate against or prevent users of its residential or business Internet services from sending and receiving any lawful content of their choice; running lawful applications and using lawful services of their choice; or connecting their choice of legal devices, provided that such applications and services do not harm the network or the provision of residential or business Internet services, facilitate theft of service, or harm other users of services. Similarly, Signal does not impair or degrade particular content, applications, services or non-harmful devices so as to render them effectively unusable, subject to reasonable network management practices outlined herein.
+
+Signal reserves the right, in accordance with applicable law, to employ reasonable network management practices to prevent certain harmful or illegal activity such as the distribution of viruses or other malicious code or the transfer of child pornography or other unlawful content.
+
+1.4 Device Attachment Rules
+
+Signal requires customers to use ONLY the customer premise equipment ("CPE") provided to them by, and owned by, Signal to connect to its network. ONLY Signal employees or authorized agents are allowed to access the back end interfaces of these devices. Users of the services are not authorized to configure or install this equipment themselves.
+
+Once the CPE has been installed, configured, and connected properly to the network, the customer is welcome to install any compatible equipment to the CPE in order to facilitate the sharing of the Internet to any devices that are located on the same property as the CPE. The sharing of services with neighbors or devices on nearby properties is strictly prohibited.
+
+1.5 Security
+
+Signal also employs certain practices to protect the security of the network from unwanted and harmful activities. These include practices designed to protect our servers and network devices against Denial of Service attacks and to prevent viruses, worms, spyware, spam, and identity theft. In order to ensure the effectiveness of our security practices, Signal does not publicly disclose specific information detailing the levels and types of activities that may trigger or deployment of security protection measures. When security measures are employed, they may affect performance characteristics of service or the ability to gain unauthorized access to the network.
+
+2 Performance Characteristics
+
+2.1 Service Description
+
+Signal provides what is known in the industry as a "fixed broadband" Internet access service to both residential and business users, that is designed to provide the capability to transmit data to and receive data from all or substantially all Internet end points. Signal offers multiple packages (or "tiers") of broadband Internet access service for residential or business use with varying speeds, features and limitations that may affect the suitability of such service for real-time applications. The features, pricing, and other commercial terms of our service offerings are modified from time to time, and not all packages are available in all areas. Each package is priced to reflect the particular speed, features, and limitations of that package.
+
+The FCC requires that we disclose information regarding the expected and actual upstream and downstream speeds and latency of our services. Our advertised speeds are estimates (i.e., "up to" the specified speed) and our Internet access service is provided on a best effort basis and cannot be guaranteed. The actual speed a subscriber experiences may vary based on a number of factors including, but not limited to (i) variances in network usage; (ii) the capabilities and capacities of the customer's computer and/or local area network (LAN) devices such as wireless routers; (iii) latency (i.e., the time delay in transmitting or receiving packets as impacted in significant part by the distance between points of transmission); (iv) the performance of the content and application providers the consumer is accessing, such as a search engine or video streaming site; and (v) performance characteristics of transmissions over portions of the Internet that are not subject to Signal's control.
+
+There are various tools available online that measure Internet Performance, including downstream and upstream speeds. Signal provides such tools for the use by Signal’s customers use and can be found at . 
+
+Speed Test Results
+
+You can also check performance using any number of other performance testing tools available on the Internet.  Keep in mind that all speed tests have built-in biases and flaws and the results of such tests should be considered a guide rather than a definitive measure of performance. Also keep in mind that the speed a customer experiences at a specific location may vary from the average speed calculated on a nationwide basis.
+
+We are also required by the FCC to provide information regarding "latency" which is a measurement of the average time that it takes for a data packet to travel from one point on a network to another (possibly on a different network). Latency is typically reported based on "round-trip" time and expressed in milliseconds.  Latency can have an impact on networks and certain types of Internet applications, such as online video games. For example, according to the FCC, high round-trip latencies can have a perceptible impact on the quality of VoIP (Voice over IP) services. High definition multiplayer online games are also sensitive to latency.  There are many factors that can go into determining latency at any given time, including factors that Signal has no control over.
+
+3 Errors
+
+This document may have errors, and may need additional information added. In the event that additional information needs to be added, Signal will get said information added as fast as possible.

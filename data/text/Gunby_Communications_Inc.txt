@@ -1,0 +1,264 @@
+GUNBY
+COMMUNICATIONS INC.
+
+39 Collier Road
+Toccoa, GA 30577
+sales.gunbycomm@gmail.com
+
+                           706-886-4406 office
+
+866-326-1558 fax
+www.gcibroadband.com
+
+Federal Communications Commission
+445 12th Street SW
+Washington DC 20554
+
+Response to: 
+
+File Number EB-IHD-19-00030173
+Admonishment Order Dated December 10, 2019
+
+Persuant to your above referenced file number and letter, Gunby Communications Inc 
+summits the following disclosure regarding our ISP network operations. 
+
+Name of Filer
+FRN
+Trade Name
+Type of ISP 
+
+Gunby Communications Inc 
+0004587820
+GCI Broadband 
+Fixed Wireless
+
+Description of Service
+Gunby Communications Inc offers Fixed Wireless Broadband Internet service to 
+Residential, Business and Governmental customers using both licensed and unlicensed
+spectrum providing what is commonly described as “last mile service”.  Our network 
+management practices do not target, hinder, effect or prohibit any specific legal content,
+application, service or device.   
+
+Date of Disclosure January 4, 2020
+
+This submission is our first time disclosure.
+
+I certify the I have prepared the information contained in this disclosure and that all 
+information contained in the submission is true and correct to the best of my knowledge.
+
+/s/John D. Smith
+
+John. D. Smith
+General Manager
+
+Network Management Practices Disclosure
+
+The Federal Communications Commission (“FCC”) requires that Internet service providers disclose 
+the following information regarding any network management practices that Gunby Communications 
+Inc, dba GCI Broadband employs to manage it’s mass market, retail broadband Internet access 
+service product, including the performance characteristics of our services, and the commercial terms 
+of our service offerings. The disclosure is intended to provide current and prospective subscribers 
+(“end users”) and providers of “edge” products (i.e., providers of content, applications, service and 
+devices accessed over or connected to GCI Broadband’s broadband Internet access service) with 
+sufficient information to make informed choices regarding the use of such services. The information 
+provided below applies solely to the portion of our network that provides mass market retail 
+broadband Internet access service. Other portions of our network may be used to provide other 
+services, such as telephone or dedicated broadband service, each of which are subject to their own 
+terms and conditions of service. In addition, GCI Broadband may enter into arrangements to provide 
+Internet service to third party establishments (including coffee shops, bookstores, hotels, libraries, 
+etc.) who then may offer such service to their customers, guests, or others. Nothing herein is intended
+to address the network management practices, performance characteristics, or commercial terms that
+may be adopted by such third party premises operators in connection with their provision of Internet 
+service to others. The information provided herein may be revised from time to time as GCI 
+Broadband deems appropriate and should be read in conjunction with GCI Broadbands acceptable 
+use policy as part of its Terms of Service available at http://www.gcibroadband.com 
+
+I. NETWORK MANAGEMENT PRACTICES
+
+A. Blocking.  GCI Broadband does not practice any techniques (other than reasonable network 
+management elsewhere disclosed) that blocks or otherwise prevents end user access to lawful 
+content, applications, service, or non-harmful devices, including a description of what is blocked.
+B. Throttling.  GCI Broadband does not practice (other than reasonable network management 
+elsewhere disclosed) any techniques that thottles, degrades or impairs access to lawful Internet traffic
+on the basis of content, application, service, user, or use of a non-harmful device. The customer 
+connection upload/download speeds are throttled to the speeds to which they subscribed. There are 
+no data caps imposed. 
+C. Affiliated Prioritization.  GCI Broadband does not directly or indirectly practice any techniques 
+such as traffic shaping, prioritization, or resource reservation, to benefit an affiliate, including 
+identification of the affiliate. 
+D. Paid Prioritization.  GCI Broadband does not directly or indirectly parctice any technique that 
+directly or indirectly favors some traffic over other traffic, including through use of techniques such as 
+traffic shaping, prioritization, or resource reservation, in exchange for consideration, monetary or 
+otherwise.
+E. Specialized Services Prioritization. GCI does practice traffic shaping, prioritization and resource 
+reservation for our home and business phone services which utilize Voice over IP (VOIP). 
+
+A. Congestion Management
+
+1. GCI Broadband currently offers multiple levels of Residential and Commercial Internet service.
+
+2. GCI Broadband does not adjust or manage an individual end user’s use of their subscribed 
+bandwidth, but the actual use by an end user can affect the user experience. Downstream refers to 
+the information coming to you from the network and upstream refers to the information going from you
+to the network. End user experience can be negatively impacted when the end user attempts to run 
+too many tasks simultaneously or by running individual tasks that utilize 100% of the end user’s 
+upstream capacity. For example, uploading large files to cloud-based back up servers may occupy 
+100% of the end user’s upstream capacity. This could preclude the end user from running other 
+network-related tasks while the file is uploading.
+
+3. The GCI Broadband network is engineered and, as a whole, is shared among its users and has a 
+set capacity for downstream and upstream communication. While GCI Broadband will not manage an
+individual end user’s specific applications, GCI Broadband does rate limit each individual to the 
+upload/download speeds to which they have subscribed. GCI Broadband may take action to manage 
+the capacity of the entire network or part of the network if an end user’s actions unreasonably impact 
+the ability of others to use the network. For example, GCI Broadband may employ reasonable 
+network management practices to protect against security or denial of service attacks that can 
+negatively affect our network and may cause service degradation. End users can minimize the 
+possibility of these problems by maintaining an up-to-date anti-virus program on their computer and 
+following common sense practices like avoiding unsolicited attachments from unknown parties.
+
+4. GCI Broadband wants all end users and edge providers to be able to use the network for all legal 
+purposes at all times. Measures are taken to avoid a single application from overwhelming the 
+network and rendering some end users unable to use the application of their choice or reach the edge
+provider of their choice. If irregular usage is detected, GCI Broadband will work with the individual 
+customer to correct the issue.
+
+B. Usage Limits
+
+1. GCI Broadband reserves the right to manage network usage to ensure that the activities of a small 
+number of customers do not degrade, inhibit or interfere with the use of our network. The goal is to 
+ensure that all users have reasonable access to the network at all times. GCI Broadband subscription
+service plans do not emply data caps on usage. Only the upload/download speed is rate limited to the
+customers selected service plans. If an individual customers use is determined to degrade, inhibit or 
+interfere with other customers, the individual customer will be contacted and a suitable subscription 
+service plan will be negotiated. 
+
+C. Application Specific Behavior
+
+1. GCI Broadband does not discriminate against or prevent users of its broadband Internet access 
+service from accessing lawful content or services; running lawful applications and services of their 
+choice; or connecting their choice of legal devices, so long as such applications, services and/or 
+devices do not harm the network or the provisioning of broadband Internet access service, facilitate 
+theft of service, or harm users of the service. Moreover, GCI Broadband does not impair or degrade 
+specific content, applications, services or non-harmful devices so as to render them effectively 
+unusable, subject to any reasonable network management practices described herein.
+
+2. GCI Broadband reserves the right to employ reasonable network management practices to prevent
+specific harmful or illegal activity, such as the dissemination of viruses or other malicious code or the 
+transfer of child pornography or other unlawful content.
+
+D. Device Attachment Rules
+
+1. GCI Broadband  provides the outdoor radio through which we provide our fixed wireless internet 
+services. This radio is the property of GCI Broadband will remain our property as long as the 
+customer continues their service. The customer service agreement signed by the customer at the 
+time of installation allows GCI Broadband to enter the property to remove this radio when services are
+terminated.
+
+2. GCI Broadband requires customer to install a router when connecting to their Internet service. This 
+provides the customer additional security and allows for IP address conservation.
+
+3. Customers may purchase a GCI Broadband-provided router that has specific network testing tools 
+for maintaining the customer account or they may purchase an approved router purchased from a 
+retailer. Customers purchasing a non-GCI Broadband provided router are responsible for the setup, 
+maintenance and proper care of the device. Any security/firmware updates for a non-GCI Broadband 
+provided router is the responsiblity of the customer. 
+
+4. As technology changes, GCI Broadband reserves the right to update their list of approved routers 
+and require the customer to replace a previously-approved router model that is no longer compatible.
+
+5. As technology changes, GCI Broadband reserves the right to update our Fixed Wireless Radio to 
+improve spectrum effeciency of the wireless network.
+
+E. Security
+
+1. GCI Broadband employs certain practices to ensure the security of our customers and our right to 
+protect our network. These include practices intended to protect GCI Broadband’s network 
+infrastructure against Denials of Service attacks and to prevent harmful elements such as viruses, 
+spam and identity theft.
+
+2. To that end, GCI Broadband may permanently block a limited number of Internet TCP/UDP ports 
+that are commonly used to send spam or perpetrate identity theft.
+
+3. GCI Broadband may, from time to time as needed to maintain network performance, temporarily 
+block traffic to or from a limited number of Internet addresses participating in or being attacked.
+
+II. PERFORMANCE CHARACTERISTICS
+
+A. Service Description
+
+1. GCI Broadband offers residential and business customers a variety of levels of broadband Internet 
+access service tiers with varying targeted speeds and features that may affect the suitability of such 
+service for real-time applications. The features, pricing and other commercial terms of our service 
+offerings are modified from time to time, and not all packages are available in all areas. Each 
+package is priced to reflect the particular speed and features of that package.
+
+2. Full descriptions and pricing information for all currently available packages are available at 
+http://www.gcibroadband.com.
+
+3. The FCC requires that we disclose information regarding the expected and actual speed and 
+latency of our Internet access service offerings. Latency measures the average time it takes for a 
+data packet to travel from one point on a network to another. It is typically measured by round-trip 
+time utilizing milliseconds. While latency generally does not have a significant impact on day-to-day 
+Internet usage, certain applications may be particularly affected by latency, such as high-definition 
+multiplayer online games.
+
+4. Our advertised speeds are estimates that GCI Broadband targets to achieve for its customers. GCI
+Broadband cannot guarantee that a customer will achieve those speeds at all times. The actual 
+speeds achieved by customers may vary based on a number of factors, including, but not limited to: 
+(a) the performance and capabilities of customer’s computer; (b) the connection between a 
+customer’s computer and service demarcation, such as the use of wireless routers; (c) variances in 
+network usage; (d) the distance a packet of information must travel from the customer’s computer to 
+its final destination on the Internet; (e) congestion or variable performance at a particular website or 
+destination; or (f) performance characteristics of transmissions over the Internet that are outside of 
+GCI Broadband’s control.
+
+5. There are a number of available tools online that customers may utilize to measure Internet 
+performance. Please note that all speed tests have biases and flaws and should be considered a 
+guide rather than a conclusive measurement of performance. A common misunderstanding of online 
+speed tests are the result shown by the device conducting the test does not include any usage of any 
+other devices on the LAN side of the router which may be using bandwidth in the background. Most 
+devices (phones, games, tv's, etc) will from time to time perform automatic updates unknown to the 
+user. 
+
+B. Impact of Specialized Services
+
+1. The FCC’s “Open Internet” rules distinguish between our mass-market retail broadband Internet 
+access and “specialized services” that share capacity with our broadband Internet access services 
+over our last-mile facilities. Examples of these “specialized services” may include GCI Broadband’s 
+home and business phone service, which utilize Voice over Internet Protocol (“VoIP”) technology. Use
+of these services, which are not subject to the same rules as our broadband Internet access services,
+share bandwidth with our Internet access service and because of the nature of the service may 
+sometimes receive priority on our network. As a result, increased use of these services may affect our
+broadband Internet access service at certain times. GCI Broadband monitors the impact of these 
+services on our network to minimize their impact on our broadband Internet access service.
+
+III. COMMERCIAL TERMS
+
+A. Pricing
+
+1. GCI Broadband offers multiple tiers of broadband Internet access service. The current pricing and 
+other terms and conditions of the various tiers, including fees associated with early termination or 
+additional network services is available at www.gcibroadband.com or by calling our office at 
+706.886.4406.
+
+B. Privacy Policy
+
+1. GCI Broadband values the privacy of our customers. The personal information that you provide to 
+GCI Broadband is governed by our Privacy Policy and is subject to change from time to time. No 
+customer information is shared with any third party. Personal information may be shared when legally
+requested by Law Enforcement in compliance with a valid CALEA request. 
+
+C. Redress Options
+
+1. If you have any questions or concerns regarding your service, please contact our customer service 
+department by calling our office at 706-886-4406. Customers may also email us at 
+sales.gunbycomm@gmail.com.
+
+2. Written complaints may be sent via U.S. mail to: GCI Broadband c/o Gunby Communications Inc, 
+39 Collier Road , Suite #1, Toccoa, GA 30577. The FCC has established procedures for addressing 
+informal and formal complaints relating to its “Open Internet” rules. For information concerning these 
+procedures, please refer to the FCC’s website.
+www.fcc.gov/consumers/guides/getting-broadband-qa.
+
+

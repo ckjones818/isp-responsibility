@@ -1,0 +1,371 @@
+CENTRAL COMMUNICATIONS & ELECTRONICS, INC. 
+
+ 
+
+P.O. Box 154405 
+
+Irving, Texas 75061 
+
+FRN # 0003801917 
+
+ 
+
+Compliance Filing of Internet Service Provider Disclosure 
+
+ 
+
+Name of Filer: Central Communications & Electronics, Inc. 
+
+Type of ISP Service: Fixed Wireless 
+
+Description of Service: Fixed Wireless Broadband Internet Service 
+
+ 
+
+Date: 1/4/2020 
+
+ 
+
+First time Disclosure 
+
+ 
+
+ 
+
+ 
+
+ 
+I, Danny Ray Boyer, President of Central Communications & Electronics Inc. have examined the 
+information contained in the foregoing disclosure and all information contained in the forgoing 
+submission is true and correct. 
+ 
+
+Signed 
+
+ 
+
+Danny Ray Boyer 
+
+President 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Central Communications & Electronics, Inc.  
+
+Broadband Internet Access Services 
+
+ 
+
+Network Management Practices, Performance Characteristics, and 
+
+Commercial Terms and Conditions  
+
+ 
+ 
+
+Open Internet Disclosure Statement 
+
+ 
+Central Communications & Electronics, Inc, (the Company) provides this information in good 
+faith effort to comply with the disclosures required by the Federal Communications Commission 
+(FCC) revised 'transparency' rule.   
+ 
+Central Communications & Electronics, Inc. is a fixed wireless Internet provider providing 
+wireless internet services to the citizens and business of Schleicher County, Texas.   
+ 
+These practices, characteristics, terms and conditions are intended to help preserve the Internet as 
+an open framework that enables consumer choice, freedom of expression, end-user control, 
+competition, and freedom to innovate without permission, while permitting the Central 
+Communications & Electronics, Inc  to manage the network reasonably. 
+ 
+ 
+
+Network Management Practices 
+
+ 
+
+Central Communications & Electronics, Inc. manages the company network with the goal of 
+providing the best practicable broadband Internet experience to all of Central Communications & 
+Electronics, Inc. customers.  
+ 
+Within the scope of Central Communications & Electronics, Inc. resources, we attempt 
+to deploy and maintain adequate capacity and facilities within our own network and to have 
+sufficient capacity of facilities outside the company's service area.   
+ 
+ 
+
+1.   Congestion Management Practices 
+
+ 
+Central Communications & Electronics, Inc. does not implement any congestion management 
+techniques.  In the event of congestion on our network, all traffic is classified as best effort.   
+ 
+Congestion may be caused by capacity limits and bottlenecks in our network or by limitations in 
+the capacity of incoming transport facilities provided by other internet carriers.  
+ 
+To the best of our knowledge, Central Communications & Electronics, Inc. has  not experienced 
+recent problems with congestion.   
+ 
+If significant congestion problems arise in the future, Central Communications & Electronics, 
+Inc. approach is to determine the source of the problem and to increase the capacity of the 
+affected portions of our network. 
+ 
+ 
+
+1 
+
+ 
+ 
+
+2.   Application-Specific Behavior Practices 
+
+ 
+Central Communications & Electronics, Inc. does not favor or inhibit certain applications or 
+classes of applications.   
+ 
+Customers may use any lawful and commercially available applications which they desire on 
+Central Communications & Electronics, Inc.'s network.   
+ 
+Our company does not normally monitor the contents of the traffic or applications of  our  
+customers.   
+ 
+Central Communications & Electronics, Inc. undertakes no obligation to monitor or investigate 
+the lawfulness of the applications used by our customers.   
+ 
+If any party contacts us with a substantial allegation that an application being used by a customer 
+is unlawful, we will investigate the matter (including consultation, as it deems appropriate, with 
+attorney, consultants, federal or state regulators, and/or federal, state or local law enforcement 
+agencies), and will take appropriate actions to deal with the use of applications that are 
+demonstrated to be unlawful.   
+ 
+Customers may develop their own applications.  Central Communications & Electronics, Inc. 
+will not prohibit the use of customer-developed or modified applications unless there is a 
+reasonable belief that the application will cause harm to our network.   
+ 
+Central Communications & Electronics, Inc. does not block or rate-control specific protocols or 
+protocol ports.   
+ 
+Central Communications & Electronics, Inc does not modify protocol fields in ways that are not 
+prescribed by applicable protocol standards. 
+ 
+
+ 
+
+3.  Device Attachment Rules 
+
+ 
+Central Communications & Electronics, Inc. does not have any approval procedures that must be 
+satisfied before a device can be connected to our network.   
+ 
+Customers may use any lawful, compatible, type-accepted and commercially available device on 
+our network, as long as there is no harm to the network.   
+ 
+Central Communications & Electronics, Inc. does not monitor the devices used by our  
+customers and undertakes no obligation to monitor or investigate the lawfulness of the devices 
+used by our customers.  
+ 
+If any party contacts us with a substantial allegation that a device used by a customer is unlawful, 
+Central Communications & Electronics, Inc. will investigate and take appropriate action. 
+ 
+ 
+ 
+
+2 
+
+ 
+ 
+
+4.    Security Practices 
+
+ 
+Central Communications & Electronics, Inc does not normally monitor the traffic of our 
+customers.   
+ 
+Our customers are free to obtain anti-spam and/or anti-virus software or services from any source 
+they desire, as long as such software or services do not disrupt or degrade the traffic of our other 
+customers or harm our network.   
+ 
+In the event of Denial of Service (DOS), Distributed Denial of Service (DDOS) attack, spoofing 
+or other malicious traffic, Central Communications & Electronics, Inc will implement inbound 
+and outbound filtering on specific hosts.    
+ 
+ 
+
+5.   Traffic Blocking 
+
+ 
+Central Communications & Electronics, Inc. does not block any lawful content, applications, 
+devices, and/or non-harmful devices.   
+ 
+The only potential exceptions where blocking may occur would be unlawful or harmful 
+circumstances.   
+ 
+Central Communications & Electronics, Inc. does not knowingly impair, degrade or delay the 
+traffic on our network.   
+ 
+Congestion may from time to time impair, degrade or delay some traffic.   
+ 
+Central Communications & Electronics, Inc does not charge edge service providers of content, 
+applications, service and/or devices any fees simply for transporting traffic between them and 
+their customers. 
+ 
+ 
+
+6.  Performance Characteristics 
+
+ 
+
+Latency is another measurement of the Internet performance.  Latency is the time delay in 
+transmitting or receiving packets on the network. 
+ 
+Latency is primarily a function of the distance between two points of transmission, but also can 
+be affected by the quality of the network or networks used in transmission; and the distance a 
+customer is located from our access points.   
+ 
+Because conditions on these facilities and routes can change frequently, Central Communications 
+& Electronics, Inc. can provide estimated actual access speed and latency information only for 
+specific recent time periods requested by customer.   
+ 
+Central Communications & Electronics, Inc. internet is suitable for real-time applications.  The 
+speed a customer subscribes to will impact the efficiency of the real-time applications.  
+ 
+
+3 
+
+ 
+ 
+For any other concerns concerning performance contact Central Communications & Electronics, 
+Inc. 
+ 
+ 
+
+7.  Specialized Services 
+
+ 
+Central Communications & Electronics, Inc. does not offer specialized services to end users. 
+ 
+ 
+ 
+
+8.  Commercial Terms and Conditions 
+
+ 
+
+The commercial terms and conditions of Central Communications & Electronics. Inc's. 
+Broadband Internet Access Services are available at the business office as show in Paragraph D 
+below or by request. 
+
+ 
+
+A.  Pricing 
+
+ 
+Central Communications & Electronics, Inc. offers different levels of service offerings that 
+change as we continue to build out our network.   
+ 
+Pricing and service offering are available by contacting the business office.  
+ 
+Central Communications & Electronics, Inc does not impose fees for early termination.  
+ 
+Central Communications & Electronics, Inc. does not impose usage-based fees upon certain tiers 
+or levels of our service.  
+ 
+ 
+
+B.  Discrimination 
+
+ 
+Central Communications & Electronics, Inc. does not impair, degrade or delay VOIP 
+applications or services.   
+ 
+Central Communications & Electronics, Inc. does not impair, degrade, delay or otherwise inhibit 
+access by Central Communications & Electronics, Inc's customers to lawful content, 
+applications, services or non-harmful 
+devices.   
+ 
+Central Communications & Electronics, Inc. does not impair free expression such as slowing 
+traffic from websites or bloging sites.   
+ 
+Central Communications & Electronics, Inc does not require or demand pay for priority that 
+directly or indirectly favor some traffic over other traffic.   
+ 
+Central Communications & Electronics, Inc. does not prioritize our own content, application, 
+services or devices. 
+
+4 
+
+ 
+ 
+
+C.  Privacy 
+
+ 
+Central Communications & Electronics, Inc. network management practices do not generally 
+entail inspection of network traffic.   
+ 
+Central Communications & Electronics, Inc. does not collect, store or use traffic information to 
+profile our customers in order to sell additional services to them, or for similar non-network 
+management purposes.  
+ 
+ 
+
+D.  Redress Options 
+
+ 
+Questions and complaints from consumers, entrepreneurs, and other small businesses should be 
+addressed to Central Communications & Electronics, Inc at Telephone # 325 853-1049 or by 
+visiting our Schleicher County office located at 710 North Divide, Eldorado, Texas 76936. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+
+

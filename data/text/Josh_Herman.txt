@@ -1,0 +1,72 @@
+ 
+ 
+
+ 
+
+Restoring Internet Freedom Disclosure 
+
+ 
+This document is intended to disclose Packet Layer’s network management, performance 
+Characteristics, and commercial terms of our broadband internet service. 
+ 
+1)  Blocking – Packet Layer does not block any lawful content on our network.  Our customers 
+
+are free to use our service to browse, stream, send email, etc. how they see fit, providing 
+that in doing so does not violate any federal, state or local government laws.    
+
+2)  Throttling – Packet Layer does not use any method to throttle traffic to any content on our 
+
+network. 
+
+3)  Affiliated Prioritization – Packet Layer does not use any method of Prioritization on our 
+
+network.  We do not have any affiliations that we benefit from this type of practice. 
+
+4)  Paid Prioritization – Packet Layer does not use any method of Prioritization on our network.  
+
+We do not receive any consideration, monetary or otherwise for this type of practice. 
+
+5)  Congestion Management – Packet Layer does not have any network congestion 
+
+management mechanisms at this time. 
+
+6)  Application-Specific Behavior – Packet Layer does not modify, by any means, application 
+
+specific protocols. 
+
+7)  Device Attachment Rules – Packet Layer equipment used to access our network is 
+
+configured at the time of setup.  Once the service is set up and the network is handed off to 
+the customer, there are no restrictions or approvals necessary for network access. 
+
+8)  Security – Packet Layer utilizes network firewalls to protect our network from malicious 
+
+attacks on our network.  Port scanning and DDOS attacks are examples of the type of 
+activity that we mitigate.  
+
+9)  Service Description – Packet Layer provides Fixed Wireless Internet service.  This is service 
+
+that uses radio frequency equipment to provide internet wirelessly. 
+
+10) Impact of Non-Broadband Internet Access Service Data Services – Packet Layer does not 
+
+offer non-broadband internet services. 
+
+11) Price – Packet Layer charges a set monthly fee for its internet services.  We do not charge 
+
+any usage fees or use data caps with our services.  Packet Layer does utilize early 
+termination fees if the customer has entered into an agreement with Packet Layer and the 
+customer does not fulfill the agreement term.  The early termination fee is equivalent to 
+60% of the remaining agreement term. 
+
+12) Privacy Policy – Packet Layer’s privacy policy van be view on our website at 
+
+http://www.packetlayer.com/privacypolicy.aspx?section=TopOfPage.  If customers have 
+any questions, they can email us at support@packetlayer.com. 
+
+13) Redress Options – Customers can contact us for questions or complaints by emailing 
+
+support@packetlayer.com or by calling us at (913)213-0577 and selecting option 1. 
+ 
+
+

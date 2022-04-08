@@ -1,0 +1,115 @@
+Open Internet Disclosure Statement 
+
+  
+
+The effective date of this disclosure is December 1, 2019.  This is a first-time disclosure. 
+
+The purpose of this document is to provide information regarding Network Management Practices, Performance 
+Characteristics, and Commercial Terms as they apply to broadband Internet access services provided by Freeway 
+Networks LLC (Walker Wifi) in accordance with the Federal Communications Commission's (FCC's) transparency 
+rule 47 CFR § 8.1(a).  Walker Wifi's Filer Registration Number (FRN) with the FCC is 0024126690.  Walker Wifi 
+provides broadband internet access to its subscribers via fixed wireless.   
+
+Walker Wifi maintains an open Internet for its customers.  This document will summarize our Network 
+Management Practices, Performance Characteristics, and Commercial Terms of the broadband Internet access 
+service we provide to our customers per requirement of the FCC. This document is not a replacement for, nor 
+does it change the terms for either party as defined in our Acceptable Use Policy / Terms of Service provided on 
+our website and at time of installation.  This informational document may be updated from time to time as 
+needed without prior notice.  Please see our website at walkerwifi.com for the most up to date version. 
+
+  
+
+ 
+
+▪  Network Management Practices 
+
+o  Blocking.  Other than reasonable network management practices necessary to protect the security and 
+
+availability of service to all customers, Walker Wifi does not block or otherwise prevent end user access to 
+lawful content, applications, service, or non-harmful devices.  Nothing in this statement prevents us from 
+taking temporary actions to block traffic and/or particular ports in an effort to protect the usability of our 
+network for all users if we believe in good faith that said traffic is of malicious or harmful origin, or in 
+direct violation of our Acceptable Use Policy or Terms of Service.  If you feel that any such content is being 
+blocked in error, please contact us via any of the contact methods available on our website. 
+
+o  Throttling.  Walker Wifi does not throttle Internet services except for all traffic in aggregate to a given 
+
+customer based on the speed plan purchased. Basic speed plans and associated throttling limits vary by 
+service location. 
+
+o  Affiliated Prioritization.  Walker Wifi does not utilize any Affiliated Prioritization. 
+
+o  Paid Prioritization.  Walker Wifi does not utilize any Paid Prioritization. 
+
+o  Congestion Management.  Walker Wifi internet services are "best effort" service.  Basic QOS settings may 
+
+be employed to help provide the highest possible quality of service to all subscribers.  At no time is any 
+particular type of traffic blocked.  We regularly monitor network usage, and attempt to proactively 
+increase resources where available to minimize congestion.  At this time, network congestion is 
+infrequent.  Congestion management is not usage based. 
+
+o  Application-Specific Behavior.  Walker Wifi does not apply any Application Specific Behavior.  
+
+o  Device Attachment Rules.  Within the constraints set forth in our Acceptable Use Policy / Terms of Service 
+
+Walker Wifi will allow customers to connect any device to our network, provided that said device or its 
+usage does not cause harm to our network.  We cannot guarantee the compatibility of any particular 
+device. 
+
+o  Security.  Walker Wifi uses industry standard AES encryption on all radio transmission equipment.  We 
+
+also employ firewall rules and NAT at our routers, as well as NAT at the customer premise equipment.  We 
+encourage all of our customers to protect themselves from malicious and unwanted content by a number 
+of means, including a host of commercially available anti-virus, firewall, anti-malware, and other similar 
+products.  We also encourage strong password management to prevent unauthorized access to 
+customers’ accounts and equipment.  The customer is ultimately responsible for their security while 
+utilizing our network.  
+
+▪  Performance Characteristics 
+
+o  Service Description.  Walker Wifi offers fixed wireless internet service, based on geographic 
+
+availability.  We offer a range of speed plans, again based on availability to end users within our coverage 
+area.  Our basic speed plans begin at 1.5Mbps Download x 1.5Mbps Upload and increase from there.  Not 
+all plans are available in all areas.  All services are "best effort", and as such will be up to the stated plan 
+max speed.  At this time, typical actual speeds reach advertised levels a majority of the time.  Several 
+factors can influence speeds seen, including but not limited to: physical obstructions, foliage, atmospheric 
+conditions, age and quantity of connected equipment, performance of customer or company provided 
+equipment, distance from the tower, and total aggregate traffic on the network at a given point in 
+time.  Many users of our system work from home, including both VoIP and various other real-time uses 
+without issue.   Typical latency to common sites from our end users is <100ms, and for many users is 
+<50ms. 
+
+o 
+
+Impact of Non-Broadband Internet Access Service Data Services.  Walker Wifi does not currently offer any 
+Non-Broadband Internet Access Service Data Services. 
+
+▪  Commercial Terms  
+
+o  Price.  Pricing and installation fees vary based on available services in a given area.  The available speed 
+
+and price packages are disclosed and agreed to at time of installation upon completion of a free site 
+survey.  There are no usage-based or early termination fees associated with any of our current 
+plans.  Additional network services beyond included basic services are quoted prior to installation or 
+activation.  Current customers, as well as prospective customers can obtain current pricing information by 
+contacting us via any of the contact methods on our website.   
+
+o  Privacy Policies.  Walker Wifi does not share your information with any third party not directly associated 
+
+with provision of subscribed services.  A third-party credit card processing service is used for billing and 
+collection of service related fees. 
+
+o  Redress Options.  Any questions regarding this disclosure, or any of our services in general, can be 
+
+addressed by calling us at (928) 793-2972.  You may also send an email to walkerwifi@gmail.com with any 
+questions. 
+
+  
+
+Certification : The content of this document was reviewed by Nick Wold, Owner, Walker Wifi, who certifies to the 
+best of his knowledge that all information contained above is true and correct.   
+
+ 
+
+

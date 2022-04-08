@@ -1,0 +1,187 @@
+Docket: Restoring Internet Freedom ISP Disclosures docket, CGB Docket No. 18-142 
+Proceeding: 18-142 
+Type of Filing: Compliance Filing  
+
+Name of filer: ADT Systems, Inc.  
+Filer’s FCC Registration Number (FRN): 0018795310  
+Trade name or DBA name under which the described ISP services are offered to consumers:  
+Rural Texas Broadband 
+Type of ISP service (e.g., wired, mobile wireless, fixed wireless): Fixed Wireless  
+Brief description of service covered by the disclosure: Fixed wireless internet service  
+The effective date of the disclosure: July 4, 2018  
+Whether the submission is a new/first-time disclosure or an amendment to a prior submission: First 
+Time Submission  
+
+Certification 
+
+Gaelan Frazier, Chief Technology Officer of ADT Systems, Inc. hereby certifies that he has examined the 
+information contained in the disclosure and that all information contained in the submission is true 
+and correct. 
+
+____________________________   07/04/2018 
+
+Network Management Practices 
+
+Blocking.  Any practice (other than reasonable network management elsewhere disclosed) that 
+blocks or otherwise prevents end user access to lawful content, applications, service, or non-
+harmful devices, including a description of what is blocked.  
+Answer: RTXBB does not block any specific sites. Our firewalls may automatically block sites if 
+harmful activities are detected. Customers may contact our technical support if they 
+experience blocking to a site that they feel is in error.  
+
+Throttling.  Any practice (other than reasonable network management elsewhere disclosed) 
+that degrades or impairs access to lawful Internet traffic on the basis of content, application, 
+service, user, or use of a non-harmful device, including a description of what is throttled.  
+Answer: RTXBB does not throttle users. 
+
+Affiliated Prioritization.  Any practice that directly or indirectly favors some traffic over other 
+traffic, including through use of techniques such as traffic shaping, prioritization, or resource 
+reservation, to benefit an affiliate, including identification of the affiliate. Answer: RTXBB does 
+not prioritize any traffic type. 
+Paid Prioritization.  Any practice that directly or indirectly favors some traffic over other traffic, 
+including through use of techniques such as traffic shaping, prioritization, or  
+resource reservation, in exchange for consideration, monetary or otherwise. 
+Answer: RTXBB does not prioritize any traffic type. 
+
+Congestion Management.  Descriptions of congestion management practices, if any. These 
+descriptions should include the types of traffic subject to the practices; the purposes served by 
+the practices; the practices’ effects on end users’ experience; criteria used in practices, such as 
+indicators of congestion that trigger a practice, including any usage limits triggering the 
+practice, and the typical frequency of congestion; usage limits and the consequences of 
+exceeding them; and references to engineering standards, where appropriate.  
+Answer: RTXBB does not load balance on the basis of customer usage limits. Load balancing is 
+achieved at the network hardware level by monitoring link capacity utilization. 
+ 
+Application-Specific Behavior.  Whether and why the ISP blocks or rate-controls specific 
+protocols or protocol ports, modifies protocol fields in ways not prescribed by the protocol 
+standard, or otherwise inhibits or favors certain applications or classes of applications.  
+Answer: RTXBB does not open any ports. A public IP address is required to reach back into the 
+network from an outside network. 
+ 
+Device Attachment Rules.  Any restrictions on the types of devices and any approval procedures 
+for devices to connect to the network.  
+Answer: RTXBB does not restrict any device types. 
+ 
+Security.  Any practices used to ensure end-user security or security of the network, including 
+types of triggering conditions that cause a mechanism to be invoked (but excluding information 
+that could reasonably be used to circumvent network security). 
+Answer: RTXBB employs industry standard firewall practices. Private IP addresses are 
+required for network access. 
+
+Service Description.  A general description of the service, including the service technology, 
+expected and actual access speed and latency, and the suitability of the service for real-time 
+applications. 
+Answer: RTXBB offers high speed internet service via a terrestrial wireless network. Our 
+download speeds range from 1.5 Mbps to 25 Mbps. Speeds are not guaranteed. Typical 
+latency is 20-85 ms which is sufficient for most real-time applications. Specific network 
+latency values are not guaranteed. 
+ 
+Impact of Non-Broadband Internet Access Service Data Services.  If applicable, what non-
+broadband Internet access service data services, if any, are offered to end users, and whether 
+and how any non-broadband Internet access service data services may affect the last-mile 
+capacity available for, and the performance of, broadband Internet access service. 
+Answer: RTXBB does not offer non-broadband Internet access service data services. 
+
+ 
+Performance Characteristics 
+ 
+
+ 
+ 
+ 
+ 
+
+Commercial Terms 
+ 
+
+Price.  For example, monthly prices, usage-based fees, and fees for early termination or 
+additional network services. 
+Answer:  
+Plan  
+ 
+
+Price/Month 
+
+Speed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+$34.95  
+$44.95  
+$54.95  
+$99.95  
+$114.95 
+$124.95 
+
+1.5 down / .25 up 
+3 down / .5 up 
+6 down / .75 up 
+10 down / 1 up 
+15 down / 1.25 up 
+25 down / 1.5 
+
+Residential 
+Bronze  
+ 
+Silver 
+Gold 
+ 
+Platinum 
+Titanium 
+ 
+Standard installation is $175. Installations requiring mast extensions and custom installations 
+may be more. Some service plans are not available in all service areas. No contract is 
+required, however, a $100 discount will be applied to the installation if a 1 year contract is 
+signed.  
+ 
+Privacy Policies.  A complete and accurate disclosure about the ISP’s privacy practices, if any. 
+For example, whether any network management practices entail inspection of network traffic, 
+and whether traffic is stored, provided to third parties, or used by the ISP for non-network 
+management purposes. 
+Answer: RTXBB does not store or use any information from customers. 
+ 
+Redress Options.  Practices for resolving complaints and questions from consumers, 
+entrepreneurs, and other small businesses. 
+Answer: Questions and complaints from consumers, entrepreneurs and small businesses can 
+be made by phone at 830-267-4142 from 8:00 AM to 5:00 PM Central, Monday through Friday 
+or 24/7 by email to helpdesk@rtxbb.net.  
+
+ 
+
+ 
+
+

@@ -1,0 +1,28 @@
+Internet Service providers Disclosure
+ SCOPE
+Ripflo Network, LLC
+FRN- 0021957097
+Fixed Wireless Internet Service
+Provides wireless connections to the internet in rural Geauga County, Ohio.
+This is a First time disclosure.
+Certification
+I , Jim Chickerella, certify the accuracy of the information disclosed is true and correct.
+Signature____________________________________________________________
+Disclosures  
+Network Management Practices- 
+We do not block or otherwise prevent end user access to lawful content, applications, service, or non-harmful devices.
+We do not degrade or impair access to lawful Internet traffic on the basis of content, application, service, user, or use of a non-harmful device.
+We do not prioritize directly or indirectly to favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, to benefit an affiliate.
+We do not directly or indirectly favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, in exchange for consideration, monetary or otherwise.
+There is no congestion management system on our network.
+We do not block or rate-control specific protocols or protocol ports, modify protocol fields in ways not prescribed by the protocol standard, or otherwise inhibit or favor certain applications or classes of applications.
+There are no approval procedures for end user devices to connect to our network.
+There are normal and reasonable security measures within the network.
+We provide fixed wireless internet service with speeds from 1Mbps up to 6Mbps download and 1MBPS up to 3MBPS upload.   Latency runs from 30milliseconds to 90milliseconds.  Real time applications are performed on the network on a millisecond basis.
+We do not offer any non broadband services to our end users.
+
+Our service price is area specific and is available by calling toll free 855-374-7356.
+The entire Ripflo End User Policy is on line at .
+Please address questions via our toll free number at 855-374-7356 or email us at ripflo@columbus.rr.com.
+
+

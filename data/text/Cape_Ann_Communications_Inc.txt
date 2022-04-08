@@ -1,0 +1,84 @@
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+                     December 2019 
+
+Cape Ann Communications, 183 Main Street, Gloucester MA 01930.  
+Phone: 978-281-4222,    www.capeanncomm.com,  email Info@CapeAnnComm.com  
+FRN/FCC Registration Number:  0024392102; ref: FCC DA 18-915 
+
+ 
+
+Cape Ann Communications (“CAC”) is a fixed wireless broadband service provider serving Cape Ann, 
+Massachusetts.  In accordance with FCC regulations, we provide you with the following information 
+regarding our network management practices, performance characteristics and commercial terms.  For 
+more details on required disclosures, please see the FCC website https://www.fcc.gov/open-internet.   
+All specific terms and definitions are derived from and intended to have the meaning of the FCC 
+“Restoring Internet Freedom” Compliance Guide. 
+
+ 
+
+Network Practices (other than reasonable network management) 
+
+No Blocking:   CAC does not block access to any legal content, application, service or non-
+harmful device.  
+
+No Throttling:   CAC does not throttle traffic based on content, applications, service or non-
+harmful devices. 
+
+No Affiliated or Paid Prioritization:  CAC does not favor any traffic over other traffic.   
+Specifically, we do not favor network traffic from any CAC affiliate; we do not give preference to 
+specific traffic for any consideration - monetary or otherwise.  
+
+Performance Characteristics 
+
+Congestion Management:  We do not manage network congestion.  We do not have congestion 
+management practices.   
+
+Application Specific Behavior:  CAC does not manage network throughput to favor specific 
+applications or classes of applications 
+
+Device Attachment Rules:  CAC does not restrict traffic from specific types of devices. 
+
+Security:  CAC uses firewalls, monitoring and other accepted industry practices to protect our 
+networks and users.  We do not share personally identifiable information. 
+
+Service Description:  CAC operates fixed wireless networks to provide various levels of 
+broadband service. 
+
+Commercial Terms: 
+
+Pricing:  CAC pricing is based on a flat monthly rate.   
+
+Privacy:  CAC does not provide information about our customers to third parties, affiliated or 
+not. 
+
+Redress Options:  CAC prides itself on customer service and works to provide a level of network 
+performance that would minimize any issues.   Should any questions or concerns arise, 
+customers may contact CAC by phone at 978-281-4222 or via email: info@capeanncomm.com.  
+
+ 
+
+==================================     
+
+ 
+
+Certification 
+
+The above information is our Internet Transparency Disclosure.  All information contained herein is true 
+and correct to the best of my knowledge and belief for our current network services.  From time to time, 
+CAC may modify this information to remain consistent with technology and FCC requirements. 
+ 
+ 
+Lucinda Seigel 
+President 
+Cape Ann Communications, Inc. 
+ 
+
+

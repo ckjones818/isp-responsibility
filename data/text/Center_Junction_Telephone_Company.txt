@@ -1,0 +1,237 @@
+Center Junction Telephone Company 
+Broadband Internet Access Services 
+
+Network Management Practices, Performance Characteristics, and 
+
+Commercial Terms and Conditions for Fixed Services 
+
+Center  Junction  Telephone  Company,  (“the  Company”)  has  adopted  the  following  network 
+management practices, performance characteristics, and commercial terms and conditions for its 
+broadband Internet access services in compliance with the Federal Communications Commission’s 
+(“FCC’s) Open Internet Framework requirements (GN Docket No. 09-191, WC Docket No. 07-
+52, and WC Docket 17-108). 
+These practices, characteristics, terms and conditions are intended to help preserve the Internet as 
+an  open  framework  that  enables  consumer  choice,  freedom  of  expression,  end-user  control, 
+competition,  and  freedom  to  innovate  without  permission,  while  permitting  the  Company  to 
+manage its network reasonably. 
+
+These practices, characteristics, terms and conditions are effective as of June 1, 2018. 
+
+The Company may add, delete, or modify certain practices, performance characteristics, terms and 
+conditions from time to time at its discretion.  The Company will provide as much advance notice 
+as practicable of such changes.  It will normally endeavor to furnish written notice of rate changes 
+thirty (30) days before changes become effective, but reserves the right to use a shorter notice 
+period when regulatory, operational, technical or other circumstances warrant. 
+
+I.  Network Management Practices 
+
+The Company manages its network with the goal of providing the best practicable broadband 
+Internet experience to all of its customers.  Within the scope of its resources, it attempts to deploy 
+and maintain adequate capacity and facilities within its own network, and to acquire sufficient 
+Middle  Mile  capacity  or  facilities  outside  its  service  area  to  connect  with  the  Internet.    The 
+Company and its staff use their best efforts to monitor, address and minimize (but do not guarantee 
+that they can prevent) the effects of spam, viruses, security attacks, network congestion, and other 
+phenomena that can degrade the service of affected customers. 
+A. Congestion Management Practices 
+
+Congestion is an Internet access service problem that can slow web browsing, downloading, and 
+other activities of the customers during certain peak usage periods.   Congestion may be caused by 
+capacity  limits  and  bottlenecks  in  a  service  provider’s  own  network,  or  by  limitations  in  the 
+capacity of the Middle Mile transport facilities and services that many rural service providers must 
+purchase from unrelated entities to carry the traffic of their customers between their service areas 
+and the closest Internet nodes. 
+
+The Company has experienced no recent problems with congestion. 
+
+ 
+
+If significant congestion problems arise in the future, the Company’s approach is to determine the 
+source of the problem, and to increase the capacity of the affected portions of its network and/or 
+of its Middle Mile routes where warranted.  In the event of congestion, all traffic is classified as 
+best effort. 
+B.  Application-Specific Behavior Practices 
+
+The Company does not favor or inhibit certain applications or classes of applications.   Customers 
+may use any lawful and commercially available application which they desire on the Company’s 
+network.  
+
+The Company does not normally monitor the contents of the traffic or applications of its customers.  
+It undertakes no obligation to monitor or investigate the lawfulness of the applications used by its 
+customers.  If any party contacts the Company with a substantial allegation that an application 
+being  used  by  a  customer  is  unlawful,  the  Company  will  investigate  the  matter  (including 
+consultation, as it deems appropriate, with attorneys, consultants, federal or state regulators, and/or 
+federal, state or local law enforcement agencies), and will take appropriate actions to deal with the 
+use of applications that are demonstrated to be unlawful. 
+
+Customers may occasionally develop their own applications, or modify commercially available 
+applications.    The  Company  will  not  prohibit  the  use  of  customer-developed  or  modified 
+applications  unless  there  is  a  reasonable  belief  that  such  applications  will  cause  harm  to  its 
+network. 
+
+The Company does not block or rate-control specific protocols or protocol ports. 
+
+The Company does not modify protocol fields in ways that are not prescribed by the applicable 
+protocol standards.  
+C. Device Attachment Rules 
+
+The Company does not have any approval procedures that must be satisfied before a device can 
+be  connected  to  its  network.    Customers  may  use  any  lawful,  compatible,  type-accepted  (if 
+necessary) and commercially available device which they desire on the Company’s network, as 
+long as such device does not harm the network.  
+
+The Company does not normally monitor the devices used by its customers.  It warns customers 
+that  some  types  of  devices  (for  example,  Data  Over  Cable  Service  Interface  Specification 
+(‘DOCSIS’) devices intended for use on cable broadband networks) may not be compatible with 
+its fiber optic (and/or digital subscriber line (“DSL”)) network. 
+
+The Company undertakes no obligation to monitor or investigate the lawfulness of the devices 
+used by its customers.  If any party contacts the Company with a substantial allegation that a device 
+being  used  by  a  customer  is  unlawful,  the  Company  will  investigate  the  matter  (including 
+consultation, as it deems appropriate, with attorneys, consultants, federal or state regulators, and/or 
+federal, state or local law enforcement agencies), and will take appropriate actions to deal with the 
+use of a device that is demonstrated to be unlawful. 
+
+Customers  may  occasionally  develop  their  own  devices,  or  modify  commercially  available 
+devices.  The Company will not prohibit the use of lawful customer-developed or modified devices 
+unless there is a reasonable belief that such devices will cause harm to its network. 
+
+D. Security Practices 
+
+The Company does not normally monitor the traffic of its customers.  It undertakes no obligation 
+to monitor or protect such customer traffic from spam, viruses, denial-of-service attacks, or other 
+malicious, unlawful or unwanted activities. 
+
+The Company recognizes that customers can purchase spam filtering and anti-virus software from 
+commercial vendors to meet their needs.  The Company may from time to time offer anti-spam 
+and/or  anti-virus  software  or  services  to  customers  who  desire  to  purchase  them  from  the 
+Company.  When offered, these software or services will be described and priced in other sections 
+of this website. Customers are free to obtain anti-spam and/or anti-virus software or services from 
+any source they desire, as long as such software or services do not disrupt or degrade the traffic of 
+other customers of the Company or harm the network. 
+
+A  customer  that  is  subjected  to  a  denial-of-service  attack,  or  similar  malicious,  unlawful  or 
+unwanted activity, is urged to notify the Company as soon as possible.  The Company will work 
+with the customer, other service providers, federal and state regulators, and/or law enforcement to 
+determine the source of such activity, and to take appropriate, and technically and economically 
+reasonable efforts to address the matter. 
+
+The Company employs commercially appropriate security procedures to protect its network and 
+its customer records from unauthorized access by third parties.  The Company does not guarantee 
+that it can protect customers from any and/or all security breaches. 
+E. Traffic Blocking 
+
+The  Company  does  not  block  any  lawful  content,  applications,  devices,  and/or  non-harmful 
+devices. 
+
+The  only  potential  exceptions  where  blocking  may  occur  entail  the  unlawful  or  harmful 
+circumstances set forth in Sections I.A through I.D above.  The Company believes that all such 
+circumstances constitute reasonable network management practices. 
+
+The Company does not knowingly and intentionally impair, degrade or delay the traffic on its 
+network so as to render effectively unusable certain content, applications, services and/or non-
+harmful devices.  However, the Company notes that congestion may from time to time impair, 
+degrade, or delay some traffic. 
+
+The Company does not charge edge service providers of content, applications, services and/or 
+devices any fees simply for transporting traffic between them and its customers. 
+
+ 
+
+II. Performance Characteristics 
+
+Many of the service and performance characteristics of the Company’s broadband Internet access 
+services  are  contained  in  the  service  offering  portions  of  this  website.    The  Company  offers 
+different tiers of service at different prices, and changes these from time to time. 
+
+ 
+
+A.  General Service Description 
+
+Actual  access  speeds  and  time  delays  (latency)  are  impacted  by  the  length,  capacity  and 
+congestion of Middle Mile transport facilities (between the Company’s service area and Internet 
+nodes) as well as the characteristic of the Company’s own network.  Because conditions on these 
+facilities and routes can change frequently, the Company can provide estimated actual access 
+speed and latency information only for specific recent time periods requested by a customer. 
+
+The Company’s service is suitable for real-time applications.  The speed tier a customer subscribes 
+to will impact the efficiency of the real-time applications.  
+B. Impact of Specialized Services 
+
+The Company does not offer specialized services to end-users. 
+
+ 
+
+III. Commercial Terms and Conditions 
+
+The commercial terms and conditions of the Company’s broadband Internet access services are 
+available at our business office or by request.  
+A. Pricing Terms and Conditions 
+
+The Company offers different tiers and levels of service at different prices, and changes these from 
+time to time.  These service tiers and prices are detailed in the service offering portion of this 
+website. 
+
+The Company does not impose usage-based fees upon certain tiers or levels of its service 
+
+The Company does not impose fees for early termination with respect to certain of its service 
+arrangements.   
+
+The  Company  is  willing  to  consider  and  negotiate  prices  for  customized  additional  network 
+services requested by specific customers or edge service providers if such services can be designed, 
+developed and furnished in a commercially reasonable manner.  If and when such customized 
+services are developed and furnished, the Company reserves the right to adapt and provide them 
+to other customers on a non-discriminatory basis so long as such subsequent provision does not 
+entail disclosure of proprietary or confidential information of the initial customer. 
+B. No Unreasonable Discrimination 
+
+The Company does not unreasonably discriminate in its transmission of traffic over the broadband 
+Internet access services of its customers.  It endeavors to give its customers as much choice and 
+control as practicable among its different service offerings and among the content, application, 
+service and device offerings of edge service providers.  When reasonable network management 
+practices entail differential treatment of traffic, the Company does not discriminate among specific 
+uses, or classes of uses, of its network. 
+
+The Company does not impair, degrade or delay VoIP applications or services that compete with 
+its voice services and those of its affiliates. 
+
+The Company does not impair, degrade, delay or otherwise inhibit access by its customers to 
+lawful content, applications, services or non-harmful devices. 
+
+The Company does not impair free expression by actions such as slowing traffic from particular 
+websites or blogs. 
+
+The Company does not use or demand “pay-for-priority” or similar arrangements that directly or 
+indirectly favor some traffic over other traffic. 
+
+The Company does not prioritize its own content, application, services, or devices, or those of its 
+affiliates. 
+C. Privacy Policies 
+
+As  indicated  above,  the  Company’s  network  management  practices  do  not  generally  entail 
+inspection of network traffic. 
+
+The Company retains and stores certain traffic information (such as the identity of the customer 
+using a particular IP address during a specific period) for time periods required by federal or state 
+law.  
+
+The Company retains, stores and provides to law enforcement any traffic information requested 
+pursuant  to  the  procedures  of  the  Communications  Assistance  for  Law  Enforcement  Act 
+(“CALEA”),  the  Foreign  Intelligence  Surveillance  Act  (“FISA”)  or  other  applicable  national 
+security or criminal statutes. 
+
+The Company does not collect, store or use traffic information to profile its customers in order to 
+sell additional services to them, or for similar non-network management purposes.  
+D. Redress Options 
+
+Questions and complaints regarding the foregoing matters should be addressed to the Company at 
+563-487-2631 or cntrjct@netins.net 
+
+The  Company  strongly  desires  to  resolve  questions,  complaints  and  other  problems  of  its 
+customers and edge service providers in an informal and direct manner that satisfies all interested 
+parties to the greatest extent practicable. 
+
+Customers and edge service providers that are not able to obtain satisfaction from the Company 
+have the option of invoking the FCC’s informal and formal complaint procedures regarding Open 
+Internet Framework disputes. 
+
+

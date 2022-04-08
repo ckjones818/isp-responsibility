@@ -1,0 +1,234 @@
+Scott County Telephone 
+ISP Transparency 
+
+Company 
+
+Disclosures 
+
+Scope of Coverage 
+
+Name of Filer: Scott County Telephone 
+
+Company 
+
+Holding Company: Cypress 
+
+LLC 
+Break, 
+
+Filer's 
+
+FCC Registration 
+
+Number (FRN): 0020707907
+
+Trade name or OBA: N/ A 
+
+Type of ISP Service:
+
+ Wire line DSL 
+
+Description 
+residential and business customers 
+
+of service covered by the disclosure:
+
+ Broadband 
+
+Internet 
+
+access 
+
+service 
+
+provided 
+
+to 
+
+Effective date:  March 6, 2019
+
+Type of filing:
+
+ First 
+
+time disclosure 
+
+CERTIFICATION 
+
+AS TO ACCURACY 
+
+I, Karen Gilliam, 
+information 
+correct, 
+
+General 
+contained 
+
+to the best of my knowledge, 
+
+information 
+
+disclosure 
+and belief. 
+
+in the ISP transparency 
+
+is true and 
+and that all such information 
+
+Manager 
+
+of Scott County Telephone 
+
+Company, 
+
+certify 
+
+that I have examined 
+
+the 
+
+9:i.olud�f  u:i,_, 
+
+Kar Gilliam 
+General 
+Scott County Telephone 
+
+Manager 
+
+Company 
+
+Scott County Telephone Company 
+
+Internet Access Services 
+
+Network Management Practices, Performance Characteristics and 
+
+Commercial Terms and Conditions for Fixed Services 
+
+ 
+
+ 
+
+ 
+Scott County Telephone Company (“Scott County” or “the Company”) provides this Network 
+Transparency Statement in accordance with the FCC’s Restore Internet Freedom Rules to ensure that 
+customers have sufficient information to make informed choices about the purchase of broadband 
+services. 
+ 
+Scott County engages in network management practices that are tailored and appropriate for achieving 
+optimization on the network considering the particular network architecture and technology of its 
+broadband Internet access service.  Scott County’s goal is to ensure that all of its customers experience a 
+safe and secure broadband Internet environment that is fast, reliable and affordable. 
+ 
+Scott County’s network management includes congestion- and security-protocol-management and 
+customers generally will not be impacted by the protocols and practices that the Company uses to 
+manage its network. 
+ 
+Network Management Practices 
+
+•  No Blocking, Throttling, Affiliated Prioritization, or Paid Prioritization.  Scott County does not 
+
+block or throttle lawful content, applications, services, or non-harmful devices, subject to 
+reasonable network management.  Scott County also does not prioritize certain internet traffic 
+over other traffic, paid or otherwise. 
+
+ 
+•  Congestion Management.  Congestion is an Internet access service problem that can slow web 
+
+browsing and other online activities during certain peak usage periods.  Congestion may be 
+caused by capacity limits and bottlenecks in a service provider’s own network, or by limitations 
+in the capacity of the transport facilities and services that many rural service providers must 
+purchase from unrelated entities to carry the traffic of their customers between their service 
+areas and the closest Internet nodes.  Scott County has experienced no recent problems with 
+congestion.  If significant congestion problems arise in the future, the Company’s approach is to 
+determine the source of the problem, and to increase the capacity of the affected portions of its 
+network and/or of its middle-mile routes where warranted.  In the event of congestion, all 
+internet service speeds are classified as best effort. 
+
+ 
+
+•  Application-Specific Behavior.  Scott County does not favor or inhibit certain applications or 
+
+classes of applications.  Customers may use any lawful and commercially available application 
+which they desire on the Company’s network.  Scott County does not normally monitor the 
+contents of the traffic or applications of its customers.  It undertakes no obligation to monitor or 
+investigate the lawfulness of the applications used by its customers.  If any party contacts the 
+Company with a substantial allegation that an application being used by a customer is unlawful, 
+the Company will investigate the matter (including consultation, as it deems appropriate, with 
+attorneys, consultants, federal or state regulators, and/or federal, state or local law 
+enforcement agencies), and will take appropriate action as needed.  Scott County does not block 
+or rate-control specific protocols or protocol ports, nor does it modify protocol fields in ways 
+that are not prescribed by the applicable protocol standards. 
+
+ 
+
+ 
+
+•  Device Attachment Rules.  Customers may use devices of their choice (PC, smartphones, tablets, 
+smart TV, etc.) to connect to Scott County internet access service via the wiring at their home or 
+business premises, or via Wi-Fi connected to their broadband internet access service 
+(connection options vary based on device capabilities). 
+
+•  Security.  Scott County employs commercially appropriate security procedures to protect its 
+network and its customer records from unauthorized access by third parties.  The Company 
+does not guarantee that it can protect customers from any and/or all security breaches. 
+ 
+The Company does not normally monitor the traffic of its customers, and undertakes no 
+obligation to monitor or protect such customer traffic from spam, viruses, denial-of-service 
+attacks, or other malicious, unlawful or unwanted activities.  Customers can purchase spam 
+filtering and anti-virus software from commercial vendors to meet their needs.   Customers are 
+free to obtain anti-spam and/or anti-virus software or services from any source they desire, as 
+long as such software or services do not disrupt or degrade the traffic of other Scott County 
+customers or harm the network.  A customer that experiences a denial-of-service attack, or 
+similar malicious, unlawful or unwanted activity, is urged to notify the Company as soon as 
+possible.  Scott County will work with the customer, other service providers, federal and state 
+regulators, and/or law enforcement to determine the source of such activity, and to take 
+appropriate, and technically and economically reasonable efforts to address the matter. 
+ 
+
+Performance Characteristics 
+Scott County offers Internet access over DSL with speeds of up to 10/1 Mbps.  These speeds are suitable 
+for real-time applications such as web-surfing, gaming, and streaming music or video content.  While 
+Scott County strives to provide optimal performance, specific performance levels are not guaranteed.  
+Performance levels can be affected by several factors, including the number of devices connected at a 
+customer’s location and network conditions.  Actual speeds and time delays (latency) may also be 
+impacted by the length, capacity and congestion of middle-mile transport facilities between Scott 
+County’s service area and the internet nodes.  While the Company’s service is suitable for real-time 
+applications, the internet service speeds to which a customer subscribes may impact the efficiency of 
+real-time applications. 
+ 
+Commercial Terms 
+Scott County offers the following internet packages: 
+ 
+
+4/1 Mbps with Unlimited Usage: 
+10/1 Mbps with Unlimited Usage: 
+
+$39.99 
+$49.99 
+
+ 
+Prices do not include applicable taxes.  Not all speeds and services are available in all areas.  There is no 
+contract required for Internet services; however, customers must maintain an active and current phone 
+line with Scott County Telephone Company.  
+ 
+
+ 
+
+Internet Customer Privacy Policy 
+Protecting customer privacy is important to Scott County Telephone Company.  Scott County does not 
+collect, store or use traffic information to profile its customers in order to sell additional services to 
+them, or for similar non-network management purposes.  The Company retains and stores certain traffic 
+information (such as the identity of the customer using a particular IP address during a specific period) 
+for time periods required by federal or state law.  Scott County retains, stores and provides to law 
+enforcement any traffic information requested pursuant to the procedures of the Communications 
+Assistance for Law Enforcement Act (“CALEA”), the Foreign Intelligence Surveillance Act (“FISA”) or other 
+applicable national security or criminal statutes. 
+
+ 
+
+Where to go for assistance   
+If you have questions or complaints, please contact us at 479-923-4200. 
+
+

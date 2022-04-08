@@ -1,0 +1,519 @@
+ 
+
+WOODSFIELD MUNICIPAL CABLE 
+
+BROADBAND INTERNET SERVICE DISCLOSURES 
+
+ 
+
+Scope of ISP’s Coverage 
+
+Name of Filer.  Village of Woodsfield Municipal Cable 
+
+FCC Registration Number.  0002921492 
+
+Trade name or DBA name.  Woodsfield Municipal Cable 
+
+Type of ISP service.  Wired 
+
+Brief Description of Service Covered by Disclosure.  Woodsfield Municipal Cable broadband Internet service is 
+delivered over a coaxial network using the Data Over Cable Service Interface Specification (DOCSIS).  Customers 
+subscribing to our cable service access our network using cable modems and can utilize wireless routers within the 
+premises. 
+
+Effective Date of Disclosure.  June 11, 2018 
+
+This broadband Internet service disclosure is a first-time disclosure. 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+WOODSFIELD MUNICIPAL CABLE 
+
+BROADBAND INTERNET SERVICE DISCLOSURES 
+
+ 
+
+Certification of Filing Accuracy 
+
+ 
+
+I, Samuel McPeek, Superintendent at Woodsfield Municipal Cable hereby certify that I have examined the 
+information contained in the disclosure and that all information contained in the submission is true and correct to 
+the best of my knowledge, information and belief. 
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+ 
+
+ 
+
+WOODSFIELD MUNICIPAL CABLE 
+
+BROADBAND INTERNET SERVICE DISCLOSURES 
+
+ 
+
+Substantive Disclosure Submission 
+
+ 
+
+Consistent with FCC regulations,1 the Village of Woodsfield Municipal Cable, and its affiliates, referred to 
+
+ 
+as “Woodsfield Municipal Cable,” provides this information about our broadband Internet access service.  We 
+welcome questions or comments about this information, including any questions about any portions that you do 
+not understand.  You may contact us at 740-472-1865 or contact us at woodsfieldutilityoffice@yahoo.com. 
+
+ 
+
+NETWORK PRACTICES 
+
+ 
+
+General description.  We provide a variety of Internet offerings to our residential customers over our broadband 
+network and through other communications facilities connecting to the Internet, including but not limited to High 
+Speed Internet Access (“Woodsfield Municipal Cable Broadband Service”).  We use reasonable, nondiscriminatory, 
+network management practices to improve overall network performance to ensure a high-quality online 
+experience for all users.  We use various tools and techniques to manage our network, deliver our service, and 
+ensure compliance with our Acceptable Use Policy and our Terms and Conditions of Service.  We also contract with 
+one or more third-party companies for certain network monitoring and management services.  Our network 
+management activities may include detecting malicious traffic and preventing the distribution of viruses or other 
+harmful code or content and using other tools and techniques in order to meet our goal of delivering the best 
+possible Internet experience to our customers. Our network management practices do not target any specific 
+content, application, service or device.  As network management issues arise and as technology develops, we may 
+employ additional or new network management practices.   
+ 
+We will update these disclosures as necessary.  
+ 
+Related documents and disclosures.  Use of our broadband Internet access service is also governed by:   
+
+ 
+
+•  Woodsfield Municipal Cable Acceptable Use Policy, available upon request.  
+•  Woodsfield Municipal Cable Terms and Conditions of Service, available upon request. 
+•  Woodsfield Municipal Cable Privacy Notice, available upon request.  
+ 
+These documents contain important information regarding Woodsfield Municipal Cable Broadband Service and its 
+use and may be subject to updates and revisions.  Subscribers are encouraged to review them on a regular basis.  
+ 
+ 
+Blocking.  Woodsfield Municipal Cable does not engage in any practice, other than reasonable network 
+management disclosed herein, that blocks or otherwise prevents end user access to lawful content, applications, 
+service, or non-harmful devices.  
+ 
+Throttling.  Woodsfield Municipal Cable does not engage in any practice, other than reasonable network 
+management disclosed herein, that degrades or impairs access to lawful Internet traffic on the basis of content, 
+application, service, user, or use of a non-harmful device.   
+
+                                            
+1 47 C.F.R. § 8.1; Preserving the Open Internet, Broadband Industry Practices, Report and Order, 22 FCC Rcd 17905 
+(2010); Protecting and Promoting the Open Internet, Report and Order on Remand, Declaratory Ruling, and Order, 
+30 FCC Rcd 5601 (2015); Restoring Internet Freedom, Declaratory Ruling, Report and Order, and Order, 33 FCC Rcd 
+311 (2017).    
+ 
+
+ 
+
+3 
+
+ 
+
+ 
+Affiliated or Paid Prioritization.  Woodsfield Municipal Cable does not engage in any practice that directly or 
+indirectly favors some Internet traffic over other traffic to benefit an affiliate or in exchange for consideration, 
+monetary or otherwise.  
+ 
+ 
+Congestion management.  This section describes our network management practices used to address congestion 
+on our network. 
+ 
+
+Congestion management practices used. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Network monitoring.  We monitor our network for utilization trends.  We receive regular reports 
+showing changes in network traffic and congestion.  We use this information to plan increases in 
+available bandwidth, port additions or additional connectivity to the Internet.  Should new 
+technologies or unforeseen developments in the future make it necessary to implement an 
+active congestion management program, we will update these disclosures and otherwise notify 
+our customers of the scope and specifics of this program.  
+
+Potential heavy bandwidth users.  Through our third-party provider, we receive reports showing 
+end user usage for identification and management of potential heavy bandwidth users.  If a 
+reasonable solution is not found and usage remains excessive, Woodsfield Municipal Cable 
+reserves the right to limit, suspend, or terminate the high-volume user’s Internet service.  
+ 
+Usage limits.  We do not set usage limits for our Woodsfield Municipal Cable Broadband Service. 
+
+Types of traffic affected.  Our congestion management practices do not target any specific 
+content, applications, services, or devices, or otherwise inhibit or favor certain applications or 
+classes of applications.   
+ 
+Purpose of congestion management practices.  Our broadband Internet network is a shared 
+network.  This means that our customers share upstream and downstream bandwidth.  The goal 
+of our congestion management practices is to enable better network availability and speeds for 
+all users.  Our congestion management practices serve to: 
+
+• 
+
+• 
+
+• 
+
+Help us adapt and upgrade our network to maintain or improve network 
+performance as demand for our broadband Internet network increases. 
+Help us adapt and upgrade our network to maintain or improve network 
+performance as demand for higher bandwidth applications increases.  Some 
+examples of higher bandwidth applications are gaming, streaming movies, and 
+streaming high definition video. 
+Help us identify potential heavy bandwidth users.  
+
+ 
+
+ 
+
+Congestion management criteria.   
+ 
+
+Network monitoring.  Our network monitoring provides data to help us plan upgrades to our 
+network, equipment, technology, and connectivity to the Internet and can help us identify 
+potential viruses or threats to our network.  As demand for our Internet service increases, and as 
+demand for higher bandwidth applications increases, we monitor effects on network 
+performance and plan upgrades as we deem necessary.   
+
+4 
+
+ 
+
+ 
+
+Potential heavy bandwidth users.  We, in our sole reasonable discretion, determine the criteria 
+for data consumption that is not characteristic of a typical residential user of Woodsfield 
+Municipal Cable Broadband Service.   
+
+Effects on end user experience.  Because our broadband Internet network is a shared network, 
+periods of high network demand may result in Internet traffic congestion.  End users may 
+experience reduced bandwidth or speed during these times.  Although we work to engineer and 
+implement solutions to eliminate congestion that affects the end user experience, new 
+technologies or unforeseen developments may require implementation of an active congestion 
+management program.  Should it become necessary in the future to implement such programs, 
+Woodsfield Municipal Cable will notify its customers of the program and the criteria under which 
+this congestion management will be implemented.   
+
+ 
+ 
+Application-Specific Practices.  This section discloses any application-specific practices we use, if any. 
+
+ 
+
+Management of specific protocols or protocol ports.  To protect the security of our network and our 
+customers, we may block known hostile ports. In such cases, we may block that specific port until the 
+attack ceases, at which time we remove the block.  
+
+ 
+
+Modification of protocol fields.  To protect the security of our network and our customers, we may 
+modify protocol fields in ways not prescribed by the protocol standard. In such cases, we may modify the 
+protocol field until the attack ceases, or as needed until the network security threat has been removed.   
+
+ 
+
+Applications or classes of applications inhibited or favored.   We do not inhibit or favor any specific 
+applications or classes of applications. 
+
+ 
+ 
+
+Device Attachment Rules.  This section addresses any limitations on attaching lawful devices to our network.  
+
+ 
+General restrictions on types of devices to connect to network.  We place no general restrictions on 
+lawful devices that a customer may connect to our network, so long as the device is: (i) compatible with 
+our network; and (ii) does not harm our network or other users. Our broadband Internet service works 
+with most PCs and laptops including Macs, and other Internet compatible devices like game systems and 
+Internet-enabled TVs.  If a password-protected wireless router is connected to our broadband Internet 
+service, wireless Internet compatible devices properly connected to the router including computers, 
+tablets, smartphones, and other devices can connect to our network.  If a customer or potential customer 
+believes they have an unusual configuration, our customer service department will help determine if 
+there is a compatibility problem.   
+
+ 
+
+Cable Modems.  Our Woodsfield Municipal Cable Broadband Service requires connection of a 
+cable modem to our network.  You can obtain a cable modem from us or provide your own cable 
+modem that meets the above device attachment criteria.  
+
+ 
+ 
+Network and End User Security.  This section provides a general description of the practices we use to maintain 
+security of our network. It is the responsibility of the Customer to ensure the security of their network and the 
+equipment that connects to the Woodsfield Municipal Cable Broadband Service. Customers are required to take all 
+necessary steps to secure and manage the use of the Services received from Woodsfield Municipal Cable in such a 
+way to assure that network abuse and/or fraudulent activity is prevented. In addition, we use a number of tools 
+and techniques to protect our network and end users from malicious and unwanted Internet traffic such as 
+preventing the distribution of viruses or other harmful code.  
+
+ 
+
+5 
+
+ 
+
+Practices used to ensure end user security, including triggering conditions.   
+ 
+
+Network monitoring:  Our network monitoring provides data to help us identify potential viruses 
+or threats to our network. We will work with end users in the event network monitoring data 
+indicates the presence of a virus or other threat to the network on an end user’s device. 
+
+Practices used to ensure security of the network, including triggering conditions.   
+
+ 
+Network monitoring:  Our network monitoring provides data to help us identify potential viruses 
+or threats to our network. We will work with end users in the event network monitoring data 
+indicates the presence of a virus or other threat to the network on an end user’s device. 
+
+ 
+
+ 
+
+PERFORMANCE CHARACTERISTICS 
+
+ 
+
+General Service Description.  Our broadband Internet service enables a customer to connect an Internet-enabled 
+device through either a wired or wireless connection.  Our Woodsfield Municipal Cable Broadband Service includes 
+wiring and a cable modem and can be utilized with a wireless router.  Our broadband Internet access service 
+enables residential subscribers to access all lawful content, applications, and services of their choice available on 
+the Internet.  
+ 
+No Internet service provider can guarantee a specific speed at all times – the actual speed a customer will 
+experience while using the Internet depends on a variety of conditions.  These can include the customer’s 
+computer, the customer’s home network configuration, or the performance of the website visited.  
+ 
+
+Service technology.  We deliver our Woodsfield Municipal Cable Broadband Service over our coaxial 
+network using the Data Over Cable Service Interface Specification (DOCSIS).  Customers subscribing to our 
+cable service access our network using cable modems and can utilize wireless routers within the premises.  
+To connect from our network to the Internet, we use equipment called a Cable Modem Termination 
+System (CMTS) that acts as a gateway to the Internet for our customers’ cable modems.  This is a shared 
+network, which means that our customers share upstream and downstream bandwidth.   
+
+ 
+Expected and actual speeds and latency. 
+ 
+
+Expected performance.  We offer customers a variety of broadband Internet service levels.  We provide a 
+description of the expected maximum transfer speeds associated with each service level for residential 
+services upon request by calling 740-472-1865 or emailing woodsfieldutilityoffice@yahoo.com.   
+
+ 
+
+Speed.  The speeds we identify for each broadband Internet service level are the maximum 
+upload and download speeds that customers are likely to experience.  We provision our 
+customers’ modems and engineer our network to deliver the speeds to which our customers 
+subscribe.  However, we do not guarantee that a customer will actually achieve those speeds at 
+all times.  A variety of factors can affect upload and download speeds, including customer 
+equipment, network equipment, congestion in our network, congestion beyond our network, 
+performance issues with an Internet application, content, or service, and more.  
+
+ 
+
+Latency.  Latency is another measurement of Internet performance.  Latency is a term that refers 
+to the time it takes for information to travel between your computer and your Internet 
+destination.  High latency occurs when the time it should normally take for the information to 
+make the trip becomes abnormally long.  Latency is typically measured in milliseconds, and 
+generally has no significant impact on typical everyday Internet usage.  Most applications, such 
+as email and websites, work well despite average latency.  Highly interactive applications, such as 
+
+ 
+
+6 
+
+ 
+
+multi-player games, do not work well with higher latency.  As latency varies based on any 
+number of factors, most importantly the distance between a customer's computer and the 
+ultimate Internet destination (as well as the number and variety of networks your packets cross), 
+it is not possible to provide customers with a single figure that will define latency as part of a 
+user experience. 
+
+ 
+
+Actual speed and latency performance.  The actual speed and latency experienced 
+by individual users may vary depending upon network conditions and other 
+factors.  Actual performance of our cable modem service in most cases will 
+conform to national wireline broadband Internet speed and latency levels reported 
+by the FCC.2  The FCC has reported cable ISP subscribers receive mean download 
+speeds that are 109.33% of advertised speeds, and mean upload speeds that are 
+115.30% of advertised speeds.3  In addition, the FCC has reported mean latency4 
+delays for cable ISPs at about 22.24.5  
+ 
+ 
+
+Suitability of the Service for Real-time Applications.  Our broadband Internet access service is suitable 
+for typical real-time applications, including messaging, voice applications, video chat applications, gaming, 
+and Internet video.  If users or developers have questions about particular real-time applications, please 
+contact us at 740-472-1865 or email us at woodsfieldutilityoffice@yahoo.com. 
+
+Non-Broadband Internet Access (BIAS) Data Services.  
+
+Non-BIAS Data services offered to end users.  We do not offer non-BIAS data services to 
+subscribers.   
+
+ 
+
+Effects of non-BIAS data services on availability and performance of broadband Internet access 
+service.  Not applicable.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMERCIAL TERMS 
+
+Prices.  Monthly prices for our residential and business broadband Internet access services are available upon 
+request by calling 740-472-1865 or emailing woodsfieldutilityoffice@yahoo.com.   
+ 
+
+                                            
+2 See FCC’s Office of Engineering and Technology and Office of Strategic Planning & Policy Analysis, 2016 
+Measuring Broadband America Fixed Broadband Report, A Report on Consumer Fixed Broadband Performance in 
+the United States, (Dec. 1, 2016) (available at https://www.fcc.gov/reports-research/reports/measuring-
+broadband-america/measuring-fixed-broadband-report-2016) (“2016 Measuring Broadband America Report”).    
+
+3 2016 Measuring Broadband America Report, Validated Data, Statistical Averages, Download Sustained and 
+Upload Sustained, (Dec. 1, 2016) (available at https://www.fcc.gov/reports-research/reports/measuring-
+broadband-america/validated-data-measuring-broadband-america-2016#block-menu-block-4) (data presented is 
+unweighted mean percentage of advertised speeds, taken over a 24 hour, Saturday-Sunday period). 
+
+4 The FCC has defined latency is the total length of time it takes a signal to travel from an origination point to the 
+nearest server, plus the time for an acknowledgement of receipt to travel back to the origination point.  The 
+nearest server is the server providing the minimum round trip time. 
+
+5 2016 Measuring Broadband America Report, Validated Data, Statistical Averages, Latency, (Dec. 1, 2016) 
+(available at https://www.fcc.gov/reports-research/reports/measuring-broadband-america/validated-data-
+measuring-broadband-america-2016#block-menu-block-4) (data presented is unweighted mean latency in 
+milliseconds, taken over a 24 hour, Saturday-Sunday period). 
+
+ 
+
+7 
+
+ 
+
+Usage-based fees.  We do not charge our residential broadband Internet access service customers fees based on 
+their data usage. 
+ 
+Fees for early termination.  We do not charge a fee for early termination of our residential broadband Internet 
+access service.  
+ 
+Additional network services.  We do not charge additional fees for additional network services. 
+ 
+Privacy Policies.  We collect and store information from many sources as it relates to providing and maintaining 
+service to our customers.  Individually identifiable customer information, including usage data obtained in our role 
+as your broadband Internet access service provider is only used to provide the service, improve your use of the 
+service, manage our network, or as otherwise required or authorized by law.   
+ 
+We do not disclose individually identifiable broadband Internet access service customer or use information to third 
+parties except: (i) as necessary to provide our broadband Internet service and to manage our network; or (ii) in 
+response to law enforcement requests, subpoenas, court orders, or as otherwise required or authorized by law.  
+
+ 
+
+For more information on our additional broadband Internet access subscriber privacy policies, please review our 
+Woodsfield Municipal Cable Privacy Notice, available upon request by calling 740-472-1865 or emailing 
+woodsfieldutilityoffice@yahoo.com.  
+
+ 
+Inspection of network traffic.  We routinely monitor network and traffic patterns but do not inspect 
+network traffic. 
+ 
+Storage of network traffic information.  Dynamic Host Configuration Protocol (DHCP) information is a 
+code included in all network traffic that associates that traffic with a particular device sending or receiving 
+the traffic.  We do not store DHCP information.   
+
+ 
+
+Provision of aggregate or anonymized network traffic information to third parties.  We may disclose 
+aggregate or anonymized network traffic information to third parties for purposes of providing and 
+managing our broadband Internet service or if required by law.  
+
+ 
+
+Use of network traffic information for non-network management purposes.  We do not use network 
+traffic information for non-network management purposes.   
+ 
+
+ 
+Redress options.  We welcome questions about our broadband Internet access service.  This section discloses 
+redress options for end users and edge providers.   
+ 
+
+Consumer complaints and questions.  Consumers with complaints or questions relating to the 
+Woodsfield Municipal Cable Broadband Service or these disclosures should contact 740-472-1865 or 
+woodsfieldutilityoffice@yahoo.com.  
+ 
+
+Questions.  We will endeavor to answer questions promptly via email or voice.  
+ 
+Complaints.  For written complaints, a Woodsfield Municipal Cable employee will contact the end 
+user and will attempt to resolve complaints informally, escalating the matter to senior 
+management if needed.   
+
+ 
+
+ 
+
+Edge provider, entrepreneur, and small business complaints and questions.  Edge providers, 
+entrepreneurs, and other small businesses with complaints or questions relating to our broadband 
+Internet access service or these disclosures should contact 740-472-1865 or 
+woodsfieldutilityoffice@yahoo.com.  
+
+8 
+
+ 
+
+Questions. We will endeavor to answer questions promptly via email or voice.  
+ 
+Complaints.  For written complaints, a Woodsfield Municipal Cable employee will contact the end 
+user and will attempt to resolve complaints informally, escalating the matter to senior 
+management if needed.    
+
+ 
+
+ 
+
+9 
+
+
