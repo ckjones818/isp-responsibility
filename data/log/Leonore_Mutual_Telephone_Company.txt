@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+The company does not share data with outside parties. Network traffic may be captured, stored, or shared with equipment vendors for the purpose of diagnosing and repairing issues with network equipment or performance.
+What is this company’s policy on data breaches?
+
+The company does not have a specific policy on data breaches, but it does take steps to protect the privacy of its end users and network infrastructure. Network traffic may be captured, stored, or shared with equipment vendors for the purpose of diagnosing and repairing issues with network equipment or performance.
+What is this company's policy on collecting user data?
+
+The company's policy on collecting user data is that it does not routinely store or share network traffic with outside parties. Network traffic may be captured and stored as needed by COMPANY personnel to aid in diagnosing and correcting network issues.
+How does this company handle security issues?
+
+The company employs industry standard methods to protect the privacy of its end users and network infrastructure. Commercial Terms ISPs must disclose the commercial terms of its broadband Internet access service. Monthly pricing and other fees are available by contacting the company at 815-856-3164. Privacy Policies Network management policies do not normally entail inspection of network traffic. Network traffic may be inspected as needed by COMPANY personnel to aid in diagnosing and correcting network issues. Network Traffic is not routinely stored or provided to outside
+Does this company practice net neutrality?
+
+From the information provided, it appears that Leonore Mutual Telephone Company does practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, this company provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+The company’s policy on net neutrality is that it does not block or rate control specific protocols or ports.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, the company does not block any traffic in order to create a faster routing experience.
+Does this company implement energy-aware technologies?
+
+I cannot find any information on whether or not Leonore Mutual Telephone Company implements energy-aware technologies.
+How does this company reduce their energy consumption?
+
+There is no specific information provided by the company regarding energy conservation measures. However, the company does state that it is committed to providing the best service and support to its customers. This likely includes efforts to reduce energy consumption.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+The company employs industry standard methods to protect the privacy of its end users and network infrastructure. Commercial Terms ISPs must disclose the commercial terms of its broadband Internet access service. Monthly pricing and other fees are available by contacting the company at 815-856-3164. Privacy Policies Network management policies do not normally entail inspection of network traffic. Network traffic may be inspected as needed by COMPANY personnel to aid in diagnosing and correcting network issues. Network Traffic is not routinely stored or provided to outside
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, the company does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Yes, Leonore Mutual Telephone Company supports open internet. The company has published a statement disclosing its policies in compliance with the FCC's rules.
+How does this company achieve routing security?
+
+The company employs industry standard methods to protect the privacy of its end users and network infrastructure. Commercial Terms ISPs must disclose the commercial terms of its broadband Internet access service. Monthly pricing and other fees are available by contacting the company at 815-856-3164. Privacy Policies Network management policies do not normally entail inspection of network traffic. Network traffic may be inspected as needed by COMPANY personnel to aid in diagnosing and correcting network issues. Network Traffic is not routinely stored or provided to outside
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+No, this company does not employ source address validation.

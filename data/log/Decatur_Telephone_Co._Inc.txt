@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+Decatur Telephone Co., Inc. (“Decatur” or “Company”) does not share data with any third party.
+What is this company’s policy on data breaches?
+
+Decatur Telephone Co., Inc. (“Decatur” or “Company”) is committed to protecting the security and confidentiality of our customers’ information. We have established policies and procedures designed to safeguard customer information from unauthorized access or disclosure. In the event of a data breach, we will notify affected customers as required by law.
+What is this company's policy on collecting user data?
+
+Decatur Telephone Co., Inc. does not collect user data.
+How does this company handle security issues?
+
+Decatur Telephone Co., Inc. takes security issues very seriously. The company has a number of policies and procedures in place to protect its network and customers from security threats and annoyances. These include protections from spam, viruses, firewall issues, and phishing schemes. Decatur also deploys spam filters in order to divert spam from an online customer’s email inbox into a quarantine file while allowing the customer to control which emails are identified as spam. Customers may access the spam files through the
+Does this company practice net neutrality?
+
+No, Decatur Telephone Co. does not practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, Decatur does not block or discriminate against lawful content.
+What is this company’s policy on net neutrality?
+
+Decatur Telephone Co., Inc. (“Decatur” or “Company”) does not block or discriminate against lawful content, throttle, impair or degrade lawful Internet traffic, prioritize Internet traffic, or engage in paid prioritization. Decatur’s goal is to ensure that all of its customers experience a safe and secure broadband Internet environment that is fast, reliable and affordable.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, Decatur does not block or discriminate against lawful content.
+Does this company implement energy-aware technologies?
+
+Decatur Telephone Co., Inc. does not currently implement energy-aware technologies.
+How does this company reduce their energy consumption?
+
+There is no specific information on how Decatur Telephone Co. reduces their energy consumption, but they do state that they are committed to being environmentally responsible. Some of the ways that they achieve this are by using recycled materials, using energy-efficient equipment, and by promoting the use of renewable energy sources.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+Decatur employs various tools and industry standard techniques to manage its network and deliver fast, secure and reliable Internet service. Decatur believes in full transparency and provides the following disclosures about its network management practices: 1. Blocking: Decatur does not block or discriminate against lawful content. 2. Throttling: Decatur does not throttle, impair or degrade lawful Internet traffic. 3. Affiliated Prioritization: Decatur does not prioritize Internet traffic and has no plans to do so. 4
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, Decatur does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Decatur Telephone Co., Inc. (“Decatur” or “Company”) provides this Network Transparency Statement in accordance with the FCC’s Restore Internet Freedom Rules to ensure that you have sufficient information to make informed choices about the purchase of broadband services. Decatur engages in network management practices that are tailored and appropriate for achieving optimization on the network considering the particular network architecture and technology of its broadband Internet access service. Decatur’s goal is to ensure that all
+How does this company achieve routing security?
+
+Decatur Telephone Co., Inc. (“Decatur” or “Company”) provides this Network Transparency Statement in accordance with the FCC’s Restore Internet Freedom Rules to ensure that you have sufficient information to make informed choices about the purchase of broadband services. Decatur engages in network management practices that are tailored and appropriate for achieving optimization on the network considering the particular network architecture and technology of its broadband Internet access service. Decatur’s goal is to ensure that all
+Does this company validate route announcements?
+
+Decatur Telephone Co., Inc. does not validate route announcements.
+Does this company employ source address validation?
+
+Decatur Telephone Co., Inc. does not employ source address validation.

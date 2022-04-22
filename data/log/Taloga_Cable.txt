@@ -1,0 +1,53 @@
+What is this company’s policy on data sharing?
+
+Taloga Cable does not share or sell customer data.
+What is this company’s policy on data breaches?
+
+Taloga Cable does not have a specific policy on data breaches, but it does have a general policy on customer privacy. Taloga Cable strives to protect the privacy of its customers and their personal information. Taloga Cable does not sell or share customer information with third parties without the customer’s consent, except as required by law. If Taloga Cable becomes aware of a data breach, it will take steps to protect the customer information and notify affected customers as required by law.
+What is this company's policy on collecting user data?
+
+Taloga Cable does not collect user data.
+How does this company handle security issues?
+
+Taloga Cable has a team of dedicated security professionals who work to ensure that the company's networks and systems are secure. Taloga Cable also has a robust security policy in place that outlines the company's commitment to protecting its customers' information. If you have any questions or concerns about Taloga Cable's security practices, you can contact the company at talcab@gmail.com.
+Does this company practice net neutrality?
+
+From the information provided, it appears that Taloga Cable does not block or throttle lawful content, applications, services, or devices. Additionally, Taloga Cable does not appear to favor some traffic over other traffic, nor does it charge for paid prioritization. Finally, Taloga Cable manages its network with the goal of delivering the best possible broadband Internet access service to all of its customers. Therefore, it seems that Taloga Cable does practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, Taloga Cable does not discriminate against lawful Internet content, applications, services, or non-harmful devices.
+What is this company’s policy on net neutrality?
+
+Taloga Cable does not discriminate against lawful Internet content, applications, services, or non-harmful devices. The company does engage in reasonable network management practices.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, Taloga Cable does not block or rate-control specific protocols or protocol ports (except to prevent spam, malicious attacks, and identity theft), does not modify protocol fields in ways not prescribed by protocol standards, and does not otherwise inhibit or favor certain applications or classes of applications.
+Does this company implement energy-aware technologies?
+
+Taloga Cable does not specifically implement energy-aware technologies, but strives to be as efficient as possible in its operations.
+How does this company reduce their energy consumption?
+
+Taloga Cable strives to be as efficient as possible in its energy consumption, and has a number of policies and practices in place to help reduce its energy usage. Some of the ways in which Taloga Cable reduces its energy consumption include:
+
+-Using energy-efficient equipment and appliances
+-Implementing energy-saving practices such as turning off lights and equipment when not in use
+-Educating employees and customers about energy efficiency
+-Working with suppliers to source energy-efficient products and
+What techniques does this company employ to increase the efficiency of data transmission?
+
+Taloga Cable employs various tools and techniques to manage its network and deliver its service. These tools and techniques are dynamic and can and do change frequently. Network management activities may include identifying spam and preventing its delivery to customer email accounts, and detecting malicious Internet traffic and preventing the distribution of, or inadvertent access to, malware, phishing, viruses, or other harmful code or content.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, Taloga Cable does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Taloga Cable does not block or otherwise prevent end user access to lawful content, applications, services, or non-harmful devices.
+How does this company achieve routing security?
+
+Taloga Cable strives to provide consumers with accessible, easy-to-understand information about the services we provide, so they can make informed decisions about which services best meet their needs. Consistent with that goal, we have established this document so that our customers can access and review the relevant policies, agreements, and other information about our Taloga Cable Internet broadband Internet access services. Additionally, the Federal Communications Commission ("FCC") requires that Taloga Cable and other providers of broadband Internet access services
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+Taloga Cable does not employ source address validation.

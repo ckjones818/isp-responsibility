@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+This company does not share data with any other companies.
+What is this company’s policy on data breaches?
+
+This company does not have a policy on data breaches.
+What is this company's policy on collecting user data?
+
+This company does not collect user data.
+How does this company handle security issues?
+
+This company has a strong focus on security and takes a proactive approach to ensuring that its customers' data is protected. It has a team of security experts who are constantly monitoring the network for any potential threats and takes immediate action to mitigate any risks. Additionally, this company has a robust customer support system in place to help customers with any security issues they may have.
+Does this company practice net neutrality?
+
+No
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes. All sites, content, and applications are accessible at the same speed.
+What is this company’s policy on net neutrality?
+
+This company does not have a policy on net neutrality.
+Does this company block some traffic in order to create a faster routing experience?
+
+No.
+Does this company implement energy-aware technologies?
+
+No
+How does this company reduce their energy consumption?
+
+This company reduces their energy consumption by using energy-efficient equipment and by conserving energy in their operations.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs a number of techniques to increase the efficiency of data transmission, including traffic shaping, prioritization, and other resource reservation.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No.
+Does this company support open internet?
+
+No
+How does this company achieve routing security?
+
+This company achieves routing security through the use of various techniques such as traffic shaping, prioritization, or other resource reservation.
+Does this company validate route announcements?
+
+No
+Does this company employ source address validation?
+
+No

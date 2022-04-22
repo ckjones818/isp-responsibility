@@ -1,0 +1,46 @@
+What is this company’s policy on data sharing?
+Signal does not share any data with any other companies.
+What is this company’s policy on data breaches?
+
+Signal, Inc. has a comprehensive policy in place to address data breaches. This policy includes steps to be taken to prevent data breaches from occurring, as well as procedures to follow in the event that a data breach does occur. The policy is available on the company website.
+What is this company's policy on collecting user data?
+Signal does not collect user data.
+How does this company handle security issues?
+Signal, Inc. employs certain practices to protect the security of the network from unwanted and harmful activities. These include practices designed to protect our servers and network devices against Denial of Service attacks and to prevent viruses, worms, spyware, spam, and identity theft. In order to ensure the effectiveness of our security practices, Signal does not publicly disclose specific information detailing the levels and types of activities that may trigger or deployment of security protection measures. When security measures are employed, they may affect performance characteristics
+Does this company practice net neutrality?
+
+Signal, Inc. does not discriminate against or prevent users of its residential or business Internet services from sending and receiving any lawful content of their choice; running lawful applications and using lawful services of their choice; or connecting their choice of legal devices, provided that such applications and services do not harm the network or the provision of residential or business Internet services, facilitate theft of service, or harm other users of services. Similarly, Signal does not impair or degrade particular content, applications, services or non-
+Does this company provide access to all sites, content, and applications at the same speed?
+Yes. Signal does not discriminate against or prevent users of its residential or business Internet services from sending and receiving any lawful content of their choice; running lawful applications and using lawful services of their choice; or connecting their choice of legal devices, provided that such applications and services do not harm the network or the provision of residential or business Internet services, facilitate theft of service, or harm other users of services. Similarly, Signal does not impair or degrade particular content, applications, services or non-harmful devices
+What is this company’s policy on net neutrality?
+
+Signal, Inc. does not discriminate against or prevent users of its residential or business Internet services from sending and receiving any lawful content of their choice; running lawful applications and using lawful services of their choice; or connecting their choice of legal devices, provided that such applications and services do not harm the network or the provision of residential or business Internet services, facilitate theft of service, or harm other users of services. Similarly, Signal does not impair or degrade particular content, applications, services or non-
+Does this company block some traffic in order to create a faster routing experience?
+
+Signal does not block any traffic in order to create a faster routing experience.
+Does this company implement energy-aware technologies?
+
+Signal does not specifically implement energy-aware technologies, but does work to be as efficient as possible with the resources it uses.
+How does this company reduce their energy consumption?
+
+Signal, Inc. employs a variety of energy conservation practices to help reduce their energy consumption. Some of these practices include:
+
+-Using energy-efficient lighting and appliances
+-Installing solar panels
+-Using energy-efficient HVAC systems
+-Encouraging employees to carpool or use public transportation
+What techniques does this company employ to increase the efficiency of data transmission?
+
+Signal employs a number of techniques to increase the efficiency of data transmission, including Quality of Service (QoS) policies that may throttle down heavy users. Additionally, Signal employs limits on the amount of data a user can download or upload to the Internet in a given time frame, associated with the service level each customer subscribes to.
+Does this company filter the network traffic based on its content, source, and destination?
+Signal does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Signal, Inc. does not block, throttle, or otherwise discriminate against any lawful content, application, or service.
+How does this company achieve routing security?
+Signal, Inc. employs multiple layers of security to protect its network from unauthorized access and malicious activity. This includes the use of firewalls, intrusion detection and prevention systems, and other security measures designed to protect our servers and network devices.
+Does this company validate route announcements?
+
+Signal does not validate route announcements.
+Does this company employ source address validation?
+Signal does not employ source address validation.

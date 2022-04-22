@@ -1,0 +1,62 @@
+What is this company’s policy on data sharing?
+
+TWR Communications does not share customer data with any third party.
+What is this company’s policy on data breaches?
+
+TWR Communications has a policy in place to protect customer information in the event of a data breach. This policy includes steps to take to prevent a data breach from occurring, as well as steps to take to mitigate the damage if a data breach does occur. TWR Communications will notify customers as soon as possible if a data breach does occur.
+What is this company's policy on collecting user data?
+
+TWR Communications does not collect user data.
+How does this company handle security issues?
+
+TWR Communications takes security seriously and has a number of measures in place to protect its customers' information. The company has a privacy policy that outlines how it collects, uses, and discloses customer information. TWR Communications also has a number of security measures in place to protect its network and customers' information. These measures include firewalls, intrusion detection and prevention systems, and encryption.
+Does this company practice net neutrality?
+
+TWR Communications does not block or otherwise prevent access to legal content, applications, services, or non-harmful devices. TWR Communications does not impair or degrade lawful internet traffic on the basis of content, applications, services, or non-harmful devices. TWR Communications does not directly or indirectly favor some lawful internet traffic over other lawful internet traffic in exchange for consideration of any kind, monetary or otherwise.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, TWR Communications does not discriminate against internet content, applications, services, or non-harmful devices.
+What is this company’s policy on net neutrality?
+
+TWR Communications does not discriminate against internet content, applications, services, or non-harmful devices. TWR Communications uses the following measures to further its commitment to providing optimal internet service to customer, subject to reasonable network management practices:
+
+● No Blocking. TWR Communications does not block or otherwise prevent access to legal content, applications, services, or non-harmful devices.
+
+● No Throttling. TWR Communications does not impair or degrade lawful internet traffic on
+Does this company block some traffic in order to create a faster routing experience?
+
+No, TWR Communications does not block any traffic as part of its current network management practice.
+Does this company implement energy-aware technologies?
+
+Yes, TWR Communications implements energy-aware technologies in order to reduce its environmental impact and conserve resources.
+How does this company reduce their energy consumption?
+
+TWR Communications reduces its energy consumption in a variety of ways, including:
+
+● Using energy-efficient equipment and appliances
+
+● Educating employees and customers about energy conservation
+
+● Implementing energy-saving policies and procedures
+
+● Conducting energy audits to identify opportunities for further savings
+
+● Investing in renewable energy sources, such as solar and wind power
+What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs various tools and techniques to manage its network, deliver its service, and ensure compliance with the Acceptable Use Policy. In cases where these tools and policies identify certain online content as harmful and unwanted, such as spam or phishing websites, this content is usually prevented from reaching customers. TWR Communications limits the number of login, SMTP, DNS, and DHCP transactions per second (at that customers can send to TWR Communications’ servers in order to protect them against Denial
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, TWR Communications does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Yes, TWR Communications supports the open internet and does not discriminate against internet content, applications, services, or non-harmful devices.
+How does this company achieve routing security?
+
+TWR Communications achieves routing security through the use of industry standard tools and generally accepted best practices and policies. In cases where these tools and policies identify certain online content as harmful and unwanted, such as spam or phishing websites, this content is usually prevented from reaching customers. TWR Communications limits the number of login, SMTP, DNS, and DHCP transactions per second (at that customers can send to TWR Communications’ servers in order to protect them against Denial of Service (DoS)
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+No, this company does not employ source address validation.

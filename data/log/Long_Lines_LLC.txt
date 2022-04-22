@@ -1,0 +1,50 @@
+What is this company’s policy on data sharing?
+
+Long Lines does not share personal information with third parties, except as required or permitted by law.
+What is this company’s policy on data breaches?
+
+Long Lines’ policy on data breaches is that it will notify customers as soon as possible if their personal information has been compromised. Long Lines will also cooperate with law enforcement authorities in the investigation of any criminal or civil matter.
+What is this company's policy on collecting user data?
+
+The company's policy on collecting user data is that it does not collect or share personal information with third parties.
+How does this company handle security issues?
+
+The company employs certain practices to protect the security of its customers and its network from unwanted and harmful activities. These include practices designed to protect its servers against Denial of Service attacks and to prevent viruses, worms, spyware, spam and identity theft. In order to ensure the effectiveness of its security practices, the company does not publicly disclose specific information detailing the levels and types of activities that may trigger its deployment of security protection measures. When security measures are employed, they may affect performance characteristics of service
+Does this company practice net neutrality?
+
+No, the company does not practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, Long Lines provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+Long Lines’s policy on net neutrality is that it does not discriminate against or prevent users of its broadband Internet access service from sending and receiving the lawful content of their choice; running lawful applications and using lawful services of their choice; or connecting their choice of legal devices, provided that such applications and services do not harm the network or the provision of broadband Internet access service, facilitate theft of service, or harm other users of the service. Similarly, Long Lines does not impair or degrade particular content
+Does this company block some traffic in order to create a faster routing experience?
+
+No, this company does not block any traffic in order to create a faster routing experience.
+Does this company implement energy-aware technologies?
+
+I could not find any information on whether or not Long Lines implements energy-aware technologies.
+How does this company reduce their energy consumption?
+
+Long Lines employs a variety of practices to reduce their energy consumption, including energy-efficient equipment and practices, renewable energy sources, and energy conservation measures.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs a number of techniques to increase the efficiency of data transmission, including the use of network management tools and practices to conserve bandwidth, and the use of security measures to protect the network from harmful or illegal activity.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, Long Lines does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Yes, Long Lines supports open internet and provides the following information regarding its mass market retail broadband internet access services:
+
+- Blocking: Long Lines provides protection to its subscribers from abusive use of resources through a generalized identification and mitigation of activity recognized as abusive. Long Lines uses a service at its interface to the Internet that identifies excessive bandwidth, abnormally high use of particular services over excessive periods of time. Notifications are sent to members of the network management team when a warning level is reached and
+How does this company achieve routing security?
+
+Long Lines employs certain practices to protect the security of its customers and its network from unwanted and harmful activities. These include practices designed to protect its servers against Denial of Service attacks and to prevent viruses, worms, spyware, spam and identity theft. In order to ensure the effectiveness of its security practices, Long Lines does not publicly disclose specific information detailing the levels and types of activities that may trigger its deployment of security protection measures. When security measures are employed, they may affect performance characteristics of service
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+I could not find any information on whether or not Long Lines employs source address validation.

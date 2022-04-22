@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+Habersham EMC does not sell, license or share information that individually identifies our customers with others outside of Habersham EMC who are not doing work on Habersham EMC’s behalf without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf.
+What is this company’s policy on data breaches?
+
+Habersham EMC does not sell, license or share information that individually identifies our customers with others outside of Habersham EMC who are not doing work on Habersham EMC’s behalf without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf.
+What is this company's policy on collecting user data?
+
+Habersham EMC does not sell, license or share information that individually identifies our customers with others outside of Habersham EMC who are not doing work on Habersham EMC’s behalf without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf.
+How does this company handle security issues?
+
+Habersham EMC does not sell, license or share information that individually identifies our customers with others outside of Habersham EMC who are not doing work on Habersham EMC’s behalf without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf.
+Does this company practice net neutrality?
+
+From the information provided, it does not appear that this company practices net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, NGN provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+Habersham EMC does not block or throttle lawful content, applications, services, or non-harmful devices.
+Does this company block some traffic in order to create a faster routing experience?
+
+No
+Does this company implement energy-aware technologies?
+
+Not Applicable
+How does this company reduce their energy consumption?
+
+Habersham EMC does not specifically mention any energy reduction practices on their website. However, as an electric company, they are likely to have some sort of energy reduction plan in place.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs Active Ethernet and GPON fiber networks to deliver up to 1Gbps of service.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No
+Does this company support open internet?
+
+Yes, Habersham EMC supports the open internet.
+How does this company achieve routing security?
+
+Habersham EMC does not disclose how it achieves routing security.
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+No.

@@ -1,0 +1,56 @@
+What is this company’s policy on data sharing?
+
+Agile does not store network traffic data nor provide such data to third parties. Network traffic data is used primarily for network management purposes. Customer data is maintained by Agile for the sole purpose of providing customer service and managing the Customer account. Customer data may be provided to third parties that may assist us with managing our daily operations, such as processing payments and providing general customer services.
+What is this company’s policy on data breaches?
+
+Agile Networks Builders, LLC (“Agile Networks”, “Agile”, “We”, “Us”, “Our”) is committed to protecting the security of our customers’ information. We have implemented physical, technical, and administrative safeguards designed to protect information in our custody and control. However, no security program can be 100% effective and we cannot guarantee the security of customer information. In the event of a
+What is this company's policy on collecting user data?
+
+Agile does not store network traffic data nor provide such data to third parties. Network traffic data is used primarily for network management purposes. Customer data is maintained by Agile for the sole purpose of providing customer service and managing the Customer account. Customer data may be provided to third parties that may assist us with managing our daily operations, such as processing payments and providing general customer services.
+How does this company handle security issues?
+
+Agile Networks Builders, LLC ("Agile Networks", "Agile", "We", "Us", "Our") provides this Transparency Statement pursuant to the Federal Communications Commission's ("FCC") Restoring Internet Freedom Order. Agile currently operates a hybrid fiber-wireless network in Ohio providing broadband service to both Service Level Agreement ("SLA") end-users as well as Residential end-users which are typically offered best effort packages. Agile's typical terms and conditions are available here
+Does this company practice net neutrality?
+
+Agile Networks Builders, LLC (“Agile Networks”, “Agile”, “We”, “Us”, “Our”) provides this Transparency Statement pursuant to the Federal Communications Commission’s (“FCC”) Restoring Internet Freedom Order. Agile currently operates a hybrid fiber-wireless network in Ohio providing broadband service to both Service Level Agreement (“SLA”) end-
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Agile does not block or discriminate against lawful content, so all sites, content, and applications should be accessible at the same speed.
+What is this company’s policy on net neutrality?
+
+Agile Networks Builders, LLC (“Agile Networks”, “Agile”, “We”, “Us”, “Our”) provides this Transparency Statement pursuant to the Federal Communications Commission’s (“FCC”) Restoring Internet Freedom Order. Agile currently operates a hybrid fiber-wireless network in Ohio providing broadband service to both Service Level Agreement (“SLA”) end-
+Does this company block some traffic in order to create a faster routing experience?
+
+Agile does not block or discriminate against lawful content.
+Does this company implement energy-aware technologies?
+
+Agile Networks does not specifically mention energy-aware technologies on its website, but the company does mention that it is committed to being environmentally friendly.
+How does this company reduce their energy consumption?
+
+Agile Networks Builders, LLC (“Agile Networks”, “Agile”, “We”, “Us”, “Our”) is committed to reducing its energy consumption. The company has implemented a number of measures to reduce energy consumption, including:
+
+• Installing energy-efficient equipment and appliances
+
+• Implementing energy-saving policies and procedures
+
+• Educating employees and customers about energy conservation
+
+
+What techniques does this company employ to increase the efficiency of data transmission?
+
+Agile Networks employs a hybrid fiber-wireless network in order to increase the efficiency of data transmission. This type of network is designed to provide broadband service to both Service Level Agreement (“SLA”) end-users as well as Residential end-users which are typically offered best effort packages.
+Does this company filter the network traffic based on its content, source, and destination?
+
+Agile does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Agile Networks Builders, LLC (“Agile Networks”, “Agile”, “We”, “Us”, “Our”) provides this Transparency Statement pursuant to the Federal Communications Commission’s (“FCC”) Restoring Internet Freedom Order. Agile currently operates a hybrid fiber-wireless network in Ohio providing broadband service to both Service Level Agreement (“SLA”) end-
+How does this company achieve routing security?
+
+Agile Networks Builders, LLC (“Agile Networks”, “Agile”, “We”, “Us”, “Our”) provides this Transparency Statement pursuant to the Federal Communications Commission’s (“FCC”) Restoring Internet Freedom Order. Agile currently operates a hybrid fiber-wireless network in Ohio providing broadband service to both Service Level Agreement (“SLA”) end-
+Does this company validate route announcements?
+
+Agile Networks does not validate route announcements.
+Does this company employ source address validation?
+
+Agile Networks does not currently employ source address validation.

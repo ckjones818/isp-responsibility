@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+The City of Chanute does not share any data with any other companies.
+What is this company’s policy on data breaches?
+
+The City of Chanute’s policy on data breaches is to notify all affected customers as soon as possible and to take all reasonable steps to mitigate the breach and prevent future breaches.
+What is this company's policy on collecting user data?
+
+The City of Chanute does not collect user data.
+How does this company handle security issues?
+
+The company has a dedicated team of engineers who are responsible for managing the network and ensuring that all customers receive the most secure online experience. When malicious behavior is identified, the company employs various techniques to help provide a positive customer experience. These security management techniques include ensuring that customer systems are not propagating viruses, distributing spam email, or engaging in other malicious behavior. For more information related to network security, please review the company's "Acceptable Internet Use Policy" found under Internet Policies on the company
+Does this company practice net neutrality?
+
+The City of Chanute does not block access to lawful content, throttle any internet traffic, or engage in paid prioritization.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, City of Chanute provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+The City of Chanute is committed to providing its customers with full access to all of the lawful content, services, and applications that the internet has to offer. City of Chanute does not otherwise block, prioritize, or degrade any internet sourced or destined traffic based on application, source, destination, protocol, or port unless it does so in connection with a security practice described in the Terms of Service and Acceptable Use Policy.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, City of Chanute does not block access to lawful content.
+Does this company implement energy-aware technologies?
+
+I'm not sure what you mean.
+How does this company reduce their energy consumption?
+
+There is no specific information on how City of Chanute reduces their energy consumption. However, as a provider of high-speed internet, they likely use energy-efficient equipment and practices to minimize their impact on the environment.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs various techniques to ensure a positive customer experience and fair distribution of network resources.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, City of Chanute does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+The City of Chanute does not block access to lawful content.
+How does this company achieve routing security?
+
+City of Chanute employs various techniques to ensure a secure routing experience for all customers. When malicious behavior is identified, City of Chanute engineers employ various techniques to help provide a positive customer experience. Our security management techniques include ensuring that customer systems are not propagating viruses, distributing spam email, or engaging in other malicious behavior. For more information related to network security, please review our “Acceptable Internet Use Policy” found under Internet Policies on our website at www.chanute.org
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+I could not find any information on whether or not City of Chanute employs source address validation.

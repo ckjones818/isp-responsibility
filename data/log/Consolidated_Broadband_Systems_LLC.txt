@@ -1,0 +1,54 @@
+What is this company’s policy on data sharing?
+
+Consolidated Broadband Systems LLC does not store or use any information from customers.
+What is this company’s policy on data breaches?
+
+Consolidated Broadband Systems LLC (“NCN”) is committed to protecting the security and confidentiality of our customers’ information. We have established physical, electronic, and procedural safeguards to protect customer information. In the event that NCN experiences a data breach, we will notify affected customers as required by law.
+What is this company's policy on collecting user data?
+
+Consolidated Broadband Systems LLC does not store or use any information from customers.
+How does this company handle security issues?
+
+Consolidated Broadband Systems LLC has a comprehensive security policy in place to protect its customers' information. The company employs industry standard firewall practices and requires private IP addresses for network access. In addition, the company has a dedicated team of security professionals who are available to answer any questions or concerns that customers may have.
+Does this company practice net neutrality?
+
+From the information provided, it appears that this company does practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, this company provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+Consolidated Broadband Systems LLC (“NCN”) does not block any specific sites. Our firewalls may automatically block sites if harmful activities are detected. Customers may contact our technical support if they experience blocking to a site that they feel is in error.
+
+NCN does not throttle users.
+
+NCN does not prioritize any traffic type.
+
+NCN does not load balance on the basis of customer usage limits. Load balancing is achieved at the network
+Does this company block some traffic in order to create a faster routing experience?
+
+No, this company does not block any traffic in order to create a faster routing experience.
+Does this company implement energy-aware technologies?
+
+Yes, this company implements energy-aware technologies.
+How does this company reduce their energy consumption?
+
+There is no specific information available on how this company reduces their energy consumption. However, they do state that they are committed to being environmentally friendly and use sustainable practices.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs traffic shaping, prioritization, and resource reservation to increase the efficiency of data transmission.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, this company does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Yes, this company supports open internet.
+How does this company achieve routing security?
+
+Consolidated Broadband Systems LLC (CBS) employs industry standard firewall practices to ensure end-user security and security of the network. Private IP addresses are required for network access.
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+Yes, this company employs source address validation.

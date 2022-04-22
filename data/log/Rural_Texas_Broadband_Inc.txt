@@ -1,0 +1,54 @@
+What is this company’s policy on data sharing?
+
+Rural Texas Broadband does not store or use any information from customers.
+What is this company’s policy on data breaches?
+
+Rural Texas Broadband’s policy on data breaches is that they will notify the customer as soon as possible if a data breach occurs. They will also take steps to protect the customer’s information and prevent future breaches.
+What is this company's policy on collecting user data?
+
+Rural Texas Broadband does not store or use any information from customers.
+How does this company handle security issues?
+
+Rural Texas Broadband employs industry standard firewall practices. Private IP addresses are required for network access.
+Does this company practice net neutrality?
+
+From the information provided, it appears that this company does practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, this company provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+Rural Texas Broadband, Inc. does not block or throttle any specific sites or content.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, this company does not block any traffic.
+Does this company implement energy-aware technologies?
+
+Rural Texas Broadband does not specifically mention energy-aware technologies on their website, but they do mention that their network is designed to be "energy efficient".
+How does this company reduce their energy consumption?
+
+Rural Texas Broadband, Inc. (RTXBB) is committed to reducing its energy consumption. Some of the ways RTXBB reduces energy consumption include:
+
+-Using energy-efficient equipment
+-Educating employees on energy conservation
+-Monitoring energy use and implementing conservation measures
+-Purchasing renewable energy credits (RECs)
+-Participating in demand response programs
+What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs traffic shaping, prioritization, and resource reservation to increase the efficiency of data transmission.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, this company does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+From the information provided, it appears that this company does support the open internet.
+How does this company achieve routing security?
+
+Routing security is achieved through the use of industry standard firewall practices. Private IP addresses are required for network access.
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+Yes, this company employs source address validation.

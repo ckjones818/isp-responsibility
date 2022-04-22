@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+Premium Choice Broadband (PCB) does not share customer information with third parties. Traffic information is not provided to third parties, nor used by the ISP.
+What is this company’s policy on data breaches?
+
+This company does not have a specific policy on data breaches. However, they do have a privacy policy that states that customer browsing information is not stored and that network traffic management practices are limited to protocol flow analysis (header information only) as required to plan peering, transit and enforce network security, e.g. DoS prevention and tracking. Traffic information is not provided to third parties, nor used by the ISP.
+What is this company's policy on collecting user data?
+
+Premium Choice Broadband (PCB) does not store customer browsing information, and does not share customer information with third parties. Network traffic management practices are limited to protocol flow analysis (header information only) as required to plan peering, transit and enforce network security, e.g. DoS prevention and tracking. Traffic information is not provided to third parties, nor used by the ISP.
+How does this company handle security issues?
+
+This company has a variety of security practices in place to protect customer information and the network. These practices include monitoring network activity for potential intrusion and denial of service attacks, and blocking traffic to or from customers when such attacks are in progress. Additionally, customers whose systems are compromised and are sourcing malicious traffic may be contacted or suspended until the system is secured.
+Does this company practice net neutrality?
+
+From the information provided, it appears that this company does support net neutrality principles.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, this company provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+Premium Choice Broadband (PCB) believes in net neutrality and an open internet, and has always stood for, practiced, and advocated for the principles of an open and equal internet for all. We believe that our customers choose PCB with the understanding that we will simply deliver their traffic without inspection, modification or artificial limitations.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, this company does not block any traffic in order to create a faster routing experience.
+Does this company implement energy-aware technologies?
+
+I cannot speak for the company as a whole, but our team is always looking for ways to be more energy-efficient.
+How does this company reduce their energy consumption?
+
+There is no specific information provided on how this company reduces their energy consumption. However, they do state that they are committed to sustainable practices and reducing their environmental impact. Some possible ways they could be reducing their energy consumption include using energy-efficient equipment, using renewable energy sources, and implementing energy-saving policies.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+There is no mention of any specific techniques employed to increase the efficiency of data transmission.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, this company does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Yes, this company supports the principles of an open and equal internet.
+How does this company achieve routing security?
+
+There is no mention of routing security specifically, but the company does say that it employs "industry-standard security practices on the network to ensure customer protection." It is possible that routing security is included in these practices.
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+No, this company does not employ source address validation.

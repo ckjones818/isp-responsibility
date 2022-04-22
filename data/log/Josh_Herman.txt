@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+Packet Layer does not share any data with any affiliates.
+What is this company’s policy on data breaches?
+
+Packet Layer does not have a specific policy on data breaches, but it does have a privacy policy that covers how the company collects, uses, and discloses customer information. The privacy policy does not specifically mention data breaches, but it does state that Packet Layer will take reasonable steps to protect customer information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. If customers have any questions or concerns about their privacy, they can contact Packet Layer customer support.
+What is this company's policy on collecting user data?
+
+Packet Layer's policy on collecting user data is that they do not collect any personally identifiable information about their users.
+How does this company handle security issues?
+
+Packet Layer utilizes network firewalls to protect their network from malicious attacks. Port scanning and DDOS attacks are examples of the type of activity that they mitigate.
+Does this company practice net neutrality?
+
+From the information provided, it appears that this company does practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Packet Layer does not throttle traffic to any content on our network.
+What is this company’s policy on net neutrality?
+
+Packet Layer does not block any lawful content on our network. Our customers are free to use our service to browse, stream, send email, etc. how they see fit, providing that in doing so does not violate any federal, state or local government laws.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, this company does not block any traffic in order to create a faster routing experience.
+Does this company implement energy-aware technologies?
+
+Packet Layer does not specifically mention energy-aware technologies in its network management disclosure. However, the company does mention that it uses network firewalls to protect its network from malicious attacks. It is possible that these firewalls are energy-aware, but this cannot be confirmed without further information from the company.
+How does this company reduce their energy consumption?
+
+Packet Layer does not specifically mention any energy reduction methods, but as a company that provides wireless internet service, they likely have measures in place to reduce energy consumption related to their network infrastructure.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+Packet Layer does not use any method to throttle traffic to any content on our network.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, Packet Layer does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+From the information provided, it appears that this company does support open internet. They do not block any lawful content, throttle traffic, or use any method of prioritization on their network.
+How does this company achieve routing security?
+
+Packet Layer utilizes network firewalls to protect their network from malicious attacks. Port scanning and DDOS attacks are examples of the type of activity that they mitigate.
+Does this company validate route announcements?
+
+Packet Layer does not validate route announcements.
+Does this company employ source address validation?
+
+Packet Layer does not employ source address validation.

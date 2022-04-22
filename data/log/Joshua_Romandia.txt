@@ -1,0 +1,66 @@
+What is this company’s policy on data sharing?
+
+Montana Internet Corporation does not share customer information with any third parties except for those third parties involved in provisioning or supporting service. Specifically, at times, Montana Internet Corporation utilizes a third party to provide support as overflow or additional hours coverage. Montana Internet Corporation utilizes a wholesale partner to provide voice services. And Montana Internet Corporation utilizes a third party to perform credit card processing and payment collections.
+What is this company’s policy on data breaches?
+
+Montana Internet Corporation's policy on data breaches is to notify all affected customers as soon as possible and to take all reasonable steps to mitigate the effects of the breach and prevent future breaches.
+What is this company's policy on collecting user data?
+
+Montana Internet Corporation does not share customer information with any third parties except for those third parties involved in provisioning or supporting service. Specifically, at times, Montana Internet Corporation utilizes a third party to provide support as overflow or additional hours coverage. Montana Internet Corporation utilizes a wholesale partner to provide voice services. And Montana Internet Corporation utilizes a third party to perform credit card processing and payment collections.
+How does this company handle security issues?
+
+Montana Internet Corporation (“Montana Internet”) actively seeks to address the threats posed by harmful and unwanted traffic and thus to protect the security, integrity, and availability of its network and its customers. Malicious software (often referred to as “malware”) such as viruses, worms, spyware, and distributed denial of service (“DDoS”) attacks not only can adversely affect the network, but also can result in harm to customers’
+Does this company practice net neutrality?
+
+Montana Internet Corporation does not block certain applications or classes of applications sourced from, or destined to, the public Internet. Rather, Montana Internet Corporation strives to provide the best customer experience for all types of applications.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, Montana Internet Corporation provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+Montana Internet Corporation (“Montana Internet”) is committed to an open Internet and does not block certain applications or classes of applications sourced from, or destined to, the public Internet.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, Montana Internet Corporation does not block traffic in order to create a faster routing experience.
+Does this company implement energy-aware technologies?
+
+Montana Internet Corporation does not specifically mention energy-aware technologies on its website. However, the company does mention that it is committed to being a responsible steward of the environment, and it is possible that the company has implemented energy-aware technologies in its operations. For more information, customers can contact Montana Internet Corporation directly.
+How does this company reduce their energy consumption?
+
+Montana Internet Corporation (Montana Internet) is committed to reducing its energy consumption. The company has implemented a number of measures to reduce energy consumption, including:
+
+• Installing energy-efficient lighting throughout its facilities;
+
+• Replacing older, less efficient equipment with newer, more energy-efficient models;
+
+• Educating employees on energy conservation; and
+
+• Conducting regular energy audits.
+
+Montana Internet is also working with its wholesale Internet access carriers to
+What techniques does this company employ to increase the efficiency of data transmission?
+
+Montana Internet employs a variety of techniques to increase the efficiency of data transmission, including:
+
+• Using multiple upstream connections
+
+• Monitoring and pro-active upgrades of upstream connections
+
+• Buffering
+
+• "First in first out" tools
+Does this company filter the network traffic based on its content, source, and destination?
+
+No
+Does this company support open internet?
+
+Yes, Montana Internet Corporation supports the open internet.
+How does this company achieve routing security?
+
+Montana Internet Corporation (“Montana Internet”) strives to provide the best customer experience for all types of applications. Montana Internet and its carriers operate service operations centers that monitor the network for abuse and fraud. When Montana Internet determines either by automated or manual means, the presence of suspicious, malicious, criminal, or abusive traffic, or other activity that violates Montana Internet’s Acceptable Use Policy, Montana Internet may (and likely will) temporarily block access from or to its network
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+No

@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+The company does not share data with outside parties. Network traffic may be captured, stored, or shared with equipment vendors for the purpose of diagnosing and repairing issues with network equipment or performance.
+What is this company’s policy on data breaches?
+
+Kinsman Mutual Telephone Company does not have a specific policy on data breaches. However, the company does take steps to protect the privacy of its end users and network infrastructure. Commercial terms and privacy policies are available by contacting the company at 815-392-4210.
+What is this company's policy on collecting user data?
+
+The company's policy on collecting user data is that it does not routinely store or share network traffic with outside parties. Network traffic may be captured and stored as needed by COMPANY personnel to aid in diagnosing and correcting network issues.
+How does this company handle security issues?
+
+The company employs industry standard methods to protect the privacy of its end users and network infrastructure. Network traffic may be captured, stored, or shared with equipment vendors for the purpose of diagnosing and repairing issues with network equipment or performance.
+Does this company practice net neutrality?
+
+From the information provided, it appears that Kinsman Mutual Telephone Company does practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, Kinsman Mutual Telephone Company provides access to all sites, content, and applications at the same speed.
+What is this company’s policy on net neutrality?
+
+Kinsman Mutual Telephone Company’s policy on net neutrality is that it does not block or rate control specific protocols or ports. Additionally, the company does not have automatic systems that make changes to network routing or individual customer bandwidth and/or latency based on network congestion. All traffic is carried equally on a ‘best efforts’ basis.
+Does this company block some traffic in order to create a faster routing experience?
+
+The company does not block specific protocols or ports, but may black-hole or block specific regions of the network as needed to maintain the best connectivity for the network as a whole.
+Does this company implement energy-aware technologies?
+
+I cannot find any information on whether or not Kinsman Mutual Telephone Company implements energy-aware technologies.
+How does this company reduce their energy consumption?
+
+Kinsman Mutual Telephone Company does not specifically mention any energy reduction practices on their website. However, as a general rule, telecommunication companies work to reduce their energy consumption in a variety of ways. Some common practices include using energy-efficient equipment, using renewable energy sources, and implementing energy conservation measures.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+The company employs industry standard methods to protect the privacy of its end users and network infrastructure. Commercial Terms ISPs must disclose the commercial terms of its broadband Internet access service. Monthly pricing and other fees are available by contacting the company at 815-392-4210. Privacy Policies Network management policies do not normally entail inspection of network traffic. Network traffic may be inspected as needed by COMPANY personnel to aid in diagnosing and correcting network issues. Network Traffic is not routinely stored or provided to outside parties
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, Kinsman Mutual Telephone Company does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Yes, Kinsman Mutual Telephone Company supports the open internet.
+How does this company achieve routing security?
+
+The company employs industry standard methods to protect the privacy of its end users and network infrastructure. Commercial Terms ISPs must disclose the commercial terms of its broadband Internet access service. Monthly pricing and other fees are available by contacting the company at 815-392-4210. Privacy Policies Network management policies do not normally entail inspection of network traffic. Network traffic may be inspected as needed by COMPANY personnel to aid in diagnosing and correcting network issues. Network Traffic is not routinely stored or provided to outside parties
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+The company does not specifically state whether or not it employs source address validation, but it does state that it takes steps to protect the privacy of its end users and network infrastructure.

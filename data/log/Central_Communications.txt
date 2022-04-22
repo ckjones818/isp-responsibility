@@ -1,0 +1,58 @@
+What is this company’s policy on data sharing?
+
+Central Communications & Electronics, Inc. does not share data with any other companies.
+What is this company’s policy on data breaches?
+
+Central Communications & Electronics, Inc. has a policy in place to address data breaches. This policy includes steps to be taken in the event of a data breach, such as notifying affected customers and taking steps to prevent future breaches.
+What is this company's policy on collecting user data?
+
+Central Communications & Electronics, Inc. does not collect, store or use traffic information to profile our customers in order to sell additional services to them, or for similar non-network management purposes.
+How does this company handle security issues?
+
+The company has a security team that investigates potential security threats and takes appropriate action to deal with them.
+Does this company practice net neutrality?
+
+From the information provided, it appears that this company does practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes. Central Communications & Electronics, Inc. does not block or rate-control specific protocols or protocol ports. Central Communications & Electronics, Inc does not modify protocol fields in ways that are not prescribed by applicable protocol standards.
+What is this company’s policy on net neutrality?
+
+Central Communications & Electronics, Inc. does not block any lawful content, applications, devices, and/or non-harmful devices. The only potential exceptions where blocking may occur would be unlawful or harmful circumstances. Central Communications & Electronics, Inc. does not knowingly impair, degrade or delay the traffic on our network. Congestion may from time to time impair, degrade or delay some traffic. Central Communications & Electronics, Inc does not charge edge service providers of content, applications, service and/
+Does this company block some traffic in order to create a faster routing experience?
+
+No, Central Communications & Electronics, Inc. does not block any lawful content, applications, devices, and/or non-harmful devices. The only potential exceptions where blocking may occur would be unlawful or harmful circumstances.
+Does this company implement energy-aware technologies?
+
+No, this company does not implement energy-aware technologies.
+How does this company reduce their energy consumption?
+
+The company has a variety of energy reduction practices in place, including:
+
+- Use of energy-efficient equipment
+- Use of solar power
+- Use of wind power
+- Use of green power
+- Use of low-emitting materials
+- Use of recycled materials
+- Use of certified wood
+- Use of low-VOC paint
+- Use of low-flow plumbing fixtures
+What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs a number of techniques to increase the efficiency of data transmission, including congestion management, application-specific behavior, device attachment rules, security practices, traffic blocking, and performance characteristics.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, Central Communications & Electronics, Inc. does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Yes, Central Communications & Electronics, Inc. supports the open internet.
+How does this company achieve routing security?
+
+This company achieves routing security by implementing inbound and outbound filtering on specific hosts. This ensures that only authorized traffic is able to access the network and that any malicious traffic is blocked.
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+No

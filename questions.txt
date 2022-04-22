@@ -1,0 +1,16 @@
+What is this company’s policy on data sharing?
+What is this company’s policy on data breaches?
+What is this company's policy on collecting user data?
+How does this company handle security issues?
+Does this company practice net neutrality?
+Does this company provide access to all sites, content, and applications at the same speed?
+What is this company’s policy on net neutrality?
+Does this company block some traffic in order to create a faster routing experience?
+Does this company implement energy-aware technologies?
+How does this company reduce their energy consumption?
+What techniques does this company employ to increase the efficiency of data transmission?
+Does this company filter the network traffic based on its content, source, and destination?
+Does this company support open internet?
+How does this company achieve routing security?
+Does this company validate route announcements?
+Does this company employ source address validation?

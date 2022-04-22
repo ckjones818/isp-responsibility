@@ -1,0 +1,33 @@
+What is this company’s policy on data sharing?
+
+Walker Wifi does not share your information with any third party not directly associated with provision of subscribed services. A third-party credit card processing service is used for billing and collection of service related fees.What is this company’s policy on data breaches?
+
+This company does not share your information with any third party not directly associated with provision of subscribed services. A third-party credit card processing service is used for billing and collection of service related fees.What is this company's policy on collecting user data?
+
+Walker Wifi does not share your information with any third party not directly associated with provision of subscribed services. A third-party credit card processing service is used for billing and collection of service related fees.How does this company handle security issues?
+
+Walker Wifi uses industry standard AES encryption on all radio transmission equipment. We also employ firewall rules and NAT at our routers, as well as NAT at the customer premise equipment. We encourage all of our customers to protect themselves from malicious and unwanted content by a number of means, including a host of commercially available anti-virus, firewall, anti-malware, and other similar products. We also encourage strong password management to prevent unauthorized access to customers’ accounts and equipment. The customer is ultimately responsible for their security while utilizing our network.Does this company practice net neutrality?
+
+Yes, Walker Wifi does practice net neutrality.Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, Walker Wifi provides access to all sites, content, and applications at the same speed.What is this company’s policy on net neutrality?
+
+Walker Wifi does not block or otherwise prevent end user access to lawful content, applications, service, or non-harmful devices.  Nothing in this statement prevents us from taking temporary actions to block traffic and/or particular ports in an effort to protect the usability of our network for all users if we believe in good faith that said traffic is of malicious or harmful origin, or in direct violation of our Acceptable Use Policy or Terms of Service.Does this company block some traffic in order to create a faster routing experience?
+
+No, Walker Wifi does not block any traffic.Does this company implement energy-aware technologies?
+
+Yes, Walker Wifi implements energy-aware technologies.How does this company reduce their energy consumption?
+
+This company reduces their energy consumption by using energy-efficient equipment and by monitoring their energy usage.What techniques does this company employ to increase the efficiency of data transmission?
+
+This company employs industry standard AES encryption on all radio transmission equipment. They also employ firewall rules and NAT at their routers, as well as NAT at the customer premise equipment.Does this company filter the network traffic based on its content, source, and destination?
+
+No, Walker Wifi does not filter the network traffic based on its content, source, and destination.Does this company support open internet?
+
+Yes, Walker Wifi supports the open internet.How does this company achieve routing security?
+
+This company employs industry standard AES encryption on all radio transmission equipment. They also employ firewall rules and NAT at their routers, as well as NAT at the customer premise equipment. They encourage all of their customers to protect themselves from malicious and unwanted content by a number of means, including a host of commercially available anti-virus, firewall, anti-malware, and other similar products. They also encourage strong password management to prevent unauthorized access to customers’ accounts and equipment.Does this company validate route announcements?
+
+Yes. Walker Wifi validates route announcements.Does this company employ source address validation?
+
+Yes.

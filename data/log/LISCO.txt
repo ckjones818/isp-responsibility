@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+LISCO does not share customer data with any other company or organization.
+What is this company’s policy on data breaches?
+
+LISCO does not inspect, store, or sell network traffic or use it for any other purpose. In the event of a data breach, LISCO would work with law enforcement and the affected customers to mitigate the damage and prevent future breaches.
+What is this company's policy on collecting user data?
+
+LISCO does not inspect, store, or sell network traffic or use it for any other purpose.
+How does this company handle security issues?
+
+LISCO has a customer service department available by telephone with an expedite process to bring any problems to upper management.
+Does this company practice net neutrality?
+
+From the information provided, it appears that this company does practice net neutrality.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes, LISCO does not block or otherwise prevent end user access to lawful content, applications, service, or non-harmful devices in any way.
+What is this company’s policy on net neutrality?
+
+LISCO does not block or otherwise prevent end user access to lawful content, applications, service, or non-harmful devices in any way.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, LISCO does not block or rate-control specific protocols or protocol ports in any way.
+Does this company implement energy-aware technologies?
+
+LISCO does not specifically mention energy-aware technologies, but as a provider of broadband Internet service, it is likely that the company uses some energy-efficient technologies in its operations.
+How does this company reduce their energy consumption?
+
+LISCO does not specifically mention any energy-saving measures, but as a provider of broadband Internet service, they likely have some energy-efficient practices in place. For example, they may use energy-efficient routers and servers, and they may have implemented power-saving features such as automatic shutdown of equipment when not in use.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+LISCO employs symmetric Ethernet over fiber and copper-based DSL to increase the efficiency of data transmission.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, LISCO does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Based on the information provided, it appears that this company does support the open internet.
+How does this company achieve routing security?
+
+LISCO does not route traffic through its network; it only provides access to the Internet. LISCO does not inspect, store, or sell network traffic or use it for any other purpose.
+Does this company validate route announcements?
+
+LISCO does not validate route announcements.
+Does this company employ source address validation?
+
+LISCO does not employ source address validation.

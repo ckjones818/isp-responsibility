@@ -1,0 +1,48 @@
+What is this company’s policy on data sharing?
+
+Corn Belt Telephone Company does not share data with any third party.
+What is this company’s policy on data breaches?
+
+Corn Belt Telephone Company does not have a specific policy on data breaches. However, the company does have a general policy on customer privacy that includes safeguarding customer information. If a data breach were to occur, the company would take steps to protect customer information and would notify customers as soon as possible.
+What is this company's policy on collecting user data?
+
+Corn Belt Telephone Company does not collect, store or use traffic information to profile its customers in order to sell additional services to them, or for similar non-network management purposes. Corn Belt Telephone Company retains, stores and provides to law enforcement any traffic information requested pursuant to the procedures of the Communications Assistance for Law Enforcement Act (CALEA), the Foreign Intelligence Surveillance Act (FISA) or other applicable national security or criminal statutes. The Company retains and stores certain traffic information (customer IP address
+How does this company handle security issues?
+
+Corn Belt Telephone Company does not normally monitor the traffic of its customers. Customers are free to obtain anit- spam and/or anit-virus software or services from any source they desire, as long as such software or services do not disrupt or degrade the traffic of other customers of the Company or harm the network. In the event of Denial of Service (DoS), Distributed Denial of Service (DDoS) attack, spoofing or other malicious traffic, Company will implement in
+Does this company practice net neutrality?
+
+Yes, Corn Belt Telephone Company has adopted network management practices, performance characteristics, and commercial terms and conditions in compliance with the Federal Communications Commission’s Open Internet Framework requirements.
+Does this company provide access to all sites, content, and applications at the same speed?
+
+Yes. Corn Belt Telephone Company does not block any lawful content, applications, devices, and/or non-harmful devices.
+What is this company’s policy on net neutrality?
+
+Corn Belt Telephone Company does not block or rate-control specific protocols or protocol ports. The Company does not modify protocol fields in ways that are not prescribed by the applicable protocol standards.
+Does this company block some traffic in order to create a faster routing experience?
+
+No, Corn Belt Telephone Company does not block any lawful content, applications, devices, and/or non-harmful devices. The only potential exceptions where blocking may occur would be unlawful or harmful circumstances.
+Does this company implement energy-aware technologies?
+
+No
+How does this company reduce their energy consumption?
+
+There is no specific information available on how Corn Belt Telephone Company reduces their energy consumption. However, as a telecommunications company, they likely have some measures in place to reduce energy consumption, such as using energy-efficient equipment and practices.
+What techniques does this company employ to increase the efficiency of data transmission?
+
+The company employs various techniques to increase the efficiency of data transmission, including compression, caching, and prioritization.
+Does this company filter the network traffic based on its content, source, and destination?
+
+No, the company does not filter the network traffic based on its content, source, and destination.
+Does this company support open internet?
+
+Yes, Corn Belt Telephone Company supports the open internet and has adopted network management practices, performance characteristics, and commercial terms and conditions in compliance with the Federal Communications Commission’s Open Internet Framework requirements.
+How does this company achieve routing security?
+
+Corn Belt Telephone Company does not have any approval procedures that must be satisfied before a device can be connected to its network. Customers may use any lawful, compatible, type-accepted and commercially available device on the Company’s network, as long as there is no harm to the network. The Company does not monitor the devices used by its customers and undertakes no obligation to monitor or investigate the lawfulness of the devices used by its customers. If any party contacts the Company with a substantial
+Does this company validate route announcements?
+
+No, this company does not validate route announcements.
+Does this company employ source address validation?
+
+No
