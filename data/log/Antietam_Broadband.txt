@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 Antietam Broadband does not sell or share personally identifiable customer information with any third party without the customer’s consent, except as required by law.
-What is this company’s policy on data breaches?
 
 Antietam Broadband does not have a specific policy on data breaches. However, the company is committed to protecting the security and confidentiality of its customers' information. In the event of a data breach, Antietam Broadband would notify affected customers and take steps to mitigate the impact of the breach.
-What is this company's policy on collecting user data?
 
 Antietam Broadband does not collect user data.
-How does this company handle security issues?
 
 Antietam Broadband has a dedicated team of security professionals who work around the clock to ensure that our network and customers are protected. We have implemented a number of security measures to keep our network safe, including firewalls, intrusion detection and prevention systems, and encrypted data storage. We also require all employees to undergo security training and background checks.
-Does this company practice net neutrality?
 
 Yes, Antietam Broadband does practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, Antietam Broadband provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Antietam Broadband's policy on net neutrality is that they support the principles of an open Internet and do not block or throttle lawful traffic on their network.
-Does this company block some traffic in order to create a faster routing experience?
 
 No
-Does this company implement energy-aware technologies?
 
 No
-How does this company reduce their energy consumption?
 
 Antietam Broadband does not specifically mention reducing energy consumption on their website, but they do mention that they are committed to being environmentally responsible. Some ways that broadband providers can reduce energy consumption include using energy-efficient equipment, using renewable energy sources, and implementing energy-saving policies.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 Some of the techniques that this company employs to increase the efficiency of data transmission include using fiber optic cables, using multiplexing techniques, and using compression algorithms.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, this company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, Antietam Broadband supports open internet.
-How does this company achieve routing security?
 
 Antietam Broadband does not specifically mention routing security on its website, but it does say that it uses "state-of-the-art equipment and software" to provide its services. It is likely that this includes some form of routing security, although it is not clear what exactly is included.
-Does this company validate route announcements?
 
 Yes, this company validates route announcements.
-Does this company employ source address validation?
+
 
 Yes, this company employs source address validation.

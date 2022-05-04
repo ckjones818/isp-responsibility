@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 GCI Broadband does not share any customer information with any third party. Personal information may be shared when legally requested by Law Enforcement in compliance with a valid CALEA request.
-What is this company’s policy on data breaches?
 
 GCI Broadband’s policy on data breaches is that we will notify our customers as soon as possible if a data breach occurs. We will also work with law enforcement to investigate and prosecute anyone who is responsible for a data breach.
-What is this company's policy on collecting user data?
 
 GCI Broadband does not collect user data.
-How does this company handle security issues?
 
 GCI Broadband employs certain practices to ensure the security of our customers and our right to protect our network. These include practices intended to protect GCI Broadband’s network infrastructure against Denials of Service attacks and to prevent harmful elements such as viruses, spam and identity theft.
-Does this company practice net neutrality?
 
 No, this company does not practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, this company provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 GCI Broadband does not practice any techniques (other than reasonable network management elsewhere disclosed) that blocks or otherwise prevents end user access to lawful content, applications, service, or non-harmful devices, including a description of what is blocked.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, this company does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 I do not know.
-How does this company reduce their energy consumption?
 
 There is no specific information provided on how this company reduces their energy consumption. However, they do mention that they use energy-efficient equipment and practices to minimize their impact on the environment.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 This company employs traffic shaping, prioritization, and resource reservation to increase the efficiency of data transmission.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, this company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, this company supports open internet.
-How does this company achieve routing security?
 
 GCI Broadband employs certain practices to ensure the security of our customers and our right to protect our network. These include practices intended to protect GCI Broadband’s network infrastructure against Denials of Service attacks and to prevent harmful elements such as viruses, spam and identity theft.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No, this company does not employ source address validation.

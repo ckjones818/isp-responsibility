@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 ADT Systems, Inc. does not store or use any information from customers.
-What is this company’s policy on data breaches?
 
-ADT Systems, Inc. has a policy in place to protect customer information in the event of a data breach. This policy includes steps to take to prevent a data breach, as well as steps to take to mitigate the damage if a data breach does occur.
-What is this company's policy on collecting user data?
+ADT Systems, Inc. has a policy in place to protect customer information in the event of a data breach. This policy includes steps to take to prevent a data breach, as well as procedures to follow in the event that a data breach does occur.
 
 ADT Systems, Inc. does not store or use any information from customers.
-How does this company handle security issues?
 
 ADT Systems, Inc. employs industry standard firewall practices. Private IP addresses are required for network access.
-Does this company practice net neutrality?
 
 From the information provided, it appears that this company does practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, this company provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 ADT Systems, Inc. does not block or throttle any specific sites or content. Our firewalls may automatically block sites if harmful activities are detected. Customers may contact our technical support if they experience blocking to a site that they feel is in error.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, this company does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 I cannot find any information on whether or not ADT Systems, Inc. implements energy-aware technologies.
-How does this company reduce their energy consumption?
 
 ADT Systems, Inc. does not specifically mention any energy reduction practices on their website. However, as a company that provides fixed wireless internet service, they likely reduce their energy consumption in comparison to other types of internet service providers (ISPs) by using less energy-intensive equipment and using energy-efficient practices.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 This company employs traffic shaping, prioritization, and resource reservation to increase the efficiency of data transmission.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, this company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 From the information provided, it appears that this company does support the open internet.
-How does this company achieve routing security?
 
 There is no specific information on how ADT Systems, Inc. achieves routing security, but it is likely that they use industry-standard practices such as firewalls and private IP addresses.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 Yes, this company employs source address validation.

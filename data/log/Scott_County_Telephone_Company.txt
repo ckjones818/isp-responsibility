@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 Scott County Telephone Company does not collect, store or use traffic information to profile its customers in order to sell additional services to them, or for similar non-network management purposes. The Company retains and stores certain traffic information (such as the identity of the customer using a particular IP address during a specific period) for time periods required by federal or state law. Scott County retains, stores and provides to law enforcement any traffic information requested pursuant to the procedures of the Communications Assistance for Law Enforcement Act (
-What is this company’s policy on data breaches?
 
 Scott County Telephone Company’s policy on data breaches is to work with the customer, other service providers, federal and state regulators, and/or law enforcement to determine the source of such activity, and to take appropriate, and technically and economically reasonable efforts to address the matter.
-What is this company's policy on collecting user data?
 
 Scott County Telephone Company does not collect, store or use traffic information to profile its customers in order to sell additional services to them, or for similar non-network management purposes. The Company retains and stores certain traffic information (such as the identity of the customer using a particular IP address during a specific period) for time periods required by federal or state law. Scott County retains, stores and provides to law enforcement any traffic information requested pursuant to the procedures of the Communications Assistance for Law Enforcement Act (
-How does this company handle security issues?
 
 Scott County Telephone Company employs commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties. The Company does not guarantee that it can protect customers from any and/or all security breaches. The Company does not normally monitor the traffic of its customers, and undertakes no obligation to monitor or protect such customer traffic from spam, viruses, denial-of-service attacks, or other malicious, unlawful or unwanted activities. Customers can purchase spam filtering and anti-virus software
-Does this company practice net neutrality?
 
 No, Scott County Telephone Company does not practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, Scott County Telephone Company provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Scott County Telephone Company does not block or throttle lawful content, applications, services, or non-harmful devices, subject to reasonable network management. Scott County also does not prioritize certain internet traffic over other traffic, paid or otherwise.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, Scott County Telephone Company does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
-Scott County Telephone Company does not specifically mention energy-aware technologies on its website. However, the company does mention that it is committed to providing fast, reliable, and affordable broadband service. It is possible that the company uses energy-aware technologies in order to help meet these goals. If you have specific questions about the company's use of energy-aware technologies, you may want to contact customer service for more information.
-How does this company reduce their energy consumption?
+Scott County Telephone Company does not specifically mention energy-aware technologies on its website. However, the company does mention that it is committed to providing fast, reliable, and affordable broadband service. It is possible that the company uses energy-aware technologies in order to help meet these goals. For more information, customers can contact Scott County Telephone Company directly.
 
 Scott County Telephone Company does not specifically mention any energy reduction practices on their website. However, as a provider of wire line DSL service, they likely use some energy-efficient practices in order to reduce their overall energy consumption.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 The company employs a number of techniques to increase the efficiency of data transmission, including congestion management, application-specific behavior, and device attachment rules.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, Scott County Telephone Company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, Scott County Telephone Company supports the open internet. The company does not block or throttle lawful content, applications, services, or non-harmful devices, subject to reasonable network management. Scott County also does not prioritize certain internet traffic over other traffic, paid or otherwise.
-How does this company achieve routing security?
 
 Scott County Telephone Company employs commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties. The Company does not guarantee that it can protect customers from any and/or all security breaches. The Company does not normally monitor the traffic of its customers, and undertakes no obligation to monitor or protect such customer traffic from spam, viruses, denial-of-service attacks, or other malicious, unlawful or unwanted activities. Customers can purchase spam filtering and anti-virus software
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No, Scott County Telephone Company does not employ source address validation.

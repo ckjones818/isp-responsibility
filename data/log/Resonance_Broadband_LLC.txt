@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 Resonance Broadband does not share any data with any third party.
-What is this company’s policy on data breaches?
 
 This company does not have a specific policy on data breaches. However, they do have a privacy policy that is available upon request. This policy outlines how the company collects, uses, and discloses customer information.
-What is this company's policy on collecting user data?
 
 This company's policy on collecting user data is that they do not collect any user data.
-How does this company handle security issues?
 
 Resonance Broadband utilizes network firewalls to protect our network from malicious attacks on our network. Port scanning and DDOS attacks are examples of the type of activity that we mitigate.
-Does this company practice net neutrality?
 
 From what is disclosed in the document, it appears that this company does practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, this company provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Resonance Broadband does not block any lawful content on our network. Our customers are free to use our service to browse, stream, send email, etc. how they see fit, providing that in doing so does not violate any federal, state or local government laws.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, this company does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 I am not sure.
-How does this company reduce their energy consumption?
 
 There is no specific information in the document about how the company reduces their energy consumption. However, they do mention that they use radio frequency equipment to provide internet wirelessly, which presumably uses less energy than traditional wired internet service.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 This company employs a number of techniques to increase the efficiency of data transmission, including traffic shaping and congestion management.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, this company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, this company supports the open internet.
-How does this company achieve routing security?
 
 This company does not disclose how it achieves routing security.
-Does this company validate route announcements?
 
 This company does not validate route announcements.
-Does this company employ source address validation?
+
 
 This company does not employ source address validation.

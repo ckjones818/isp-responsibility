@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 Yellowstone Media Design does not intercept, retain or share subscribers' traffic content, except where required by law.
-What is this company’s policy on data breaches?
 
 Yellowstone Media Design does not intercept, retain or share subscribers' traffic content, except where required by law. Yellowstone Media Design may view TCP/IP connection data in order to assist subscribers with problems, and for network management purposes. Yellowstone Media Design does not retain connection data as a practice, and does not share this data. Yellowstone Media Design retains subscriber usage data and other network equipment metrics, for the purpose of network management and improving service quality. Yellowstone Media Design does not share this data.
-What is this company's policy on collecting user data?
 
 Yellowstone Media Design does not intercept, retain or share subscribers' traffic content, except where required by law. Yellowstone Media Design may view TCP/IP connection data in order to assist subscribers with problems, and for network management purposes. Yellowstone Media Design does not retain connection data as a practice, and does not share this data. Yellowstone Media Design retains subscriber usage data and other network equipment metrics, for the purpose of network management and improving service quality. Yellowstone Media Design does not share this data.
-How does this company handle security issues?
 
-Yellowstone Media Design takes security seriously and has implemented a number of measures to protect its subscribers' data. The company has a policy of blocking incoming traffic to ports 25 and 80, and NetBIOS services, to protect subscribers from exploitation. Subscribers may request to have this block removed, subject to a security audit by Yellowstone Media Design to ensure responsible use of these ports. To facilitate management of Yellowstone Media Design's network, the company may also block subscribers' incoming traffic on a few undisclosed
-Does this company practice net neutrality?
+Yellowstone Media Design takes security seriously and has implemented a number of measures to protect its subscribers. For example, the company blocks port 25 and 80 to prevent exploitation, and also blocks NetBIOS services. In addition, the company monitors for port scans and probes, and will block incoming traffic from any host that is found to be conducting these activities.
 
 No, this company does not practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 No, Yellowstone Media Design does not provide access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Yellowstone Media Design does not block accounts in good standing, excepting access to illegal content, or Application-Specific Behavior described below.
-Does this company block some traffic in order to create a faster routing experience?
 
 According to the company's transparency statement, Yellowstone Media Design may block some incoming traffic in order to protect subscribers from exploitation and to manage the company's network. Subscribers may request an exemption from this protection, which may be provided at Yellowstone Media Design's sole discretion.
-Does this company implement energy-aware technologies?
 
 No
-How does this company reduce their energy consumption?
 
 There is no specific information provided on how this company reduces their energy consumption. However, they do mention that they use solar panels and wind turbines to generate power, so it is likely that they take measures to reduce energy consumption in their facilities.
-What techniques does this company employ to increase the efficiency of data transmission?
 
-Yellowstone Media Design employs a number of techniques to increase the efficiency of data transmission, including blocking port 25 and 80, and NetBIOS services, and restricting incoming traffic to a few undisclosed ports.
-Does this company filter the network traffic based on its content, source, and destination?
+Yellowstone Media Design employs a number of techniques to increase the efficiency of data transmission, including blocking port 25 and 80, and NetBIOS services, and restricting incoming traffic to certain ports.
 
 No, this company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, Yellowstone Media Design supports the open internet.
-How does this company achieve routing security?
 
 Yellowstone Media Design does not share subscribers' traffic content or connection data, except where required by law. For network management purposes, Yellowstone Media Design may view TCP/IP connection data.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No

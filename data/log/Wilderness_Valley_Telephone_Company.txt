@@ -1,31 +1,21 @@
-What is this company’s policy on data sharing?
 
 The company does not share data with any third party.
-What is this company’s policy on data breaches?
 
 The company does not have a specific policy on data breaches, but it does have a general policy on security that includes protecting customer information from unauthorized access.
-What is this company's policy on collecting user data?
 
 The company does not collect, store or use traffic information to profile its customers in order to sell additional services to them, or for similar non-network management purposes.
-How does this company handle security issues?
 
 The company employs commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties. The company does not guarantee that it can protect customers from any and/or all security breaches.
-Does this company practice net neutrality?
 
 From the information provided, it appears that the company does practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 The company does not block any lawful content, applications, devices, and/or non-harmful devices.
-What is this company’s policy on net neutrality?
 
 The company does not block or rate-control specific protocols or protocol ports. The company does not modify protocol fields in ways that are not prescribed by the applicable protocol standards.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, the company does not block any traffic.
-Does this company implement energy-aware technologies?
 
 The company does not specifically mention energy-aware technologies, but it does mention that it is committed to providing the best possible broadband experience to all of its customers. It is possible that the company uses energy-aware technologies to help manage its network and provide the best possible service.
-How does this company reduce their energy consumption?
 
 The company has adopted the following practices to reduce their energy consumption:
 
@@ -37,22 +27,15 @@ The company has adopted the following practices to reduce their energy consumpti
 
 4. The company has adopted a policy of using recycled materials whenever possible.
 
-5. The company has adopted a policy of using renewable energy sources whenever possible.
-What techniques does this company employ to increase the efficiency of data transmission?
-
-The company employs a number of techniques to increase the efficiency of data transmission, including the use of compression, caching, and other methods.
-Does this company filter the network traffic based on its content, source, and destination?
+The company employs a number of techniques to increase the efficiency of data transmission, including monitoring the traffic of its customers, investing in adequate capacity and facilities within its own network, and acquiring sufficient Middle Mile capacity or facilities outside its service area to connect with the Internet.
 
 No, the company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, the company has adopted network management practices, performance characteristics, and commercial terms and conditions in compliance with the Federal Communications Commission’s (FCC’s) Open Internet Framework requirements.
-How does this company achieve routing security?
 
 The company does not specifically mention routing security in its network management practices, but it does say that it employs "commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties." It is likely that these security procedures include measures to secure the routing of traffic on the network.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No, this company does not employ source address validation.

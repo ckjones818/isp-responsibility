@@ -30,7 +30,7 @@ for txtfile in os.listdir(os.path.join("data", "text")):
           presence_penalty=0
         )
 
-        f.write(question)
+        # f.write(question)
         f.write(response.choices[0].text + "\n")
       except Exception as e:
         print(e)

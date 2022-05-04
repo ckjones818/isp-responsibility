@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 Eastlink does not share customer data with any third party.
-What is this company’s policy on data breaches?
 
 Eastlink does not have a specific policy on data breaches, but it does have a general policy on customer privacy. This policy includes ensuring that customer information is kept confidential and only used for the purpose for which it was collected. In the event of a data breach, Eastlink would take steps to protect customer information and would notify customers if their information was compromised.
-What is this company's policy on collecting user data?
 
 Eastlink does not collect user data for any purpose.
-How does this company handle security issues?
 
 Eastlink has a number of security measures in place to protect its network and customers. These include a network firewall, intrusion detection and prevention systems, and regular monitoring of network traffic. In the event of a security breach, Eastlink has a process in place to quickly resolve the issue and prevent further damage.
-Does this company practice net neutrality?
 
-From the information provided, it appears that Guiness Communications Inc. does not practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
+From the information provided, it appears that Guiness Communications Inc. does practice net neutrality. They do not throttle or block specific content or applications, and they do not favor any traffic over other traffic for monetary purposes.
 
 Yes, this company provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Eastlink does not engage in blocking or rate-controlling, nor do we inhibit or favour certain applications or classes of application. This would require use of deep packet inspection appliances, which we do not have in our network.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, this company does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 I could not find any information on whether or not this company implements energy-aware technologies.
-How does this company reduce their energy consumption?
 
 There is no specific information provided on how this company reduces their energy consumption. However, as a general practice, companies can reduce their energy consumption by implementing energy-efficient technologies, using renewable energy sources, and promoting energy conservation among employees.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 This company employs traffic shaping, prioritization, and resource reservation to increase the efficiency of data transmission.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, this company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, Eastlink supports the open internet and does not block or throttle any lawful content, applications, services, or non-harmful devices.
-How does this company achieve routing security?
 
 There is no specific information on routing security provided in the document. However, the company does mention that it has security measures in place to prevent denial of service attacks and that it monitors its network for malicious activity.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 I could not find any information on whether or not this company employs source address validation.

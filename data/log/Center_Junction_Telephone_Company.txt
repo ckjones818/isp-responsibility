@@ -1,34 +1,23 @@
-What is this company’s policy on data sharing?
 
 The company does not share data with any third party.
-What is this company’s policy on data breaches?
 
 The company does not have a specific policy on data breaches, but it does have a general policy on security and protecting customer information. The company states that it employs commercially appropriate security procedures to protect its network and customer records from unauthorized access by third parties. However, the company does not guarantee that it can protect customers from all security breaches.
-What is this company's policy on collecting user data?
 
 The company does not collect, store or use traffic information to profile its customers in order to sell additional services to them, or for similar non-network management purposes.
-How does this company handle security issues?
 
 The company employs commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties. The company does not guarantee that it can protect customers from any and/or all security breaches.
-Does this company practice net neutrality?
 
 The company does not block any lawful content, applications, devices, and/or non-harmful devices. The only potential exceptions where blocking may occur entail the unlawful or harmful circumstances set forth in Sections I.A through I.D above. The company does not knowingly and intentionally impair, degrade or delay the traffic on its network so as to render effectively unusable certain content, applications, services and/or non- harmful devices. However, the company notes that congestion may from time to time
-Does this company provide access to all sites, content, and applications at the same speed?
 
 The company does not block any lawful content, applications, devices, and/or non-harmful devices.
-What is this company’s policy on net neutrality?
 
 The company's policy on net neutrality is that it does not block or rate-control specific protocols or protocol ports, and does not modify protocol fields in ways that are not prescribed by the applicable protocol standards.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, the company does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 The company does not specifically mention energy-aware technologies, but it does mention that it is committed to providing the best possible broadband experience to all of its customers. It is possible that the company uses energy-aware technologies to help manage its network and improve customer service.
-How does this company reduce their energy consumption?
 
 The company has adopted the following network management practices, performance characteristics, and commercial terms and conditions for its broadband Internet access services in compliance with the Federal Communications Commission’s (“FCC’s) Open Internet Framework requirements (GN Docket No. 09-191, WC Docket No. 07- 52, and WC Docket 17-108). These practices, characteristics, terms and conditions are intended to help preserve the Internet as an open framework that enables consumer choice, freedom
-What techniques does this company employ to increase the efficiency of data transmission?
 
 The company employs a number of techniques to increase the efficiency of data transmission, including:
 
@@ -37,18 +26,14 @@ The company employs a number of techniques to increase the efficiency of data tr
 -Using multiplexing to combine multiple data streams into a single stream
 -Using error correction to detect and correct errors in data transmission
 -Using forward error correction to send extra data to the receiver to allow them to correct errors
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, the company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 The company's network management practices, performance characteristics, and commercial terms and conditions are designed to help preserve the Internet as an open framework that enables consumer choice, freedom of expression, end-user control, competition, and freedom to innovate without permission.
-How does this company achieve routing security?
 
 The company does not specifically mention routing security in its network management practices, but it does say that it employs "commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties." It is possible that routing security is included in these procedures, but this is not specifically stated.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 The company does not specifically mention source address validation, but it does state that it employs "commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties." It is likely that source address validation is included in these security procedures.

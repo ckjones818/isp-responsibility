@@ -1,54 +1,39 @@
-What is this company’s policy on data sharing?
 
 Laser Image, Inc. (Yourlinc Wireless) is committed to protecting the privacy of its customers and their data. Yourlinc Wireless does not sell, rent, or lease customer information to third parties. Yourlinc Wireless may, however, share customer information with its affiliates, suppliers, and agents in order to provide the Service or for other purposes described in this Policy.
-What is this company’s policy on data breaches?
 
 Laser Image, Inc. (hereafter referred to as Yourlinc Wireless) is committed to providing high-quality wireless Internet service for its customers. Yourlinc Wireless is also committed to being a responsible member of the Internet Community. Therefore, Yourlinc Wireless holds both itself and its customers to a high standard of accountability as set forth in this Acceptable Use Policy.
 
 Yourlinc Wireless’s Acceptable Use Policy outlines acceptable use of the Yourlinc Wireless Internet
-What is this company's policy on collecting user data?
 
 Laser Image, Inc. (hereafter referred to as yourlinc wireless) is committed to providing high-quality wireless Internet service for its customers. yourlinc wireless is also committed to being a responsible member of the Internet Community. Therefore, yourlinc wireless holds both itself and its customers to a high standard of accountability as set forth in this Acceptable Use Policy.
 
 Yourlinc wireless’s Acceptable Use Policy outlines acceptable use of the yourlinc wireless Internet
-How does this company handle security issues?
 
-The company has a strict policy against any illegal or unauthorized use of the Service, and takes measures to ensure that its customers' computers are secure from external threats such as viruses, spam, and other methods of intrusion. In the event that the company believes that any subscriber name, account name, or e-mail address is being used for any misleading, fraudulent, or other improper or illegal purpose, the company reserves the right to block access to and prevent the use of any such identifier.
-Does this company practice net neutrality?
+The company has a strict policy against any illegal or unauthorized use of the Service, and takes measures to ensure that its customers' computers are secure from external threats such as viruses, spam, and other methods of intrusion. If the company suspects that a customer is using the Service for any illegal or unauthorized purpose, it will take immediate action to terminate the customer's account.
 
 No, this company does not practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 No, this company does not provide access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Laser Image, Inc. (Yourlinc Wireless) is committed to providing high-quality wireless Internet service for its customers. Yourlinc Wireless is also committed to being a responsible member of the Internet Community. Therefore, Yourlinc Wireless holds both itself and its customers to a high standard of accountability as set forth in this Acceptable Use Policy.
 
 Yourlinc Wireless’s Acceptable Use Policy outlines acceptable use of the Yourlinc Wireless Internet service as well as permissible
-Does this company block some traffic in order to create a faster routing experience?
 
 Yes, this company blocks some traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 Laser Image, Inc. does not specifically mention energy-aware technologies on their website, but they do mention that their products are designed to be "energy efficient." It is possible that they use energy-aware technologies in their products, but this is not confirmed.
-How does this company reduce their energy consumption?
 
 There is no specific answer to this question since it can vary from company to company. Some ways that companies reduce their energy consumption include using energy-efficient appliances, using alternative energy sources, and implementing energy-saving policies.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 This company employs a number of techniques to increase the efficiency of data transmission, including compression, caching, and optimizing the network infrastructure.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, this company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 No
-How does this company achieve routing security?
 
-This company achieves routing security by ensuring that all customers and users of the Service comply with U.S. copyright and related laws. Accordingly, as noted above, you may not store any material or content on, or disseminate any material or content over, the Service (or any part of the Service) in any manner that constitutes an infringement of third party intellectual property rights, including rights granted by U.S. copyright law.
-Does this company validate route announcements?
+There is no one-size-fits-all answer to this question, as the best way to achieve routing security will vary depending on the specific company and its network infrastructure. However, some common methods of achieving routing security include the use of access control lists (ACLs), virtual private networks (VPNs), and firewalls.
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No, this company does not employ source address validation.

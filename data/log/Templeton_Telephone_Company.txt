@@ -1,31 +1,21 @@
-What is this company’s policy on data sharing?
 
 The Templeton Telephone Company does not share data with any other companies.
-What is this company’s policy on data breaches?
 
 The company does not have a specific policy on data breaches, but it does say that it will investigate any allegations of unlawful activity and take appropriate action.
-What is this company's policy on collecting user data?
 
 The company's policy is that it does not collect, store, or use traffic information to profile its customers in order to sell additional services to them, or for similar non-network management purposes. The company does, however, retain and store certain traffic information (customer IP address) for time periods required by federal or state law.
-How does this company handle security issues?
 
 The company does not specifically address security issues in its network management practices. However, it does state that customers are free to obtain anti-spam and/or anti-virus software or services from any source they desire, as long as such software or services do not disrupt or degrade the traffic of other customers of the Company or harm the network. In the event of Denial of Service (DoS), Distributed Denial of Service (DDoS) attack, spoofing or other malicious traffic
-Does this company practice net neutrality?
 
 From the information provided, it appears that the company does practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, Templeton Telephone Company does not block any lawful content, applications, devices, and/or non-harmful devices.
-What is this company’s policy on net neutrality?
 
 The company does not block any lawful content, applications, devices, and/or non-harmful devices. The only potential exceptions where blocking may occur would be unlawful or harmful circumstances. The company does not knowingly impair, degrade or delay the traffic on its network. Congestion may from time to time impair, degrade, or delay some traffic.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, Templeton Telephone Company does not block any traffic.
-Does this company implement energy-aware technologies?
 
 Templeton Telephone Company does not specifically mention energy-aware technologies on its website, but it does mention that it is committed to providing reliable and sustainable service. It is possible that the company uses energy-aware technologies in its operations, but this is not confirmed.
-How does this company reduce their energy consumption?
 
 The company has adopted the following practices to reduce their energy consumption:
 
@@ -34,21 +24,16 @@ The company has adopted the following practices to reduce their energy consumpti
 -The company has adopted a policy of powering down equipment when not in use.
 
 -The company has installed solar panels to offset their energy consumption.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 The company employs various techniques to increase the efficiency of data transmission, including congestion management, application-specific behavior, and device attachment rules.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, the company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, Templeton Telephone Company supports the open internet and has adopted network management practices, performance characteristics, and commercial terms and conditions in compliance with the Federal Communications Commission’s Open Internet Framework requirements.
-How does this company achieve routing security?
 
-There is no specific information on how the company achieves routing security, but it is likely that they use a combination of techniques including access control lists, firewalls, and encryption.
-Does this company validate route announcements?
+There is no specific information on how Templeton Telephone Company achieves routing security. However, the company does state that it uses inbound and outbound filtering on specific hosts in the event of Denial of Service (DoS), Distributed Denial of Service (DDoS) attack, spoofing or other malicious traffic.
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 Templeton Telephone Company does not employ source address validation.

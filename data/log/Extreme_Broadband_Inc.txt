@@ -1,54 +1,41 @@
-What is this company’s policy on data sharing?
 
 Extreme Broadband Inc. does not share customer data with any third party, except as necessary to provide the service, improve your use of the service, manage our network, or as otherwise required or authorized by law.
-What is this company’s policy on data breaches?
 
 Extreme Broadband Inc. has a policy in place to help protect customer information in the event of a data breach. This policy includes steps to help prevent data breaches from occurring, as well as steps to take if a data breach does occur. Extreme Broadband Inc. will notify customers as soon as possible if their information has been involved in a data breach.
-What is this company's policy on collecting user data?
 
 Extreme Broadband Inc. collects and stores information from many sources as it relates to providing and maintaining service to our customers. Individually identifiable customer information, including usage data obtained in our role as your broadband Internet access service provider is only used to provide the service, improve your use of the service, manage our network, or as otherwise required or authorized by law. We do not disclose individually identifiable broadband Internet access service customer or use information to third parties except: (i) as necessary to provide our
-How does this company handle security issues?
 
 Extreme Broadband Inc. takes security seriously and has a number of practices in place to ensure the security of its network and end users. These practices include network monitoring to identify potential viruses or threats to the network, and working with end users to resolve any issues that may arise.
-Does this company practice net neutrality?
 
 I am not sure.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, Extreme Broadband Inc. provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Extreme Broadband Inc. does not engage in any practice, other than reasonable network management disclosed herein, that blocks or otherwise prevents end user access to lawful content, applications, service, or non- harmful devices.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, Extreme Broadband Inc. does not block any traffic.
-Does this company implement energy-aware technologies?
 
 No, this company does not implement energy-aware technologies.
-How does this company reduce their energy consumption?
 
 This company does not specifically mention any energy reduction practices, but as a broadband internet service provider, they likely use energy-efficient equipment and practices to minimize their environmental impact.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 This company employs a variety of techniques to increase the efficiency of data transmission, including but not limited to:
 
--Using reasonable, nondiscriminatory, network management practices to improve overall network performance to ensure a high-quality online experience for all users.
+• Network monitoring
 
--Using various tools and techniques to manage our network, deliver our service, and ensure compliance with our Acceptable Use Policy and our Terms and Conditions of Service.
+• Use of third-party companies for certain network monitoring and management services
 
--Contracting with one or more third-party companies
-Does this company filter the network traffic based on its content, source, and destination?
+• Use of tools and techniques to manage the network and deliver service
+
+• Use of tools and techniques to ensure compliance with the company's Acceptable Use Policy and Terms and Conditions of Service
 
 No, Extreme Broadband Inc. does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, Extreme Broadband Inc. supports the open internet and does not block or throttle any lawful content, applications, services, or non-harmful devices.
-How does this company achieve routing security?
 
 This company achieves routing security through the use of network monitoring and management tools and techniques. These tools and techniques help to identify and prevent malicious traffic and the distribution of viruses or other harmful code.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No, Extreme Broadband Inc. does not employ source address validation.

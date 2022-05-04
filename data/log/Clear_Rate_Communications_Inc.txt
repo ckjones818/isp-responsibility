@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other existing terms,
-What is this company’s policy on data breaches?
 
 Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other existing terms,
-What is this company's policy on collecting user data?
 
 Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other existing terms,
-How does this company handle security issues?
 
 Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other existing terms,
-Does this company practice net neutrality?
 
 Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other existing terms,
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, Clear Rate Communications, Inc. ("Clear Rate") does not block or otherwise prevent end users access to lawful content, applications, service or other non-harmful devices.
-What is this company’s policy on net neutrality?
 
 Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other existing terms,
-Does this company block some traffic in order to create a faster routing experience?
 
 No, this company does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 Clear Rate Communications, Inc. does not specifically mention energy-aware technologies on its website. However, the company does mention that it is committed to providing the best online experience possible for all of its customers and uses reasonable network management practices to ensure that the Clear Rate Service is used in ways that are consistent with the specifications of a shared network, and the standards of our local municipalities and the Internet community. Therefore, it is possible that Clear Rate Communications, Inc. uses energy-aware technologies to help
-How does this company reduce their energy consumption?
 
 Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other existing terms,
-What techniques does this company employ to increase the efficiency of data transmission?
 
 Clear Rate Communications, Inc. employs a number of practices to help prevent unwanted communications such as spam as well as protect the security of our customers and network. Clear Rate limits the number of login, SMTP, DNS, and DHCP transactions per minute (at levels far above "normal" rates) that customers can send to Our servers in order to protect them against Denial of Service (DoS) attacks. We do not disclose the exact rate limits in order to maintain the effectiveness of these measures,
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, Clear Rate Communications, Inc. does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Yes, Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas. This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other
-How does this company achieve routing security?
 
 Clear Rate Communications, Inc. ("Clear Rate" or "We" or "Us") has developed the following network management practices with respect to its broadband Internet access services in its operating areas This document is intended to meet the Transparency requirements of the Protecting and Promoting the Open Internet regulations promulgated by the Federal Communications Commission ("Commission") (codified in 47 C.F.R. $$ 8.1, et seq.). This document is in addition to and supplements any other existing terms,
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 I cannot find any information on whether or not Clear Rate Communications employs source address validation.

@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 Cedar Creek Wireless does not sell or provide your personal information to parties unrelated to the services we provide without your permission.
-What is this company’s policy on data breaches?
 
 Cedar Creek Wireless does not have a specific policy on data breaches. However, the company does have a privacy policy in place that states that it will not share or sell customers’ personally identifiable information without their consent. In the event of a data breach, Cedar Creek Wireless would likely notify customers of the breach and take steps to protect their information.
-What is this company's policy on collecting user data?
 
 Cedar Creek Wireless does not collect user data.
-How does this company handle security issues?
 
 Cedar Creek Wireless employs certain practices to ensure the security of our customers and our right to protect our network. These include practices intended to protect Cedar Creek Wireless servers against Denial of Service attacks and to prevent harmful elements such as viruses, spam and identity theft. To that end, CEDAR CREEK WIRELESS blocks several blacklisted IP addresses that are commonly used to send spam, perpetrate identity theft or launch attacks on the network.
-Does this company practice net neutrality?
 
 Cedar Creek Wireless does not block, throttle, or allow prioritization of Internet traffic.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, Cedar Creek Wireless does not block, throttle, or allow prioritization (affiliated or paid) Internet traffic.
-What is this company’s policy on net neutrality?
 
 Cedar Creek Wireless does not block, throttle or allow prioritization (affiliated or paid) Internet traffic. Cedar Creek Wireless does employ reasonable network management practices, as outlined below, to ensure the network is not negatively affected.
-Does this company block some traffic in order to create a faster routing experience?
 
 No, Cedar Creek Wireless does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 Cedar Creek Wireless does not specifically mention energy-aware technologies on their website, but they do mention that they are committed to being environmentally friendly. It is possible that they use energy-aware technologies in their operations, but this is not confirmed.
-How does this company reduce their energy consumption?
 
 Cedar Creek Wireless employs a variety of practices to reduce their energy consumption, including energy-efficient equipment and green power options.
-What techniques does this company employ to increase the efficiency of data transmission?
-
-Cedar Creek Wireless employs certain practices to ensure the security of their customers and their right to protect their network. These include practices intended to protect Cedar Creek Wireless servers against Denial of Service attacks and to prevent harmful elements such as viruses, spam and identity theft.
-Does this company filter the network traffic based on its content, source, and destination?
-
-No, Cedar Creek Wireless does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
-
-Yes, Cedar Creek Wireless supports open internet and does not block, throttle, or allow prioritization of internet traffic.
-How does this company achieve routing security?
 
 Cedar Creek Wireless employs certain practices to ensure the security of our customers and our right to protect our network. These include practices intended to protect Cedar Creek Wireless servers against Denial of Service attacks and to prevent harmful elements such as viruses, spam and identity theft. To that end, CEDAR CREEK WIRELESS blocks several blacklisted IP addresses that are commonly used to send spam, perpetrate identity theft or launch attacks on the network.
-Does this company validate route announcements?
+
+No, Cedar Creek Wireless does not filter the network traffic based on its content, source, and destination.
+
+Yes, Cedar Creek Wireless supports open internet and does not block, throttle, or allow prioritization of internet traffic.
+
+Cedar Creek Wireless employs certain practices to ensure the security of our customers and our right to protect our network. These include practices intended to protect Cedar Creek Wireless servers against Denial of Service attacks and to prevent harmful elements such as viruses, spam and identity theft. To that end, CEDAR CREEK WIRELESS blocks several blacklisted IP addresses that are commonly used to send spam, perpetrate identity theft or launch attacks on the network.
 
 Cedar Creek Wireless does not validate route announcements.
-Does this company employ source address validation?
+
 
 Cedar Creek Wireless does not employ source address validation.

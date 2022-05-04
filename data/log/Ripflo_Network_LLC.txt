@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 Ripflo Network, LLC does not share data with any other companies.
-What is this company’s policy on data breaches?
 
 Ripflo Network, LLC does not have a specific policy on data breaches. However, the company takes reasonable security measures to protect customer information.
-What is this company's policy on collecting user data?
 
 Ripflo Network, LLC does not collect user data.
-How does this company handle security issues?
 
 Ripflo Network, LLC has security measures in place to protect its customers' information. The company does not block or rate-control specific protocols or protocol ports, modify protocol fields in ways not prescribed by the protocol standard, or otherwise inhibit or favor certain applications or classes of applications. There are no approval procedures for end user devices to connect to the Ripflo network.
-Does this company practice net neutrality?
 
 From the information provided, it appears that Ripflo Network, LLC does practice net neutrality. They do not block or rate-control specific protocols or protocol ports, modify protocol fields in ways not prescribed by the protocol standard, or otherwise inhibit or favor certain applications or classes of applications.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, Ripflo Network, LLC provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Ripflo Network, LLC does not block or otherwise prevent end user access to lawful content, applications, service, or non-harmful devices. They do not degrade or impair access to lawful Internet traffic on the basis of content, application, service, user, or use of a non-harmful device. They do not prioritize directly or indirectly to favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, to benefit an affiliate
-Does this company block some traffic in order to create a faster routing experience?
 
 No, Ripflo Network, LLC does not block or rate-control specific protocols or protocol ports, modify protocol fields in ways not prescribed by the protocol standard, or otherwise inhibit or favor certain applications or classes of applications.
-Does this company implement energy-aware technologies?
 
 Ripflo Network, LLC does not specifically mention energy-aware technologies in its service disclosure. However, the company does mention that it offers fixed wireless internet service with speeds from 1Mbps up to 6Mbps download and 1MBPS up to 3MBPS upload. This suggests that the company is using some form of energy-efficient technology in order to provide its service.
-How does this company reduce their energy consumption?
 
 Ripflo Network, LLC does not specifically mention any energy reduction measures on their website. However, as a fixed wireless internet service provider, they likely use energy-efficient equipment and practices to minimize their environmental impact.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 This company employs traffic shaping, prioritization, and resource reservation to increase the efficiency of data transmission.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, Ripflo Network, LLC does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 From the information provided, it appears that Ripflo Network, LLC does support the open internet.
-How does this company achieve routing security?
 
 There is no mention of routing security specifically, but the company does say that they have "normal and reasonable security measures within the network." It is possible that routing security is included in these measures, but it is not specifically mentioned.
-Does this company validate route announcements?
 
 Ripflo Network, LLC does not validate route announcements.
-Does this company employ source address validation?
+
 
 From what is disclosed in the document, it does not appear that Ripflo Network, LLC employs source address validation.

@@ -1,52 +1,37 @@
-What is this company’s policy on data sharing?
 
 RGT (Reigning race Technologies) does not share any data with any other companies.
-What is this company’s policy on data breaches?
 
 This company does not have a specific policy on data breaches, but it does have a general policy on protecting customer information. This policy includes steps to take in the event of a data breach, such as notifying customers and taking steps to prevent future breaches.
-What is this company's policy on collecting user data?
 
 RGT does not collect user data.
-How does this company handle security issues?
 
 Willie Smith FRN#0027153535 DBA as RGT (Reigning race Technologies) takes security seriously and has implemented a number of measures to protect its customers' data. These measures include firewalls, encryption, and authentication.
-Does this company practice net neutrality?
 
 There is no information available on whether or not this company practices net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 No
-What is this company’s policy on net neutrality?
 
-RGT (Reigning race Technologies) is committed to providing an open and accessible internet experience for all of our customers. We do not support or condone any type of discrimination when it comes to internet traffic, and we believe that all internet users should have equal access to the content and applications they choose.
-Does this company block some traffic in order to create a faster routing experience?
+RGT (Reigning race Technologies) is committed to providing an open and accessible internet experience for all of our customers. We do not support or condone any type of discrimination when it comes to internet traffic, and we believe that all internet users should have equal access to the content and applications of their choosing.
 
 No
-Does this company implement energy-aware technologies?
 
 Willie Smith FRN#0027153535 DBA as RGT (Reigning race Technologies) Type of Services Fixed Wireless Rural broadband services Effective 10/1/2019 First time submission
 
 No
-How does this company reduce their energy consumption?
 
 This company reduces their energy consumption by using fixed wireless rural broadband services. This allows them to use less energy overall, which reduces their carbon footprint and helps to protect the environment.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 There is no one-size-fits-all answer to this question, as the techniques employed by RGT to increase the efficiency of data transmission will vary depending on the specific needs of the company and the nature of the data being transmitted. However, some common techniques that may be used include compression, error correction, and multiplexing.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No
-Does this company support open internet?
 
 Willie Smith FRN#0027153535 DBA as RGT (Reigning race Technologies) Type of Services Fixed Wireless Rural broadband services Effective 10/1/2019 First time submission
 
 No
-How does this company achieve routing security?
 
 There is no one-size-fits-all answer to this question, as the best way to achieve routing security will vary depending on the specific company and its network infrastructure. However, some common methods of achieving routing security include encrypting data transmissions, using secure protocols such as Secure Sockets Layer (SSL) or Transport Layer Security (TLS), and implementing firewalls and intrusion detection/prevention systems.
-Does this company validate route announcements?
 
 No
-Does this company employ source address validation?
+
 
 Yes

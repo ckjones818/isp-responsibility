@@ -1,34 +1,23 @@
-What is this company’s policy on data sharing?
 
 Stoneham Cooperative Telephone Corporation does not sell or reveal your data to any third parties. Stoneham Cooperative Telephone Corporation may provide any of your data, both on an active, real time basis and stored data such as your billing records, to law enforcement under appropriate legal orders if law enforcement requests your information in matters dealing with illegal acts or a threat to life, property, or national security.
-What is this company’s policy on data breaches?
 
 Stoneham Cooperative Telephone Corporation has a policy in place to protect customer information in the event of a data breach. This policy includes steps to take to prevent a data breach, as well as steps to take in the event that a data breach does occur.
-What is this company's policy on collecting user data?
 
 Stoneham Cooperative Telephone Corporation does not sell or reveal your data to any third parties. Stoneham Cooperative Telephone Corporation may provide any of your data, both on an active, real time basis and stored data such as your billing records, to law enforcement under appropriate legal orders if law enforcement requests your information in matters dealing with illegal acts or a threat to life, property, or national security.
-How does this company handle security issues?
 
 Stoneham Cooperative Telephone Corporation uses the latest industry-best-practices to maintain integrity and security of its network. This may include security protections that interfere with some types of customer traffic. If you believe your services are being disrupted by our security systems, please contact us at 970-735-2251.
-Does this company practice net neutrality?
 
 From the disclosures above, it appears that Stoneham Cooperative Telephone Corporation does not practice paid prioritization, throttling, or blocking of any legal content, applications, services, or devices.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 No, this company does not provide access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Stoneham Cooperative Telephone Corporation does not practice directly or indirectly any prioritization of traffic that favors some traffic over other traffic, whether it is to an affiliated company or to any other customer in exchange for consideration, money, or otherwise. Due to limited bandwidth capacity on an upstream basis (customer to Internet), service is provided equally to all customers, protocols, and sources or destinations on the Internet such as websites, e- mail servers, etc. Service is not prioritized by customer or source or
-Does this company block some traffic in order to create a faster routing experience?
 
 No, Stoneham Cooperative Telephone Corporation does not block any traffic.
-Does this company implement energy-aware technologies?
 
 I could not find any information on whether or not Stoneham Cooperative Telephone Corporation implements energy-aware technologies.
-How does this company reduce their energy consumption?
 
 There is no specific information provided on how Stoneham Cooperative Telephone Corporation reduces their energy consumption. However, they do mention that they use the latest industry-best-practices to maintain integrity and security of their network. This may include energy-saving protections that interfere with some types of customer traffic. If you believe your services are being disrupted by their security systems, you can contact them at 970-735-2251.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 This company employs a variety of techniques to increase the efficiency of data transmission, including:
 
@@ -37,18 +26,14 @@ This company employs a variety of techniques to increase the efficiency of data 
 -Inspecting packets of data to allow for routing and prioritization
 
 -Striving to make the total nominal bandwidth available for customers to use within the company's network
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, Stoneham Cooperative Telephone Corporation does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 No, Stoneham Cooperative Telephone Corporation does not support open internet.
-How does this company achieve routing security?
 
 Stoneham Cooperative Telephone Corporation uses the latest industry-best-practices to maintain integrity and security of its network. This may include security protections that interfere with some types of customer traffic. If you believe your services are being disrupted by our security systems, please contact us at 970-735-2251.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No, Stoneham Cooperative Telephone Corporation does not employ source address validation.

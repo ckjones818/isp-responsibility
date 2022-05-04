@@ -1,31 +1,21 @@
-What is this company’s policy on data sharing?
 
 The company does not share data with any third party.
-What is this company’s policy on data breaches?
 
 The company does not have a specific policy on data breaches, but it does have a general policy on security that includes protecting customer information from unauthorized access.
-What is this company's policy on collecting user data?
 
 The company's policy is that it does not collect user data.
-How does this company handle security issues?
 
 The company employs commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties. The company does not guarantee that it can protect customers from any and/or all security breaches.
-Does this company practice net neutrality?
 
 From the information provided, it appears that the company does practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 The company does not block any lawful content, applications, devices, and/or non-harmful devices.
-What is this company’s policy on net neutrality?
 
 The company's policy on net neutrality is that it does not block or rate-control specific protocols or protocol ports, and does not modify protocol fields in ways that are not prescribed by the applicable protocol standards.
-Does this company block some traffic in order to create a faster routing experience?
 
 The company does not block any lawful content, applications, devices, and/or non-harmful devices. The only potential exceptions where blocking may occur entail the unlawful or harmful circumstances set forth in Sections I.A through I.D above. The company believes that all such circumstances constitute reasonable network management practices.
-Does this company implement energy-aware technologies?
 
 The company does not specifically mention energy-aware technologies, but it does mention that it is committed to providing the best possible broadband experience to all of its customers. It is possible that the company uses energy-aware technologies to help manage its network and improve customer service.
-How does this company reduce their energy consumption?
 
 The company has a variety of practices in place to reduce their energy consumption. These practices include:
 
@@ -34,21 +24,16 @@ The company has a variety of practices in place to reduce their energy consumpti
 -Using energy-efficient lighting
 -Using energy-efficient heating and cooling systems
 -Educating employees and customers about energy conservation
-What techniques does this company employ to increase the efficiency of data transmission?
 
 The company employs a number of techniques to increase the efficiency of data transmission, including the use of compression, caching, and other methods.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, the company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 The company's network management practices, performance characteristics, and commercial terms and conditions are designed to help preserve the Internet as an open framework that enables consumer choice, freedom of expression, end-user control, competition, and freedom to innovate without permission.
-How does this company achieve routing security?
 
 The company does not specifically mention routing security in its network management practices, but it does say that it employs "commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties." It is possible that routing security is included in these procedures, but this is not specifically stated.
-Does this company validate route announcements?
 
 No, this company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No, this company does not employ source address validation.

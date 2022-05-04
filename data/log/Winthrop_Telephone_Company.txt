@@ -1,48 +1,33 @@
-What is this company’s policy on data sharing?
 
 The Company does not share data with any third party.
-What is this company’s policy on data breaches?
 
 The company does not have a specific policy on data breaches, but it does have a general policy on security and protecting customer information. The company states that it employs commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties. The company does not guarantee that it can protect customers from any and/or all security breaches.
-What is this company's policy on collecting user data?
 
 The company's policy is that it does not collect user data for the purpose of selling additional services to them, or for similar non-network management purposes.
-How does this company handle security issues?
 
 The company employs commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties. The company does not guarantee that it can protect customers from any and/or all security breaches.
-Does this company practice net neutrality?
 
 From the information provided, it appears that the company does practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 The Company does not block any lawful content, applications, devices, and/or non-harmful devices.
-What is this company’s policy on net neutrality?
 
 The company does not block or rate-control specific protocols or protocol ports. The company does not modify protocol fields in ways that are not prescribed by the applicable protocol standards.
-Does this company block some traffic in order to create a faster routing experience?
 
 The company does not block any lawful content, applications, devices, and/or non-harmful devices. The only potential exceptions where blocking may occur entail the unlawful or harmful circumstances set forth in Sections I.A through I.D above. The company notes that congestion may from time to time impair, degrade, or delay some traffic.
-Does this company implement energy-aware technologies?
 
 Winthrop Telephone Company does not specifically mention energy-aware technologies on its website, and it is unclear if the company implements such technologies. However, the company does mention that it is committed to providing reliable and affordable service to its customers, which may suggest that it takes measures to reduce its energy consumption.
-How does this company reduce their energy consumption?
 
 The company has adopted the following network management practices, performance characteristics, and commercial terms and conditions for its broadband Internet access services the Federal Communications Commission’s (“FCC’s) Open Internet Framework requirements (GN Docket No. 09-191 and WC Docket No. 07-52). These practices, characteristics, terms and conditions are intended to help preserve the Internet as an open framework that enables consumer choice, freedom of expression, end-user control, competition, and
-What techniques does this company employ to increase the efficiency of data transmission?
 
 The company employs a number of techniques to increase the efficiency of data transmission, including compression, caching, and prioritization.
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, the company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 The company's network management practices, performance characteristics, and commercial terms and conditions for its broadband Internet access services are designed to comply with the Federal Communications Commission's (FCC's) Open Internet Framework requirements.
-How does this company achieve routing security?
 
 The company does not specifically mention routing security in its network management practices, but it does say that it employs "commercially appropriate security procedures to protect its network and its customer records from unauthorized access by third parties." It also says that it will work with customers and law enforcement to investigate and address any malicious activity on its network.
-Does this company validate route announcements?
 
 Winthrop Telephone Company does not validate route announcements.
-Does this company employ source address validation?
+
 
 No, this company does not employ source address validation.

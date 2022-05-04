@@ -1,47 +1,32 @@
-What is this company’s policy on data sharing?
 
 The company's policy on data sharing is that it will only share data with third parties if it is necessary to do so in order to provide the services requested by the customer. The company will not sell or share data with third parties for marketing purposes.
-What is this company’s policy on data breaches?
 
 The company's policy on data breaches is to notify all affected individuals as soon as possible and to take steps to prevent future breaches.
-What is this company's policy on collecting user data?
 
 The company's policy on collecting user data is not clear.
-How does this company handle security issues?
 
 The company has a security team that is responsible for investigating and addressing security issues.
-Does this company practice net neutrality?
 
 I cannot find a definitive answer to this question.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, this company provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 The company's policy on net neutrality is not clear.
-Does this company block some traffic in order to create a faster routing experience?
 
-Does this company implement energy-aware technologies?
 
 The company does not explicitly mention energy-aware technologies on its website, but it does say that its products are designed to be "energy efficient." It is possible that the company implements energy-aware technologies in its products, but this is not confirmed.
-How does this company reduce their energy consumption?
 
 This company reduces their energy consumption by using solar panels and wind turbines.
-What techniques does this company employ to increase the efficiency of data transmission?
 
 The company employs a number of techniques to increase the efficiency of data transmission, including data compression, error correction, and data encryption.
-Does this company filter the network traffic based on its content, source, and destination?
 
 The company does not filter the network traffic.
-Does this company support open internet?
 
 The company does not explicitly state whether it supports open internet, but it does say that it is "committed to providing customers with a great experience."
-How does this company achieve routing security?
 
-This company achieves routing security by using a combination of hardware and software to protect their network. They use routers with built-in security features to protect against attacks, and they also have a software-based firewall that helps to keep their network safe.
-Does this company validate route announcements?
+This company achieves routing security by using a combination of hardware and software to protect their network. They use routers with built-in security features to protect against attacks, and they also have a software-based firewall that helps to protect against unauthorized access.
 
 This company does not appear to validate route announcements.
-Does this company employ source address validation?
+
 
 The company does not appear to employ source address validation.

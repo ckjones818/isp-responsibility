@@ -1,31 +1,21 @@
-What is this company’s policy on data sharing?
 
 Superior iNET does not sell or share customer data with any third party.
-What is this company’s policy on data breaches?
 
 Superior iNET does not have a specific policy on data breaches, but we take the security of our customers’ information very seriously. In the event of a data breach, we would work quickly to contain the breach and notify affected customers.
-What is this company's policy on collecting user data?
 
 Superior iNET does not collect user data.
-How does this company handle security issues?
 
 Superior iNET has a dedicated team of security professionals who work around the clock to ensure that our network and systems are secure. In the event of a security breach, we will take all necessary steps to mitigate the damage and protect our customers' data.
-Does this company practice net neutrality?
 
 Superior iNET does not practice net neutrality.
-Does this company provide access to all sites, content, and applications at the same speed?
 
 Yes, this company provides access to all sites, content, and applications at the same speed.
-What is this company’s policy on net neutrality?
 
 Superior iNET does not block, throttle, or discriminate against lawful content.
-Does this company block some traffic in order to create a faster routing experience?
 
 Superior iNET does not block any traffic in order to create a faster routing experience.
-Does this company implement energy-aware technologies?
 
 Superior iNET does not specifically mention energy-aware technologies in its disclosure, but it does mention that it is committed to providing "reliable, affordable and sustainable" services. It is possible that the company uses energy-aware technologies in order to meet these goals, but this is not confirmed.
-How does this company reduce their energy consumption?
 
 Superior iNET strives to reduce its energy consumption in a variety of ways, including:
 
@@ -34,25 +24,20 @@ Superior iNET strives to reduce its energy consumption in a variety of ways, inc
 -Utilizing renewable energy sources
 
 -Educating employees and customers about energy conservation
-What techniques does this company employ to increase the efficiency of data transmission?
 
 Superior iNET employs a variety of techniques to increase the efficiency of data transmission, including:
 
 -Using high-quality equipment that is designed for efficient data transmission
 -Working with experienced and knowledgeable staff who are familiar with the latest data transmission technologies
 -Continuously testing and improving our data transmission infrastructure to ensure that it is as efficient as possible
-Does this company filter the network traffic based on its content, source, and destination?
 
 No, this company does not filter the network traffic based on its content, source, and destination.
-Does this company support open internet?
 
 Superior iNET does not explicitly state whether or not they support open internet, but they do disclose their network management practices in their disclosure filing.
-How does this company achieve routing security?
 
 Superior iNET achieves routing security through the use of industry-standard encryption protocols. All data passing through the network is encrypted, making it difficult for unauthorized individuals to access or tamper with the data. In addition, the company employs a number of security measures to protect the network from attack, including firewalls and intrusion detection systems.
-Does this company validate route announcements?
 
 Superior iNET does not validate route announcements.
-Does this company employ source address validation?
+
 
 Yes, Superior iNET employs source address validation.
