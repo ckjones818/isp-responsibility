@@ -1,16 +1,3 @@
 
 
-Category 1: Data Security
-3: Insufficient regard for users' data security
-
-Category 2: Net Neutrality
-3: Impartiality towards net neutrality
-
-Category 3: Environmental Stewardship
-3: Insufficient environmental stewardship
-
-Category 4: Censorship
-3: No position on censorship
-
-Category 5: Routing Security
-3: Moderate precautions taken for routing security
+Based on the information provided, I cannot determine whether or not Clear Rate Communications, Inc. uses secure data practices. However, the company does mention that it is committed to providing the best online experience possible for all of its customers and uses reasonable network management practices to ensure that the Clear Rate Service is used in ways that are consistent with the specifications of a shared network, and the standards of our local municipalities and the Internet community. Therefore, it is possible that Clear Rate Communications, Inc. uses

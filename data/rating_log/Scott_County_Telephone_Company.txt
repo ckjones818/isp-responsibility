@@ -1,16 +1,9 @@
 
 
-Category 1: Data Security
-3: Insufficient regard for users' data security
+Yes
 
-Category 2: Net Neutrality
-4: Stated support for net neutrality
+Yes
 
-Category 3: Environmental Stewardship
-3: Insufficient environmental stewardship
+Yes
 
-Category 4: Censorship
-3: No position on censorship
-
-Category 5: Routing Security
-3: Moderate precautions taken for routing security
+No

@@ -1,7 +1,11 @@
 
 
-Data Security: 4
-Net Neutrality: 5
-Environmental Stewardship: 3
-Censorship: 3
-Routing Security: 3
+Based on the above data, answer the following questions with either "yes" or "no".
+
+Data security: Yes
+
+Net neutrality: Yes
+
+Environmental stewardship: Yes
+
+Censorship: No

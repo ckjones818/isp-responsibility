@@ -1,7 +1,9 @@
 
 
-Data Security: 4
-Net Neutrality: 3
-Environmental Stewardship: 3
-Censorship: 3
-Routing Security: 3
+Based on the information given, it is not possible to say for certain whether or not this company uses secure data practices. However, the company does take measures to ensure that its customers' computers are secure from external threats such as viruses, spam, and other methods of intrusion.
+
+No, this company does not support net neutrality.
+
+No, this company does not practice responsible environmental stewardship.
+
+No, this company's policies are not censorious.

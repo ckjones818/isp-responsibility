@@ -1,38 +1,11 @@
-Here are 5 categories for evaluating an ISPs' social responsibility. An ISP can be ranked from 1 to 5 in each category based on the following criteria.
+Based on the above data, answer the following questions with either "yes" or "no".
 
-Category 1: Data Security
-1: Complete disregard for users' data security
-2: Frequent disregard for users' data security
-3: Insufficient regard for users' data security
-4: Concern for users' data security
-5: Complete assurance of users' data security
+Data security: Does this company use secure data practices?
 
-Category 2: Net Neutrality
-1: Explicit hostility to net neutrality
-2: Opposition to net neutrality
-3: Impartiality towards net neutrality
-4: Stated support for net neutrality
-5: Stated and substantive support for net neutrality
+Net neutrality: Does this company's policies support net neutrality?
 
-Category 3: Environmental Stewardship
-1: Environmentally harmful policies
-2: No mention of environmental stewardship
-3: Insufficient environmental stewardship
-4: Sufficient environmental stewardship
-5: Exemplary environmental stewardship
+Environmental stewardship: Does this company practice responsible environmental stewardship?
 
-Category 4: Censorship
-1: Intentionally censorious policies
-2: Policies resulting in censorship, intentional or otherwise
-3: No position on censorship
-4: Policies non-conducive to censorship
-5: Intentionally anti-censorious policies
+Censorship: Are this company's policies anti-censorious?
 
-Category 5: Routing Security
-1: No precautions taken for routing security
-2: Minimal precautions taken for routing security
-3: Moderate precautions taken for routing security
-4: Good precautions taken for routing security
-5: Exemplary precautions taken for routing security
-
-Assign a numerical ranking to the company in each of these categories according to the criteria above.
+Routing Security Practice: Does this company practice responsible routing security?

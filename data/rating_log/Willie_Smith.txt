@@ -1,7 +1,9 @@
 
 
-Data Security: 4
-Net Neutrality: 4
-Environmental Stewardship: 4
-Censorship: 4
-Routing Security: 4
+Yes
+
+Yes
+
+Yes
+
+No

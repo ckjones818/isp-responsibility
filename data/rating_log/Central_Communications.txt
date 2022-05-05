@@ -1,7 +1,9 @@
 
 
-Data Security: 4
-Net Neutrality: 5
-Environmental Stewardship: 4
-Censorship: 3
-Routing Security: 4
+Routing security: Does this company have routing security policies in place?
+
+Yes
+Yes
+Yes
+No
+Yes
