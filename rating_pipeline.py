@@ -9,6 +9,7 @@ openai.api_key = config('OPEN_AI')
 with open("rating_prompt.txt") as file:
     rating_prompt = file.read()
 
+
 for txtfile in os.listdir(os.path.join("data", "log")):
     print("Starting: {}".format(txtfile))
     with open(os.path.join("data", "log", txtfile)) as file:
