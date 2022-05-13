@@ -31,7 +31,11 @@ python scraper.py
 ```
 python text_parser.py
 ```
-- gpt_protocol.py: initialize gpt3 to be used on the command line
+- rating_pipeline.py: parses text files and answers questions in questions.txt with GPT's API
 ```
-python gpt_protocol.py
+python rating_pipeline.py
+```
+- answer_pipeline.py: parses answers from rating_pipeline.py and answers questions in rating_prompt.txt with GPT's API
+```
+python answer_pipeline.py
 ```
