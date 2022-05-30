@@ -1,5 +1,7 @@
 # Computer Network Project: Diverting in Socially (Ir)responsible ISP
 
+Final Publication Artifact: https://docs.google.com/document/d/1GvsGTeLyuy8OWV8tfBA9YP4aLPyZyUCXU_mntvX3t4w/edit?usp=sharing
+
 ## Requirements:
 - Python >3.6
 
